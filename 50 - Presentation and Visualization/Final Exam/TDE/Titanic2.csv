@@ -1,0 +1,1308 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Latitude,Longitude,Age_Bin,Pclass_int
+1,Not Survived,Class 3,Braund. Mr. Owen Harris,male,22,1,0,A/5 21171,7.25,,Southampton,50.909698,-1.404351,20,3
+2,Survived,Class 1,Cumings. Mrs. John Bradley (Florence Briggs Thayer),female,38,1,0,PC 17599,71.2833,C85,Cherbourg,49.639,-1.625,30,1
+3,Survived,Class 3,Heikkinen. Miss. Laina,female,26,0,0,STON/O2. 3101282,7.925,,Southampton,50.909698,-1.404351,20,3
+4,Survived,Class 1,Futrelle. Mrs. Jacques Heath (Lily May Peel),female,35,1,0,113803,53.1,C123,Southampton,50.909698,-1.404351,30,1
+5,Not Survived,Class 3,Allen. Mr. William Henry,male,35,0,0,373450,8.05,,Southampton,50.909698,-1.404351,30,3
+6,Not Survived,Class 3,Moran. Mr. James,male,,0,0,330877,8.4583,,Queenstown,51.851,-8.2967,-1,3
+7,Not Survived,Class 1,McCarthy. Mr. Timothy J,male,54,0,0,17463,51.8625,E46,Southampton,50.909698,-1.404351,50,1
+8,Not Survived,Class 3,Palsson. Master. Gosta Leonard,male,2,3,1,349909,21.075,,Southampton,50.909698,-1.404351,0,3
+9,Survived,Class 3,Johnson. Mrs. Oscar W (Elisabeth Vilhelmina Berg),female,27,0,2,347742,11.1333,,Southampton,50.909698,-1.404351,20,3
+10,Survived,Class 2,Nasser. Mrs. Nicholas (Adele Achem),female,14,1,0,237736,30.0708,,Cherbourg,49.639,-1.625,10,2
+11,Survived,Class 3,Sandstrom. Miss. Marguerite Rut,female,4,1,1,PP 9549,16.7,G6,Southampton,50.909698,-1.404351,0,3
+12,Survived,Class 1,Bonnell. Miss. Elizabeth,female,58,0,0,113783,26.55,C103,Southampton,50.909698,-1.404351,50,1
+13,Not Survived,Class 3,Saundercock. Mr. William Henry,male,20,0,0,A/5. 2151,8.05,,Southampton,50.909698,-1.404351,20,3
+14,Not Survived,Class 3,Andersson. Mr. Anders Johan,male,39,1,5,347082,31.275,,Southampton,50.909698,-1.404351,30,3
+15,Not Survived,Class 3,Vestrom. Miss. Hulda Amanda Adolfina,female,14,0,0,350406,7.8542,,Southampton,50.909698,-1.404351,10,3
+16,Survived,Class 2,Hewlett. Mrs. (Mary D Kingcome) ,female,55,0,0,248706,16,,Southampton,50.909698,-1.404351,50,2
+17,Not Survived,Class 3,Rice. Master. Eugene,male,2,4,1,382652,29.125,,Queenstown,51.851,-8.2967,0,3
+18,Survived,Class 2,Williams. Mr. Charles Eugene,male,,0,0,244373,13,,Southampton,50.909698,-1.404351,-1,2
+19,Not Survived,Class 3,Vander Planke. Mrs. Julius (Emelia Maria Vandemoortele),female,31,1,0,345763,18,,Southampton,50.909698,-1.404351,30,3
+20,Survived,Class 3,Masselmani. Mrs. Fatima,female,,0,0,2649,7.225,,Cherbourg,49.639,-1.625,-1,3
+21,Not Survived,Class 2,Fynney. Mr. Joseph J,male,35,0,0,239865,26,,Southampton,50.909698,-1.404351,30,2
+22,Survived,Class 2,Beesley. Mr. Lawrence,male,34,0,0,248698,13,D56,Southampton,50.909698,-1.404351,30,2
+23,Survived,Class 3,"McGowan. Miss. Anna ""Annie""",female,15,0,0,330923,8.0292,,Queenstown,51.851,-8.2967,10,3
+24,Survived,Class 1,Sloper. Mr. William Thompson,male,28,0,0,113788,35.5,A6,Southampton,50.909698,-1.404351,20,1
+25,Not Survived,Class 3,Palsson. Miss. Torborg Danira,female,8,3,1,349909,21.075,,Southampton,50.909698,-1.404351,0,3
+26,Survived,Class 3,Asplund. Mrs. Carl Oscar (Selma Augusta Emilia Johansson),female,38,1,5,347077,31.3875,,Southampton,50.909698,-1.404351,30,3
+27,Not Survived,Class 3,Emir. Mr. Farred Chehab,male,,0,0,2631,7.225,,Cherbourg,49.639,-1.625,-1,3
+28,Not Survived,Class 1,Fortune. Mr. Charles Alexander,male,19,3,2,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,10,1
+29,Survived,Class 3,"O'Dwyer. Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Queenstown,51.851,-8.2967,-1,3
+30,Not Survived,Class 3,Todoroff. Mr. Lalio,male,,0,0,349216,7.8958,,Southampton,50.909698,-1.404351,-1,3
+31,Not Survived,Class 1,Uruchurtu. Don. Manuel E,male,40,0,0,PC 17601,27.7208,,Cherbourg,49.639,-1.625,40,1
+32,Survived,Class 1,Spencer. Mrs. William Augustus (Marie Eugenie),female,,1,0,PC 17569,146.5208,B78,Cherbourg,49.639,-1.625,-1,1
+33,Survived,Class 3,Glynn. Miss. Mary Agatha,female,,0,0,335677,7.75,,Queenstown,51.851,-8.2967,-1,3
+34,Not Survived,Class 2,Wheadon. Mr. Edward H,male,66,0,0,C.A. 24579,10.5,,Southampton,50.909698,-1.404351,60,2
+35,Not Survived,Class 1,Meyer. Mr. Edgar Joseph,male,28,1,0,PC 17604,82.1708,,Cherbourg,49.639,-1.625,20,1
+36,Not Survived,Class 1,Holverson. Mr. Alexander Oskar,male,42,1,0,113789,52,,Southampton,50.909698,-1.404351,40,1
+37,Survived,Class 3,Mamee. Mr. Hanna,male,,0,0,2677,7.2292,,Cherbourg,49.639,-1.625,-1,3
+38,Not Survived,Class 3,Cann. Mr. Ernest Charles,male,21,0,0,A./5. 2152,8.05,,Southampton,50.909698,-1.404351,20,3
+39,Not Survived,Class 3,Vander Planke. Miss. Augusta Maria,female,18,2,0,345764,18,,Southampton,50.909698,-1.404351,10,3
+40,Survived,Class 3,Nicola-Yarred. Miss. Jamila,female,14,1,0,2651,11.2417,,Cherbourg,49.639,-1.625,10,3
+41,Not Survived,Class 3,Ahlin. Mrs. Johan (Johanna Persdotter Larsson),female,40,1,0,7546,9.475,,Southampton,50.909698,-1.404351,40,3
+42,Not Survived,Class 2,Turpin. Mrs. William John Robert (Dorothy Ann Wonnacott),female,27,1,0,11668,21,,Southampton,50.909698,-1.404351,20,2
+43,Not Survived,Class 3,Kraeff. Mr. Theodor,male,,0,0,349253,7.8958,,Cherbourg,49.639,-1.625,-1,3
+44,Survived,Class 2,Laroche. Miss. Simonne Marie Anne Andree,female,3,1,2,SC/Paris 2123,41.5792,,Cherbourg,49.639,-1.625,0,2
+45,Survived,Class 3,Devaney. Miss. Margaret Delia,female,19,0,0,330958,7.8792,,Queenstown,51.851,-8.2967,10,3
+46,Not Survived,Class 3,Rogers. Mr. William John,male,,0,0,S.C./A.4. 23567,8.05,,Southampton,50.909698,-1.404351,-1,3
+47,Not Survived,Class 3,Lennon. Mr. Denis,male,,1,0,370371,15.5,,Queenstown,51.851,-8.2967,-1,3
+48,Survived,Class 3,O'Driscoll. Miss. Bridget,female,,0,0,14311,7.75,,Queenstown,51.851,-8.2967,-1,3
+49,Not Survived,Class 3,Samaan. Mr. Youssef,male,,2,0,2662,21.6792,,Cherbourg,49.639,-1.625,-1,3
+50,Not Survived,Class 3,Arnold-Franchi. Mrs. Josef (Josefine Franchi),female,18,1,0,349237,17.8,,Southampton,50.909698,-1.404351,10,3
+51,Not Survived,Class 3,Panula. Master. Juha Niilo,male,7,4,1,3101295,39.6875,,Southampton,50.909698,-1.404351,0,3
+52,Not Survived,Class 3,Nosworthy. Mr. Richard Cater,male,21,0,0,A/4. 39886,7.8,,Southampton,50.909698,-1.404351,20,3
+53,Survived,Class 1,Harper. Mrs. Henry Sleeper (Myna Haxtun),female,49,1,0,PC 17572,76.7292,D33,Cherbourg,49.639,-1.625,40,1
+54,Survived,Class 2,Faunthorpe. Mrs. Lizzie (Elizabeth Anne Wilkinson),female,29,1,0,2926,26,,Southampton,50.909698,-1.404351,20,2
+55,Not Survived,Class 1,Ostby. Mr. Engelhart Cornelius,male,65,0,1,113509,61.9792,B30,Cherbourg,49.639,-1.625,60,1
+56,Survived,Class 1,Woolner. Mr. Hugh,male,,0,0,19947,35.5,C52,Southampton,50.909698,-1.404351,-1,1
+57,Survived,Class 2,Rugg. Miss. Emily,female,21,0,0,C.A. 31026,10.5,,Southampton,50.909698,-1.404351,20,2
+58,Not Survived,Class 3,Novel. Mr. Mansouer,male,28,0,0,2697,7.2292,,Cherbourg,49.639,-1.625,20,3
+59,Survived,Class 2,West. Miss. Constance Mirium,female,5,1,2,C.A. 34651,27.75,,Southampton,50.909698,-1.404351,0,2
+60,Not Survived,Class 3,Goodwin. Master. William Frederick,male,11,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,10,3
+61,Not Survived,Class 3,Sirayanian. Mr. Orsen,male,22,0,0,2669,7.2292,,Cherbourg,49.639,-1.625,20,3
+63,Not Survived,Class 1,Harris. Mr. Henry Birkhardt,male,45,1,0,36973,83.475,C83,Southampton,50.909698,-1.404351,40,1
+64,Not Survived,Class 3,Skoog. Master. Harald,male,4,3,2,347088,27.9,,Southampton,50.909698,-1.404351,0,3
+65,Not Survived,Class 1,Stewart. Mr. Albert A,male,,0,0,PC 17605,27.7208,,Cherbourg,49.639,-1.625,-1,1
+66,Survived,Class 3,Moubarek. Master. Gerios,male,,1,1,2661,15.2458,,Cherbourg,49.639,-1.625,-1,3
+67,Survived,Class 2,Nye. Mrs. (Elizabeth Ramell),female,29,0,0,C.A. 29395,10.5,F33,Southampton,50.909698,-1.404351,20,2
+68,Not Survived,Class 3,Crease. Mr. Ernest James,male,19,0,0,S.P. 3464,8.1583,,Southampton,50.909698,-1.404351,10,3
+69,Survived,Class 3,Andersson. Miss. Erna Alexandra,female,17,4,2,3101281,7.925,,Southampton,50.909698,-1.404351,10,3
+70,Not Survived,Class 3,Kink. Mr. Vincenz,male,26,2,0,315151,8.6625,,Southampton,50.909698,-1.404351,20,3
+71,Not Survived,Class 2,Jenkin. Mr. Stephen Curnow,male,32,0,0,C.A. 33111,10.5,,Southampton,50.909698,-1.404351,30,2
+72,Not Survived,Class 3,Goodwin. Miss. Lillian Amy,female,16,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,10,3
+73,Not Survived,Class 2,Hood. Mr. Ambrose Jr,male,21,0,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,20,2
+74,Not Survived,Class 3,Chronopoulos. Mr. Apostolos,male,26,1,0,2680,14.4542,,Cherbourg,49.639,-1.625,20,3
+75,Survived,Class 3,Bing. Mr. Lee,male,32,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,30,3
+76,Not Survived,Class 3,Moen. Mr. Sigurd Hansen,male,25,0,0,348123,7.65,F G73,Southampton,50.909698,-1.404351,20,3
+77,Not Survived,Class 3,Staneff. Mr. Ivan,male,,0,0,349208,7.8958,,Southampton,50.909698,-1.404351,-1,3
+78,Not Survived,Class 3,Moutal. Mr. Rahamin Haim,male,,0,0,374746,8.05,,Southampton,50.909698,-1.404351,-1,3
+79,Survived,Class 2,Caldwell. Master. Alden Gates,male,0,0,2,248738,29,,Southampton,50.909698,-1.404351,0,2
+80,Survived,Class 3,Dowdell. Miss. Elizabeth,female,30,0,0,364516,12.475,,Southampton,50.909698,-1.404351,30,3
+81,Not Survived,Class 3,Waelens. Mr. Achille,male,22,0,0,345767,9,,Southampton,50.909698,-1.404351,20,3
+82,Survived,Class 3,Sheerlinck. Mr. Jan Baptist,male,29,0,0,345779,9.5,,Southampton,50.909698,-1.404351,20,3
+83,Survived,Class 3,McDermott. Miss. Brigdet Delia,female,,0,0,330932,7.7875,,Queenstown,51.851,-8.2967,-1,3
+84,Not Survived,Class 1,Carrau. Mr. Francisco M,male,28,0,0,113059,47.1,,Southampton,50.909698,-1.404351,20,1
+85,Survived,Class 2,Ilett. Miss. Bertha,female,17,0,0,SO/C 14885,10.5,,Southampton,50.909698,-1.404351,10,2
+86,Survived,Class 3,Backstrom. Mrs. Karl Alfred (Maria Mathilda Gustafsson),female,33,3,0,3101278,15.85,,Southampton,50.909698,-1.404351,30,3
+87,Not Survived,Class 3,Ford. Mr. William Neal,male,16,1,3,W./C. 6608,34.375,,Southampton,50.909698,-1.404351,10,3
+88,Not Survived,Class 3,Slocovski. Mr. Selman Francis,male,,0,0,SOTON/OQ 392086,8.05,,Southampton,50.909698,-1.404351,-1,3
+89,Survived,Class 1,Fortune. Miss. Mabel Helen,female,23,3,2,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,20,1
+90,Not Survived,Class 3,Celotti. Mr. Francesco,male,24,0,0,343275,8.05,,Southampton,50.909698,-1.404351,20,3
+91,Not Survived,Class 3,Christmann. Mr. Emil,male,29,0,0,343276,8.05,,Southampton,50.909698,-1.404351,20,3
+92,Not Survived,Class 3,Andreasson. Mr. Paul Edvin,male,20,0,0,347466,7.8542,,Southampton,50.909698,-1.404351,20,3
+93,Not Survived,Class 1,Chaffee. Mr. Herbert Fuller,male,46,1,0,W.E.P. 5734,61.175,E31,Southampton,50.909698,-1.404351,40,1
+94,Not Survived,Class 3,Dean. Mr. Bertram Frank,male,26,1,2,C.A. 2315,20.575,,Southampton,50.909698,-1.404351,20,3
+95,Not Survived,Class 3,Coxon. Mr. Daniel,male,59,0,0,364500,7.25,,Southampton,50.909698,-1.404351,50,3
+96,Not Survived,Class 3,Shorney. Mr. Charles Joseph,male,,0,0,374910,8.05,,Southampton,50.909698,-1.404351,-1,3
+97,Not Survived,Class 1,Goldschmidt. Mr. George B,male,71,0,0,PC 17754,34.6542,A5,Cherbourg,49.639,-1.625,70,1
+98,Survived,Class 1,Greenfield. Mr. William Bertram,male,23,0,1,PC 17759,63.3583,D10 D12,Cherbourg,49.639,-1.625,20,1
+99,Survived,Class 2,Doling. Mrs. John T (Ada Julia Bone),female,34,0,1,231919,23,,Southampton,50.909698,-1.404351,30,2
+100,Not Survived,Class 2,Kantor. Mr. Sinai,male,34,1,0,244367,26,,Southampton,50.909698,-1.404351,30,2
+101,Not Survived,Class 3,Petranec. Miss. Matilda,female,28,0,0,349245,7.8958,,Southampton,50.909698,-1.404351,20,3
+102,Not Survived,Class 3,"Petroff. Mr. Pastcho (""Pentcho"")",male,,0,0,349215,7.8958,,Southampton,50.909698,-1.404351,-1,3
+103,Not Survived,Class 1,White. Mr. Richard Frasar,male,21,0,1,35281,77.2875,D26,Southampton,50.909698,-1.404351,20,1
+104,Not Survived,Class 3,Johansson. Mr. Gustaf Joel,male,33,0,0,7540,8.6542,,Southampton,50.909698,-1.404351,30,3
+105,Not Survived,Class 3,Gustafsson. Mr. Anders Vilhelm,male,37,2,0,3101276,7.925,,Southampton,50.909698,-1.404351,30,3
+106,Not Survived,Class 3,Mionoff. Mr. Stoytcho,male,28,0,0,349207,7.8958,,Southampton,50.909698,-1.404351,20,3
+107,Survived,Class 3,Salkjelsvik. Miss. Anna Kristine,female,21,0,0,343120,7.65,,Southampton,50.909698,-1.404351,20,3
+108,Survived,Class 3,Moss. Mr. Albert Johan,male,,0,0,312991,7.775,,Southampton,50.909698,-1.404351,-1,3
+109,Not Survived,Class 3,Rekic. Mr. Tido,male,38,0,0,349249,7.8958,,Southampton,50.909698,-1.404351,30,3
+110,Survived,Class 3,Moran. Miss. Bertha,female,,1,0,371110,24.15,,Queenstown,51.851,-8.2967,-1,3
+111,Not Survived,Class 1,Porter. Mr. Walter Chamberlain,male,47,0,0,110465,52,C110,Southampton,50.909698,-1.404351,40,1
+112,Not Survived,Class 3,Zabour. Miss. Hileni,female,14,1,0,2665,14.4542,,Cherbourg,49.639,-1.625,10,3
+113,Not Survived,Class 3,Barton. Mr. David John,male,22,0,0,324669,8.05,,Southampton,50.909698,-1.404351,20,3
+114,Not Survived,Class 3,Jussila. Miss. Katriina,female,20,1,0,4136,9.825,,Southampton,50.909698,-1.404351,20,3
+115,Not Survived,Class 3,Attalah. Miss. Malake,female,17,0,0,2627,14.4583,,Cherbourg,49.639,-1.625,10,3
+116,Not Survived,Class 3,Pekoniemi. Mr. Edvard,male,21,0,0,STON/O 2. 3101294,7.925,,Southampton,50.909698,-1.404351,20,3
+117,Not Survived,Class 3,Connors. Mr. Patrick,male,70,0,0,370369,7.75,,Queenstown,51.851,-8.2967,70,3
+118,Not Survived,Class 2,Turpin. Mr. William John Robert,male,29,1,0,11668,21,,Southampton,50.909698,-1.404351,20,2
+119,Not Survived,Class 1,Baxter. Mr. Quigg Edmond,male,24,0,1,PC 17558,247.5208,B58 B60,Cherbourg,49.639,-1.625,20,1
+120,Not Survived,Class 3,Andersson. Miss. Ellis Anna Maria,female,2,4,2,347082,31.275,,Southampton,50.909698,-1.404351,0,3
+121,Not Survived,Class 2,Hickman. Mr. Stanley George,male,21,2,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,20,2
+122,Not Survived,Class 3,Moore. Mr. Leonard Charles,male,,0,0,A4. 54510,8.05,,Southampton,50.909698,-1.404351,-1,3
+123,Not Survived,Class 2,Nasser. Mr. Nicholas,male,32,1,0,237736,30.0708,,Cherbourg,49.639,-1.625,30,2
+124,Survived,Class 2,Webber. Miss. Susan,female,32,0,0,27267,13,E101,Southampton,50.909698,-1.404351,30,2
+125,Not Survived,Class 1,White. Mr. Percival Wayland,male,54,0,1,35281,77.2875,D26,Southampton,50.909698,-1.404351,50,1
+126,Survived,Class 3,Nicola-Yarred. Master. Elias,male,12,1,0,2651,11.2417,,Cherbourg,49.639,-1.625,10,3
+127,Not Survived,Class 3,McMahon. Mr. Martin,male,,0,0,370372,7.75,,Queenstown,51.851,-8.2967,-1,3
+128,Survived,Class 3,Madsen. Mr. Fridtjof Arne,male,24,0,0,C 17369,7.1417,,Southampton,50.909698,-1.404351,20,3
+129,Survived,Class 3,Peter. Miss. Anna,female,,1,1,2668,22.3583,F E69,Cherbourg,49.639,-1.625,-1,3
+130,Not Survived,Class 3,Ekstrom. Mr. Johan,male,45,0,0,347061,6.975,,Southampton,50.909698,-1.404351,40,3
+131,Not Survived,Class 3,Drazenoic. Mr. Jozef,male,33,0,0,349241,7.8958,,Cherbourg,49.639,-1.625,30,3
+132,Not Survived,Class 3,Coelho. Mr. Domingos Fernandeo,male,20,0,0,SOTON/O.Q. 3101307,7.05,,Southampton,50.909698,-1.404351,20,3
+133,Not Survived,Class 3,Robins. Mrs. Alexander A (Grace Charity Laury),female,47,1,0,A/5. 3337,14.5,,Southampton,50.909698,-1.404351,40,3
+134,Survived,Class 2,Weisz. Mrs. Leopold (Mathilde Francoise Pede),female,29,1,0,228414,26,,Southampton,50.909698,-1.404351,20,2
+135,Not Survived,Class 2,Sobey. Mr. Samuel James Hayden,male,25,0,0,C.A. 29178,13,,Southampton,50.909698,-1.404351,20,2
+136,Not Survived,Class 2,Richard. Mr. Emile,male,23,0,0,SC/PARIS 2133,15.0458,,Cherbourg,49.639,-1.625,20,2
+137,Survived,Class 1,Newsom. Miss. Helen Monypeny,female,19,0,2,11752,26.2833,D47,Southampton,50.909698,-1.404351,10,1
+138,Not Survived,Class 1,Futrelle. Mr. Jacques Heath,male,37,1,0,113803,53.1,C123,Southampton,50.909698,-1.404351,30,1
+139,Not Survived,Class 3,Osen. Mr. Olaf Elon,male,16,0,0,7534,9.2167,,Southampton,50.909698,-1.404351,10,3
+140,Not Survived,Class 1,Giglio. Mr. Victor,male,24,0,0,PC 17593,79.2,B86,Cherbourg,49.639,-1.625,20,1
+141,Not Survived,Class 3,Boulos. Mrs. Joseph (Sultana),female,,0,2,2678,15.2458,,Cherbourg,49.639,-1.625,-1,3
+142,Survived,Class 3,Nysten. Miss. Anna Sofia,female,22,0,0,347081,7.75,,Southampton,50.909698,-1.404351,20,3
+143,Survived,Class 3,Hakkarainen. Mrs. Pekka Pietari (Elin Matilda Dolck),female,24,1,0,STON/O2. 3101279,15.85,,Southampton,50.909698,-1.404351,20,3
+144,Not Survived,Class 3,Burke. Mr. Jeremiah,male,19,0,0,365222,6.75,,Queenstown,51.851,-8.2967,10,3
+145,Not Survived,Class 2,Andrew. Mr. Edgardo Samuel,male,18,0,0,231945,11.5,,Southampton,50.909698,-1.404351,10,2
+146,Not Survived,Class 2,Nicholls. Mr. Joseph Charles,male,19,1,1,C.A. 33112,36.75,,Southampton,50.909698,-1.404351,10,2
+147,Survived,Class 3,"Andersson. Mr. August Edvard (""Wennerstrom"")",male,27,0,0,350043,7.7958,,Southampton,50.909698,-1.404351,20,3
+148,Not Survived,Class 3,"Ford. Miss. Robina Maggie ""Ruby""",female,9,2,2,W./C. 6608,34.375,,Southampton,50.909698,-1.404351,0,3
+149,Not Survived,Class 2,"Navratil. Mr. Michel (""Louis M Hoffman"")",male,36,0,2,230080,26,F2,Southampton,50.909698,-1.404351,30,2
+150,Not Survived,Class 2,Byles. Rev. Thomas Roussel Davids,male,42,0,0,244310,13,,Southampton,50.909698,-1.404351,40,2
+151,Not Survived,Class 2,Bateman. Rev. Robert James,male,51,0,0,S.O.P. 1166,12.525,,Southampton,50.909698,-1.404351,50,2
+152,Survived,Class 1,Pears. Mrs. Thomas (Edith Wearne),female,22,1,0,113776,66.6,C2,Southampton,50.909698,-1.404351,20,1
+153,Not Survived,Class 3,Meo. Mr. Alfonzo,male,55,0,0,A.5. 11206,8.05,,Southampton,50.909698,-1.404351,50,3
+154,Not Survived,Class 3,van Billiard. Mr. Austin Blyler,male,40,0,2,A/5. 851,14.5,,Southampton,50.909698,-1.404351,40,3
+155,Not Survived,Class 3,Olsen. Mr. Ole Martin,male,,0,0,Fa 265302,7.3125,,Southampton,50.909698,-1.404351,-1,3
+156,Not Survived,Class 1,Williams. Mr. Charles Duane,male,51,0,1,PC 17597,61.3792,,Cherbourg,49.639,-1.625,50,1
+157,Survived,Class 3,"Gilnagh. Miss. Katherine ""Katie""",female,16,0,0,35851,7.7333,,Queenstown,51.851,-8.2967,10,3
+158,Not Survived,Class 3,Corn. Mr. Harry,male,30,0,0,SOTON/OQ 392090,8.05,,Southampton,50.909698,-1.404351,30,3
+159,Not Survived,Class 3,Smiljanic. Mr. Mile,male,,0,0,315037,8.6625,,Southampton,50.909698,-1.404351,-1,3
+160,Not Survived,Class 3,Sage. Master. Thomas Henry,male,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+161,Not Survived,Class 3,Cribb. Mr. John Hatfield,male,44,0,1,371362,16.1,,Southampton,50.909698,-1.404351,40,3
+162,Survived,Class 2,"Watt. Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,0,0,C.A. 33595,15.75,,Southampton,50.909698,-1.404351,40,2
+163,Not Survived,Class 3,Bengtsson. Mr. John Viktor,male,26,0,0,347068,7.775,,Southampton,50.909698,-1.404351,20,3
+164,Not Survived,Class 3,Calic. Mr. Jovo,male,17,0,0,315093,8.6625,,Southampton,50.909698,-1.404351,10,3
+165,Not Survived,Class 3,Panula. Master. Eino Viljami,male,1,4,1,3101295,39.6875,,Southampton,50.909698,-1.404351,0,3
+166,Survived,Class 3,"Goldsmith. Master. Frank John William ""Frankie""",male,9,0,2,363291,20.525,,Southampton,50.909698,-1.404351,0,3
+167,Survived,Class 1,Chibnall. Mrs. (Edith Martha Bowerman),female,,0,1,113505,55,E33,Southampton,50.909698,-1.404351,-1,1
+168,Not Survived,Class 3,Skoog. Mrs. William (Anna Bernhardina Karlsson),female,45,1,4,347088,27.9,,Southampton,50.909698,-1.404351,40,3
+169,Not Survived,Class 1,Baumann. Mr. John D,male,,0,0,PC 17318,25.925,,Southampton,50.909698,-1.404351,-1,1
+170,Not Survived,Class 3,Ling. Mr. Lee,male,28,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,20,3
+171,Not Survived,Class 1,Van der hoef. Mr. Wyckoff,male,61,0,0,111240,33.5,B19,Southampton,50.909698,-1.404351,60,1
+172,Not Survived,Class 3,Rice. Master. Arthur,male,4,4,1,382652,29.125,,Queenstown,51.851,-8.2967,0,3
+173,Survived,Class 3,Johnson. Miss. Eleanor Ileen,female,1,1,1,347742,11.1333,,Southampton,50.909698,-1.404351,0,3
+174,Not Survived,Class 3,Sivola. Mr. Antti Wilhelm,male,21,0,0,STON/O 2. 3101280,7.925,,Southampton,50.909698,-1.404351,20,3
+175,Not Survived,Class 1,Smith. Mr. James Clinch,male,56,0,0,17764,30.6958,A7,Cherbourg,49.639,-1.625,50,1
+176,Not Survived,Class 3,Klasen. Mr. Klas Albin,male,18,1,1,350404,7.8542,,Southampton,50.909698,-1.404351,10,3
+177,Not Survived,Class 3,Lefebre. Master. Henry Forbes,male,,3,1,4133,25.4667,,Southampton,50.909698,-1.404351,-1,3
+178,Not Survived,Class 1,Isham. Miss. Ann Elizabeth,female,50,0,0,PC 17595,28.7125,C49,Cherbourg,49.639,-1.625,50,1
+179,Not Survived,Class 2,Hale. Mr. Reginald,male,30,0,0,250653,13,,Southampton,50.909698,-1.404351,30,2
+180,Not Survived,Class 3,Leonard. Mr. Lionel,male,36,0,0,LINE,0,,Southampton,50.909698,-1.404351,30,3
+181,Not Survived,Class 3,Sage. Miss. Constance Gladys,female,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+182,Not Survived,Class 2,Pernot. Mr. Rene,male,,0,0,SC/PARIS 2131,15.05,,Cherbourg,49.639,-1.625,-1,2
+183,Not Survived,Class 3,Asplund. Master. Clarence Gustaf Hugo,male,9,4,2,347077,31.3875,,Southampton,50.909698,-1.404351,0,3
+184,Survived,Class 2,Becker. Master. Richard F,male,1,2,1,230136,39,F4,Southampton,50.909698,-1.404351,0,2
+185,Survived,Class 3,Kink-Heilmann. Miss. Luise Gretchen,female,4,0,2,315153,22.025,,Southampton,50.909698,-1.404351,0,3
+186,Not Survived,Class 1,Rood. Mr. Hugh Roscoe,male,,0,0,113767,50,A32,Southampton,50.909698,-1.404351,-1,1
+187,Survived,Class 3,"O'Brien. Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Queenstown,51.851,-8.2967,-1,3
+188,Survived,Class 1,"Romaine. Mr. Charles Hallace (""Mr C Rolmane"")",male,45,0,0,111428,26.55,,Southampton,50.909698,-1.404351,40,1
+189,Not Survived,Class 3,Bourke. Mr. John,male,40,1,1,364849,15.5,,Queenstown,51.851,-8.2967,40,3
+190,Not Survived,Class 3,Turcin. Mr. Stjepan,male,36,0,0,349247,7.8958,,Southampton,50.909698,-1.404351,30,3
+191,Survived,Class 2,Pinsky. Mrs. (Rosa),female,32,0,0,234604,13,,Southampton,50.909698,-1.404351,30,2
+192,Not Survived,Class 2,Carbines. Mr. William,male,19,0,0,28424,13,,Southampton,50.909698,-1.404351,10,2
+193,Survived,Class 3,Andersen-Jensen. Miss. Carla Christine Nielsine,female,19,1,0,350046,7.8542,,Southampton,50.909698,-1.404351,10,3
+194,Survived,Class 2,Navratil. Master. Michel M,male,3,1,1,230080,26,F2,Southampton,50.909698,-1.404351,0,2
+195,Survived,Class 1,Brown. Mrs. James Joseph (Margaret Tobin),female,44,0,0,PC 17610,27.7208,B4,Cherbourg,49.639,-1.625,40,1
+196,Survived,Class 1,Lurette. Miss. Elise,female,58,0,0,PC 17569,146.5208,B80,Cherbourg,49.639,-1.625,50,1
+197,Not Survived,Class 3,Mernagh. Mr. Robert,male,,0,0,368703,7.75,,Queenstown,51.851,-8.2967,-1,3
+198,Not Survived,Class 3,Olsen. Mr. Karl Siegwart Andreas,male,42,0,1,4579,8.4042,,Southampton,50.909698,-1.404351,40,3
+199,Survived,Class 3,"Madigan. Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Queenstown,51.851,-8.2967,-1,3
+200,Not Survived,Class 2,"Yrois. Miss. Henriette (""Mrs Harbeck"")",female,24,0,0,248747,13,,Southampton,50.909698,-1.404351,20,2
+201,Not Survived,Class 3,Vande Walle. Mr. Nestor Cyriel,male,28,0,0,345770,9.5,,Southampton,50.909698,-1.404351,20,3
+202,Not Survived,Class 3,Sage. Mr. Frederick,male,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+203,Not Survived,Class 3,Johanson. Mr. Jakob Alfred,male,34,0,0,3101264,6.4958,,Southampton,50.909698,-1.404351,30,3
+204,Not Survived,Class 3,Youseff. Mr. Gerious,male,45,0,0,2628,7.225,,Cherbourg,49.639,-1.625,40,3
+205,Survived,Class 3,"Cohen. Mr. Gurshon ""Gus""",male,18,0,0,A/5 3540,8.05,,Southampton,50.909698,-1.404351,10,3
+206,Not Survived,Class 3,Strom. Miss. Telma Matilda,female,2,0,1,347054,10.4625,G6,Southampton,50.909698,-1.404351,0,3
+207,Not Survived,Class 3,Backstrom. Mr. Karl Alfred,male,32,1,0,3101278,15.85,,Southampton,50.909698,-1.404351,30,3
+208,Survived,Class 3,Albimona. Mr. Nassef Cassem,male,26,0,0,2699,18.7875,,Cherbourg,49.639,-1.625,20,3
+209,Survived,Class 3,"Carr. Miss. Helen ""Ellen""",female,16,0,0,367231,7.75,,Queenstown,51.851,-8.2967,10,3
+210,Survived,Class 1,Blank. Mr. Henry,male,40,0,0,112277,31,A31,Cherbourg,49.639,-1.625,40,1
+211,Not Survived,Class 3,Ali. Mr. Ahmed,male,24,0,0,SOTON/O.Q. 3101311,7.05,,Southampton,50.909698,-1.404351,20,3
+212,Survived,Class 2,Cameron. Miss. Clear Annie,female,35,0,0,F.C.C. 13528,21,,Southampton,50.909698,-1.404351,30,2
+213,Not Survived,Class 3,Perkin. Mr. John Henry,male,22,0,0,A/5 21174,7.25,,Southampton,50.909698,-1.404351,20,3
+214,Not Survived,Class 2,Givard. Mr. Hans Kristensen,male,30,0,0,250646,13,,Southampton,50.909698,-1.404351,30,2
+215,Not Survived,Class 3,Kiernan. Mr. Philip,male,,1,0,367229,7.75,,Queenstown,51.851,-8.2967,-1,3
+216,Survived,Class 1,Newell. Miss. Madeleine,female,31,1,0,35273,113.275,D36,Cherbourg,49.639,-1.625,30,1
+217,Survived,Class 3,Honkanen. Miss. Eliina,female,27,0,0,STON/O2. 3101283,7.925,,Southampton,50.909698,-1.404351,20,3
+218,Not Survived,Class 2,Jacobsohn. Mr. Sidney Samuel,male,42,1,0,243847,27,,Southampton,50.909698,-1.404351,40,2
+219,Survived,Class 1,Bazzani. Miss. Albina,female,32,0,0,11813,76.2917,D15,Cherbourg,49.639,-1.625,30,1
+220,Not Survived,Class 2,Harris. Mr. Walter,male,30,0,0,W/C 14208,10.5,,Southampton,50.909698,-1.404351,30,2
+221,Survived,Class 3,Sunderland. Mr. Victor Francis,male,16,0,0,SOTON/OQ 392089,8.05,,Southampton,50.909698,-1.404351,10,3
+222,Not Survived,Class 2,Bracken. Mr. James H,male,27,0,0,220367,13,,Southampton,50.909698,-1.404351,20,2
+223,Not Survived,Class 3,Green. Mr. George Henry,male,51,0,0,21440,8.05,,Southampton,50.909698,-1.404351,50,3
+224,Not Survived,Class 3,Nenkoff. Mr. Christo,male,,0,0,349234,7.8958,,Southampton,50.909698,-1.404351,-1,3
+225,Survived,Class 1,Hoyt. Mr. Frederick Maxfield,male,38,1,0,19943,90,C93,Southampton,50.909698,-1.404351,30,1
+226,Not Survived,Class 3,Berglund. Mr. Karl Ivar Sven,male,22,0,0,PP 4348,9.35,,Southampton,50.909698,-1.404351,20,3
+227,Survived,Class 2,Mellors. Mr. William John,male,19,0,0,SW/PP 751,10.5,,Southampton,50.909698,-1.404351,10,2
+228,Not Survived,Class 3,"Lovell. Mr. John Hall (""Henry"")",male,20,0,0,A/5 21173,7.25,,Southampton,50.909698,-1.404351,20,3
+229,Not Survived,Class 2,Fahlstrom. Mr. Arne Jonas,male,18,0,0,236171,13,,Southampton,50.909698,-1.404351,10,2
+230,Not Survived,Class 3,Lefebre. Miss. Mathilde,female,,3,1,4133,25.4667,,Southampton,50.909698,-1.404351,-1,3
+231,Survived,Class 1,Harris. Mrs. Henry Birkhardt (Irene Wallach),female,35,1,0,36973,83.475,C83,Southampton,50.909698,-1.404351,30,1
+232,Not Survived,Class 3,Larsson. Mr. Bengt Edvin,male,29,0,0,347067,7.775,,Southampton,50.909698,-1.404351,20,3
+233,Not Survived,Class 2,Sjostedt. Mr. Ernst Adolf,male,59,0,0,237442,13.5,,Southampton,50.909698,-1.404351,50,2
+234,Survived,Class 3,Asplund. Miss. Lillian Gertrud,female,5,4,2,347077,31.3875,,Southampton,50.909698,-1.404351,0,3
+235,Not Survived,Class 2,Leyson. Mr. Robert William Norman,male,24,0,0,C.A. 29566,10.5,,Southampton,50.909698,-1.404351,20,2
+236,Not Survived,Class 3,Harknett. Miss. Alice Phoebe,female,,0,0,W./C. 6609,7.55,,Southampton,50.909698,-1.404351,-1,3
+237,Not Survived,Class 2,Hold. Mr. Stephen,male,44,1,0,26707,26,,Southampton,50.909698,-1.404351,40,2
+238,Survived,Class 2,"Collyer. Miss. Marjorie ""Lottie""",female,8,0,2,C.A. 31921,26.25,,Southampton,50.909698,-1.404351,0,2
+239,Not Survived,Class 2,Pengelly. Mr. Frederick William,male,19,0,0,28665,10.5,,Southampton,50.909698,-1.404351,10,2
+240,Not Survived,Class 2,Hunt. Mr. George Henry,male,33,0,0,SCO/W 1585,12.275,,Southampton,50.909698,-1.404351,30,2
+241,Not Survived,Class 3,Zabour. Miss. Thamine,female,,1,0,2665,14.4542,,Cherbourg,49.639,-1.625,-1,3
+242,Survived,Class 3,"Murphy. Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Queenstown,51.851,-8.2967,-1,3
+243,Not Survived,Class 2,Coleridge. Mr. Reginald Charles,male,29,0,0,W./C. 14263,10.5,,Southampton,50.909698,-1.404351,20,2
+244,Not Survived,Class 3,Maenpaa. Mr. Matti Alexanteri,male,22,0,0,STON/O 2. 3101275,7.125,,Southampton,50.909698,-1.404351,20,3
+245,Not Survived,Class 3,Attalah. Mr. Sleiman,male,30,0,0,2694,7.225,,Cherbourg,49.639,-1.625,30,3
+246,Not Survived,Class 1,Minahan. Dr. William Edward,male,44,2,0,19928,90,C78,Queenstown,51.851,-8.2967,40,1
+247,Not Survived,Class 3,Lindahl. Miss. Agda Thorilda Viktoria,female,25,0,0,347071,7.775,,Southampton,50.909698,-1.404351,20,3
+248,Survived,Class 2,Hamalainen. Mrs. William (Anna),female,24,0,2,250649,14.5,,Southampton,50.909698,-1.404351,20,2
+249,Survived,Class 1,Beckwith. Mr. Richard Leonard,male,37,1,1,11751,52.5542,D35,Southampton,50.909698,-1.404351,30,1
+250,Not Survived,Class 2,Carter. Rev. Ernest Courtenay,male,54,1,0,244252,26,,Southampton,50.909698,-1.404351,50,2
+251,Not Survived,Class 3,Reed. Mr. James George,male,,0,0,362316,7.25,,Southampton,50.909698,-1.404351,-1,3
+252,Not Survived,Class 3,Strom. Mrs. Wilhelm (Elna Matilda Persson),female,29,1,1,347054,10.4625,G6,Southampton,50.909698,-1.404351,20,3
+253,Not Survived,Class 1,Stead. Mr. William Thomas,male,62,0,0,113514,26.55,C87,Southampton,50.909698,-1.404351,60,1
+254,Not Survived,Class 3,Lobb. Mr. William Arthur,male,30,1,0,A/5. 3336,16.1,,Southampton,50.909698,-1.404351,30,3
+255,Not Survived,Class 3,Rosblom. Mrs. Viktor (Helena Wilhelmina),female,41,0,2,370129,20.2125,,Southampton,50.909698,-1.404351,40,3
+256,Survived,Class 3,Touma. Mrs. Darwis (Hanne Youssef Razi),female,29,0,2,2650,15.2458,,Cherbourg,49.639,-1.625,20,3
+257,Survived,Class 1,Thorne. Mrs. Gertrude Maybelle,female,,0,0,PC 17585,79.2,,Cherbourg,49.639,-1.625,-1,1
+258,Survived,Class 1,Cherry. Miss. Gladys,female,30,0,0,110152,86.5,B77,Southampton,50.909698,-1.404351,30,1
+259,Survived,Class 1,Ward. Miss. Anna,female,35,0,0,PC 17755,512.3292,,Cherbourg,49.639,-1.625,30,1
+260,Survived,Class 2,Parrish. Mrs. (Lutie Davis),female,50,0,1,230433,26,,Southampton,50.909698,-1.404351,50,2
+261,Not Survived,Class 3,Smith. Mr. Thomas,male,,0,0,384461,7.75,,Queenstown,51.851,-8.2967,-1,3
+262,Survived,Class 3,Asplund. Master. Edvin Rojj Felix,male,3,4,2,347077,31.3875,,Southampton,50.909698,-1.404351,0,3
+263,Not Survived,Class 1,Taussig. Mr. Emil,male,52,1,1,110413,79.65,E67,Southampton,50.909698,-1.404351,50,1
+264,Not Survived,Class 1,Harrison. Mr. William,male,40,0,0,112059,0,B94,Southampton,50.909698,-1.404351,40,1
+265,Not Survived,Class 3,Henry. Miss. Delia,female,,0,0,382649,7.75,,Queenstown,51.851,-8.2967,-1,3
+266,Not Survived,Class 2,Reeves. Mr. David,male,36,0,0,C.A. 17248,10.5,,Southampton,50.909698,-1.404351,30,2
+267,Not Survived,Class 3,Panula. Mr. Ernesti Arvid,male,16,4,1,3101295,39.6875,,Southampton,50.909698,-1.404351,10,3
+268,Survived,Class 3,Persson. Mr. Ernst Ulrik,male,25,1,0,347083,7.775,,Southampton,50.909698,-1.404351,20,3
+269,Survived,Class 1,Graham. Mrs. William Thompson (Edith Junkins),female,58,0,1,PC 17582,153.4625,C125,Southampton,50.909698,-1.404351,50,1
+270,Survived,Class 1,Bissette. Miss. Amelia,female,35,0,0,PC 17760,135.6333,C99,Southampton,50.909698,-1.404351,30,1
+271,Not Survived,Class 1,Cairns. Mr. Alexander,male,,0,0,113798,31,,Southampton,50.909698,-1.404351,-1,1
+272,Survived,Class 3,Tornquist. Mr. William Henry,male,25,0,0,LINE,0,,Southampton,50.909698,-1.404351,20,3
+273,Survived,Class 2,Mellinger. Mrs. (Elizabeth Anne Maidment),female,41,0,1,250644,19.5,,Southampton,50.909698,-1.404351,40,2
+274,Not Survived,Class 1,Natsch. Mr. Charles H,male,37,0,1,PC 17596,29.7,C118,Cherbourg,49.639,-1.625,30,1
+275,Survived,Class 3,"Healy. Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Queenstown,51.851,-8.2967,-1,3
+276,Survived,Class 1,Andrews. Miss. Kornelia Theodosia,female,63,1,0,13502,77.9583,D7,Southampton,50.909698,-1.404351,60,1
+277,Not Survived,Class 3,Lindblom. Miss. Augusta Charlotta,female,45,0,0,347073,7.75,,Southampton,50.909698,-1.404351,40,3
+278,Not Survived,Class 2,"Parkes. Mr. Francis ""Frank""",male,,0,0,239853,0,,Southampton,50.909698,-1.404351,-1,2
+279,Not Survived,Class 3,Rice. Master. Eric,male,7,4,1,382652,29.125,,Queenstown,51.851,-8.2967,0,3
+280,Survived,Class 3,Abbott. Mrs. Stanton (Rosa Hunt),female,35,1,1,C.A. 2673,20.25,,Southampton,50.909698,-1.404351,30,3
+281,Not Survived,Class 3,Duane. Mr. Frank,male,65,0,0,336439,7.75,,Queenstown,51.851,-8.2967,60,3
+282,Not Survived,Class 3,Olsson. Mr. Nils Johan Goransson,male,28,0,0,347464,7.8542,,Southampton,50.909698,-1.404351,20,3
+283,Not Survived,Class 3,de Pelsmaeker. Mr. Alfons,male,16,0,0,345778,9.5,,Southampton,50.909698,-1.404351,10,3
+284,Survived,Class 3,Dorking. Mr. Edward Arthur,male,19,0,0,A/5. 10482,8.05,,Southampton,50.909698,-1.404351,10,3
+285,Not Survived,Class 1,Smith. Mr. Richard William,male,,0,0,113056,26,A19,Southampton,50.909698,-1.404351,-1,1
+286,Not Survived,Class 3,Stankovic. Mr. Ivan,male,33,0,0,349239,8.6625,,Cherbourg,49.639,-1.625,30,3
+287,Survived,Class 3,de Mulder. Mr. Theodore,male,30,0,0,345774,9.5,,Southampton,50.909698,-1.404351,30,3
+288,Not Survived,Class 3,Naidenoff. Mr. Penko,male,22,0,0,349206,7.8958,,Southampton,50.909698,-1.404351,20,3
+289,Survived,Class 2,Hosono. Mr. Masabumi,male,42,0,0,237798,13,,Southampton,50.909698,-1.404351,40,2
+290,Survived,Class 3,Connolly. Miss. Kate,female,22,0,0,370373,7.75,,Queenstown,51.851,-8.2967,20,3
+291,Survived,Class 1,"Barber. Miss. Ellen ""Nellie""",female,26,0,0,19877,78.85,,Southampton,50.909698,-1.404351,20,1
+292,Survived,Class 1,Bishop. Mrs. Dickinson H (Helen Walton),female,19,1,0,11967,91.0792,B49,Cherbourg,49.639,-1.625,10,1
+293,Not Survived,Class 2,Levy. Mr. Rene Jacques,male,36,0,0,SC/Paris 2163,12.875,D,Cherbourg,49.639,-1.625,30,2
+294,Not Survived,Class 3,Haas. Miss. Aloisia,female,24,0,0,349236,8.85,,Southampton,50.909698,-1.404351,20,3
+295,Not Survived,Class 3,Mineff. Mr. Ivan,male,24,0,0,349233,7.8958,,Southampton,50.909698,-1.404351,20,3
+296,Not Survived,Class 1,Lewy. Mr. Ervin G,male,,0,0,PC 17612,27.7208,,Cherbourg,49.639,-1.625,-1,1
+297,Not Survived,Class 3,Hanna. Mr. Mansour,male,23,0,0,2693,7.2292,,Cherbourg,49.639,-1.625,20,3
+298,Not Survived,Class 1,Allison. Miss. Helen Loraine,female,2,1,2,113781,151.55,C22 C26,Southampton,50.909698,-1.404351,0,1
+299,Survived,Class 1,Saalfeld. Mr. Adolphe,male,,0,0,19988,30.5,C106,Southampton,50.909698,-1.404351,-1,1
+300,Survived,Class 1,Baxter. Mrs. James (Helene DeLaudeniere Chaput),female,50,0,1,PC 17558,247.5208,B58 B60,Cherbourg,49.639,-1.625,50,1
+301,Survived,Class 3,"Kelly. Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Queenstown,51.851,-8.2967,-1,3
+302,Survived,Class 3,McCoy. Mr. Bernard,male,,2,0,367226,23.25,,Queenstown,51.851,-8.2967,-1,3
+303,Not Survived,Class 3,Johnson. Mr. William Cahoone Jr,male,19,0,0,LINE,0,,Southampton,50.909698,-1.404351,10,3
+304,Survived,Class 2,Keane. Miss. Nora A,female,,0,0,226593,12.35,E101,Queenstown,51.851,-8.2967,-1,2
+305,Not Survived,Class 3,"Williams. Mr. Howard Hugh ""Harry""",male,,0,0,A/5 2466,8.05,,Southampton,50.909698,-1.404351,-1,3
+306,Survived,Class 1,Allison. Master. Hudson Trevor,male,0,1,2,113781,151.55,C22 C26,Southampton,50.909698,-1.404351,0,1
+307,Survived,Class 1,Fleming. Miss. Margaret,female,,0,0,17421,110.8833,,Cherbourg,49.639,-1.625,-1,1
+308,Survived,Class 1,Penasco y Castellana. Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,17,1,0,PC 17758,108.9,C65,Cherbourg,49.639,-1.625,10,1
+309,Not Survived,Class 2,Abelson. Mr. Samuel,male,30,1,0,P/PP 3381,24,,Cherbourg,49.639,-1.625,30,2
+310,Survived,Class 1,Francatelli. Miss. Laura Mabel,female,30,0,0,PC 17485,56.9292,E36,Cherbourg,49.639,-1.625,30,1
+311,Survived,Class 1,Hays. Miss. Margaret Bechstein,female,24,0,0,11767,83.1583,C54,Cherbourg,49.639,-1.625,20,1
+312,Survived,Class 1,Ryerson. Miss. Emily Borie,female,18,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,49.639,-1.625,10,1
+313,Not Survived,Class 2,Lahtinen. Mrs. William (Anna Sylfven),female,26,1,1,250651,26,,Southampton,50.909698,-1.404351,20,2
+314,Not Survived,Class 3,Hendekovic. Mr. Ignjac,male,28,0,0,349243,7.8958,,Southampton,50.909698,-1.404351,20,3
+315,Not Survived,Class 2,Hart. Mr. Benjamin,male,43,1,1,F.C.C. 13529,26.25,,Southampton,50.909698,-1.404351,40,2
+316,Survived,Class 3,Nilsson. Miss. Helmina Josefina,female,26,0,0,347470,7.8542,,Southampton,50.909698,-1.404351,20,3
+317,Survived,Class 2,Kantor. Mrs. Sinai (Miriam Sternin),female,24,1,0,244367,26,,Southampton,50.909698,-1.404351,20,2
+318,Not Survived,Class 2,Moraweck. Dr. Ernest,male,54,0,0,29011,14,,Southampton,50.909698,-1.404351,50,2
+319,Survived,Class 1,Wick. Miss. Mary Natalie,female,31,0,2,36928,164.8667,C7,Southampton,50.909698,-1.404351,30,1
+320,Survived,Class 1,Spedden. Mrs. Frederic Oakley (Margaretta Corning Stone),female,40,1,1,16966,134.5,E34,Cherbourg,49.639,-1.625,40,1
+321,Not Survived,Class 3,Dennis. Mr. Samuel,male,22,0,0,A/5 21172,7.25,,Southampton,50.909698,-1.404351,20,3
+322,Not Survived,Class 3,Danoff. Mr. Yoto,male,27,0,0,349219,7.8958,,Southampton,50.909698,-1.404351,20,3
+323,Survived,Class 2,Slayter. Miss. Hilda Mary,female,30,0,0,234818,12.35,,Queenstown,51.851,-8.2967,30,2
+324,Survived,Class 2,Caldwell. Mrs. Albert Francis (Sylvia Mae Harbaugh),female,22,1,1,248738,29,,Southampton,50.909698,-1.404351,20,2
+325,Not Survived,Class 3,Sage. Mr. George John Jr,male,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+326,Survived,Class 1,Young. Miss. Marie Grice,female,36,0,0,PC 17760,135.6333,C32,Cherbourg,49.639,-1.625,30,1
+327,Not Survived,Class 3,Nysveen. Mr. Johan Hansen,male,61,0,0,345364,6.2375,,Southampton,50.909698,-1.404351,60,3
+328,Survived,Class 2,Ball. Mrs. (Ada E Hall),female,36,0,0,28551,13,D,Southampton,50.909698,-1.404351,30,2
+329,Survived,Class 3,Goldsmith. Mrs. Frank John (Emily Alice Brown),female,31,1,1,363291,20.525,,Southampton,50.909698,-1.404351,30,3
+330,Survived,Class 1,Hippach. Miss. Jean Gertrude,female,16,0,1,111361,57.9792,B18,Cherbourg,49.639,-1.625,10,1
+331,Survived,Class 3,McCoy. Miss. Agnes,female,,2,0,367226,23.25,,Queenstown,51.851,-8.2967,-1,3
+332,Not Survived,Class 1,Partner. Mr. Austen,male,45,0,0,113043,28.5,C124,Southampton,50.909698,-1.404351,40,1
+333,Not Survived,Class 1,Graham. Mr. George Edward,male,38,0,1,PC 17582,153.4625,C91,Southampton,50.909698,-1.404351,30,1
+334,Not Survived,Class 3,Vander Planke. Mr. Leo Edmondus,male,16,2,0,345764,18,,Southampton,50.909698,-1.404351,10,3
+335,Survived,Class 1,Frauenthal. Mrs. Henry William (Clara Heinsheimer),female,,1,0,PC 17611,133.65,,Southampton,50.909698,-1.404351,-1,1
+336,Not Survived,Class 3,Denkoff. Mr. Mitto,male,,0,0,349225,7.8958,,Southampton,50.909698,-1.404351,-1,3
+337,Not Survived,Class 1,Pears. Mr. Thomas Clinton,male,29,1,0,113776,66.6,C2,Southampton,50.909698,-1.404351,20,1
+338,Survived,Class 1,Burns. Miss. Elizabeth Margaret,female,41,0,0,16966,134.5,E40,Cherbourg,49.639,-1.625,40,1
+339,Survived,Class 3,Dahl. Mr. Karl Edwart,male,45,0,0,7598,8.05,,Southampton,50.909698,-1.404351,40,3
+340,Not Survived,Class 1,Blackwell. Mr. Stephen Weart,male,45,0,0,113784,35.5,T,Southampton,50.909698,-1.404351,40,1
+341,Survived,Class 2,Navratil. Master. Edmond Roger,male,2,1,1,230080,26,F2,Southampton,50.909698,-1.404351,0,2
+342,Survived,Class 1,Fortune. Miss. Alice Elizabeth,female,24,3,2,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,20,1
+343,Not Survived,Class 2,Collander. Mr. Erik Gustaf,male,28,0,0,248740,13,,Southampton,50.909698,-1.404351,20,2
+344,Not Survived,Class 2,Sedgwick. Mr. Charles Frederick Waddington,male,25,0,0,244361,13,,Southampton,50.909698,-1.404351,20,2
+345,Not Survived,Class 2,Fox. Mr. Stanley Hubert,male,36,0,0,229236,13,,Southampton,50.909698,-1.404351,30,2
+346,Survived,Class 2,"Brown. Miss. Amelia ""Mildred""",female,24,0,0,248733,13,F33,Southampton,50.909698,-1.404351,20,2
+347,Survived,Class 2,Smith. Miss. Marion Elsie,female,40,0,0,31418,13,,Southampton,50.909698,-1.404351,40,2
+348,Survived,Class 3,Davison. Mrs. Thomas Henry (Mary E Finck),female,,1,0,386525,16.1,,Southampton,50.909698,-1.404351,-1,3
+349,Survived,Class 3,"Coutts. Master. William Loch ""William""",male,3,1,1,C.A. 37671,15.9,,Southampton,50.909698,-1.404351,0,3
+350,Not Survived,Class 3,Dimic. Mr. Jovan,male,42,0,0,315088,8.6625,,Southampton,50.909698,-1.404351,40,3
+351,Not Survived,Class 3,Odahl. Mr. Nils Martin,male,23,0,0,7267,9.225,,Southampton,50.909698,-1.404351,20,3
+352,Not Survived,Class 1,Williams-Lambert. Mr. Fletcher Fellows,male,,0,0,113510,35,C128,Southampton,50.909698,-1.404351,-1,1
+353,Not Survived,Class 3,Elias. Mr. Tannous,male,15,1,1,2695,7.2292,,Cherbourg,49.639,-1.625,10,3
+354,Not Survived,Class 3,Arnold-Franchi. Mr. Josef,male,25,1,0,349237,17.8,,Southampton,50.909698,-1.404351,20,3
+355,Not Survived,Class 3,Yousif. Mr. Wazli,male,,0,0,2647,7.225,,Cherbourg,49.639,-1.625,-1,3
+356,Not Survived,Class 3,Vanden Steen. Mr. Leo Peter,male,28,0,0,345783,9.5,,Southampton,50.909698,-1.404351,20,3
+357,Survived,Class 1,Bowerman. Miss. Elsie Edith,female,22,0,1,113505,55,E33,Southampton,50.909698,-1.404351,20,1
+358,Not Survived,Class 2,Funk. Miss. Annie Clemmer,female,38,0,0,237671,13,,Southampton,50.909698,-1.404351,30,2
+359,Survived,Class 3,McGovern. Miss. Mary,female,,0,0,330931,7.8792,,Queenstown,51.851,-8.2967,-1,3
+360,Survived,Class 3,"Mockler. Miss. Helen Mary ""Ellie""",female,,0,0,330980,7.8792,,Queenstown,51.851,-8.2967,-1,3
+361,Not Survived,Class 3,Skoog. Mr. Wilhelm,male,40,1,4,347088,27.9,,Southampton,50.909698,-1.404351,40,3
+362,Not Survived,Class 2,del Carlo. Mr. Sebastiano,male,29,1,0,SC/PARIS 2167,27.7208,,Cherbourg,49.639,-1.625,20,2
+363,Not Survived,Class 3,Barbara. Mrs. (Catherine David),female,45,0,1,2691,14.4542,,Cherbourg,49.639,-1.625,40,3
+364,Not Survived,Class 3,Asim. Mr. Adola,male,35,0,0,SOTON/O.Q. 3101310,7.05,,Southampton,50.909698,-1.404351,30,3
+365,Not Survived,Class 3,O'Brien. Mr. Thomas,male,,1,0,370365,15.5,,Queenstown,51.851,-8.2967,-1,3
+366,Not Survived,Class 3,Adahl. Mr. Mauritz Nils Martin,male,30,0,0,C 7076,7.25,,Southampton,50.909698,-1.404351,30,3
+367,Survived,Class 1,Warren. Mrs. Frank Manley (Anna Sophia Atkinson),female,60,1,0,110813,75.25,D37,Cherbourg,49.639,-1.625,60,1
+368,Survived,Class 3,Moussa. Mrs. (Mantoura Boulos),female,,0,0,2626,7.2292,,Cherbourg,49.639,-1.625,-1,3
+369,Survived,Class 3,Jermyn. Miss. Annie,female,,0,0,14313,7.75,,Queenstown,51.851,-8.2967,-1,3
+370,Survived,Class 1,Aubart. Mme. Leontine Pauline,female,24,0,0,PC 17477,69.3,B35,Cherbourg,49.639,-1.625,20,1
+371,Survived,Class 1,Harder. Mr. George Achilles,male,25,1,0,11765,55.4417,E50,Cherbourg,49.639,-1.625,20,1
+372,Not Survived,Class 3,Wiklund. Mr. Jakob Alfred,male,18,1,0,3101267,6.4958,,Southampton,50.909698,-1.404351,10,3
+373,Not Survived,Class 3,Beavan. Mr. William Thomas,male,19,0,0,323951,8.05,,Southampton,50.909698,-1.404351,10,3
+374,Not Survived,Class 1,Ringhini. Mr. Sante,male,22,0,0,PC 17760,135.6333,,Cherbourg,49.639,-1.625,20,1
+375,Not Survived,Class 3,Palsson. Miss. Stina Viola,female,3,3,1,349909,21.075,,Southampton,50.909698,-1.404351,0,3
+376,Survived,Class 1,Meyer. Mrs. Edgar Joseph (Leila Saks),female,,1,0,PC 17604,82.1708,,Cherbourg,49.639,-1.625,-1,1
+377,Survived,Class 3,Landergren. Miss. Aurora Adelia,female,22,0,0,C 7077,7.25,,Southampton,50.909698,-1.404351,20,3
+378,Not Survived,Class 1,Widener. Mr. Harry Elkins,male,27,0,2,113503,211.5,C82,Cherbourg,49.639,-1.625,20,1
+379,Not Survived,Class 3,Betros. Mr. Tannous,male,20,0,0,2648,4.0125,,Cherbourg,49.639,-1.625,20,3
+380,Not Survived,Class 3,Gustafsson. Mr. Karl Gideon,male,19,0,0,347069,7.775,,Southampton,50.909698,-1.404351,10,3
+381,Survived,Class 1,Bidois. Miss. Rosalie,female,42,0,0,PC 17757,227.525,,Cherbourg,49.639,-1.625,40,1
+382,Survived,Class 3,"Nakid. Miss. Maria (""Mary"")",female,1,0,2,2653,15.7417,,Cherbourg,49.639,-1.625,0,3
+383,Not Survived,Class 3,Tikkanen. Mr. Juho,male,32,0,0,STON/O 2. 3101293,7.925,,Southampton,50.909698,-1.404351,30,3
+384,Survived,Class 1,Holverson. Mrs. Alexander Oskar (Mary Aline Towner),female,35,1,0,113789,52,,Southampton,50.909698,-1.404351,30,1
+385,Not Survived,Class 3,Plotcharsky. Mr. Vasil,male,,0,0,349227,7.8958,,Southampton,50.909698,-1.404351,-1,3
+386,Not Survived,Class 2,Davies. Mr. Charles Henry,male,18,0,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,10,2
+387,Not Survived,Class 3,Goodwin. Master. Sidney Leonard,male,1,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,0,3
+388,Survived,Class 2,Buss. Miss. Kate,female,36,0,0,27849,13,,Southampton,50.909698,-1.404351,30,2
+389,Not Survived,Class 3,Sadlier. Mr. Matthew,male,,0,0,367655,7.7292,,Queenstown,51.851,-8.2967,-1,3
+390,Survived,Class 2,Lehmann. Miss. Bertha,female,17,0,0,SC 1748,12,,Cherbourg,49.639,-1.625,10,2
+391,Survived,Class 1,Carter. Mr. William Ernest,male,36,1,2,113760,120,B96 B98,Southampton,50.909698,-1.404351,30,1
+392,Survived,Class 3,Jansson. Mr. Carl Olof,male,21,0,0,350034,7.7958,,Southampton,50.909698,-1.404351,20,3
+393,Not Survived,Class 3,Gustafsson. Mr. Johan Birger,male,28,2,0,3101277,7.925,,Southampton,50.909698,-1.404351,20,3
+394,Survived,Class 1,Newell. Miss. Marjorie,female,23,1,0,35273,113.275,D36,Cherbourg,49.639,-1.625,20,1
+395,Survived,Class 3,Sandstrom. Mrs. Hjalmar (Agnes Charlotta Bengtsson),female,24,0,2,PP 9549,16.7,G6,Southampton,50.909698,-1.404351,20,3
+396,Not Survived,Class 3,Johansson. Mr. Erik,male,22,0,0,350052,7.7958,,Southampton,50.909698,-1.404351,20,3
+397,Not Survived,Class 3,Olsson. Miss. Elina,female,31,0,0,350407,7.8542,,Southampton,50.909698,-1.404351,30,3
+398,Not Survived,Class 2,McKane. Mr. Peter David,male,46,0,0,28403,26,,Southampton,50.909698,-1.404351,40,2
+399,Not Survived,Class 2,Pain. Dr. Alfred,male,23,0,0,244278,10.5,,Southampton,50.909698,-1.404351,20,2
+400,Survived,Class 2,Trout. Mrs. William H (Jessie L),female,28,0,0,240929,12.65,,Southampton,50.909698,-1.404351,20,2
+401,Survived,Class 3,Niskanen. Mr. Juha,male,39,0,0,STON/O 2. 3101289,7.925,,Southampton,50.909698,-1.404351,30,3
+402,Not Survived,Class 3,Adams. Mr. John,male,26,0,0,341826,8.05,,Southampton,50.909698,-1.404351,20,3
+403,Not Survived,Class 3,Jussila. Miss. Mari Aina,female,21,1,0,4137,9.825,,Southampton,50.909698,-1.404351,20,3
+404,Not Survived,Class 3,Hakkarainen. Mr. Pekka Pietari,male,28,1,0,STON/O2. 3101279,15.85,,Southampton,50.909698,-1.404351,20,3
+405,Not Survived,Class 3,Oreskovic. Miss. Marija,female,20,0,0,315096,8.6625,,Southampton,50.909698,-1.404351,20,3
+406,Not Survived,Class 2,Gale. Mr. Shadrach,male,34,1,0,28664,21,,Southampton,50.909698,-1.404351,30,2
+407,Not Survived,Class 3,Widegren. Mr. Carl/Charles Peter,male,51,0,0,347064,7.75,,Southampton,50.909698,-1.404351,50,3
+408,Survived,Class 2,Richards. Master. William Rowe,male,3,1,1,29106,18.75,,Southampton,50.909698,-1.404351,0,2
+409,Not Survived,Class 3,Birkeland. Mr. Hans Martin Monsen,male,21,0,0,312992,7.775,,Southampton,50.909698,-1.404351,20,3
+410,Not Survived,Class 3,Lefebre. Miss. Ida,female,,3,1,4133,25.4667,,Southampton,50.909698,-1.404351,-1,3
+411,Not Survived,Class 3,Sdycoff. Mr. Todor,male,,0,0,349222,7.8958,,Southampton,50.909698,-1.404351,-1,3
+412,Not Survived,Class 3,Hart. Mr. Henry,male,,0,0,394140,6.8583,,Queenstown,51.851,-8.2967,-1,3
+413,Survived,Class 1,Minahan. Miss. Daisy E,female,33,1,0,19928,90,C78,Queenstown,51.851,-8.2967,30,1
+414,Not Survived,Class 2,Cunningham. Mr. Alfred Fleming,male,,0,0,239853,0,,Southampton,50.909698,-1.404351,-1,2
+415,Survived,Class 3,Sundman. Mr. Johan Julian,male,44,0,0,STON/O 2. 3101269,7.925,,Southampton,50.909698,-1.404351,40,3
+416,Not Survived,Class 3,Meek. Mrs. Thomas (Annie Louise Rowley),female,,0,0,343095,8.05,,Southampton,50.909698,-1.404351,-1,3
+417,Survived,Class 2,Drew. Mrs. James Vivian (Lulu Thorne Christian),female,34,1,1,28220,32.5,,Southampton,50.909698,-1.404351,30,2
+418,Survived,Class 2,Silven. Miss. Lyyli Karoliina,female,18,0,2,250652,13,,Southampton,50.909698,-1.404351,10,2
+419,Not Survived,Class 2,Matthews. Mr. William John,male,30,0,0,28228,13,,Southampton,50.909698,-1.404351,30,2
+420,Not Survived,Class 3,Van Impe. Miss. Catharina,female,10,0,2,345773,24.15,,Southampton,50.909698,-1.404351,10,3
+421,Not Survived,Class 3,Gheorgheff. Mr. Stanio,male,,0,0,349254,7.8958,,Cherbourg,49.639,-1.625,-1,3
+422,Not Survived,Class 3,Charters. Mr. David,male,21,0,0,A/5. 13032,7.7333,,Queenstown,51.851,-8.2967,20,3
+423,Not Survived,Class 3,Zimmerman. Mr. Leo,male,29,0,0,315082,7.875,,Southampton,50.909698,-1.404351,20,3
+424,Not Survived,Class 3,Danbom. Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren),female,28,1,1,347080,14.4,,Southampton,50.909698,-1.404351,20,3
+425,Not Survived,Class 3,Rosblom. Mr. Viktor Richard,male,18,1,1,370129,20.2125,,Southampton,50.909698,-1.404351,10,3
+426,Not Survived,Class 3,Wiseman. Mr. Phillippe,male,,0,0,A/4. 34244,7.25,,Southampton,50.909698,-1.404351,-1,3
+427,Survived,Class 2,Clarke. Mrs. Charles V (Ada Maria Winfield),female,28,1,0,2003,26,,Southampton,50.909698,-1.404351,20,2
+428,Survived,Class 2,"Phillips. Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,0,0,250655,26,,Southampton,50.909698,-1.404351,10,2
+429,Not Survived,Class 3,Flynn. Mr. James,male,,0,0,364851,7.75,,Queenstown,51.851,-8.2967,-1,3
+430,Survived,Class 3,Pickard. Mr. Berk (Berk Trembisky),male,32,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton,50.909698,-1.404351,30,3
+431,Survived,Class 1,Bjornstrom-Steffansson. Mr. Mauritz Hakan,male,28,0,0,110564,26.55,C52,Southampton,50.909698,-1.404351,20,1
+432,Survived,Class 3,Thorneycroft. Mrs. Percival (Florence Kate White),female,,1,0,376564,16.1,,Southampton,50.909698,-1.404351,-1,3
+433,Survived,Class 2,Louch. Mrs. Charles Alexander (Alice Adelaide Slow),female,42,1,0,SC/AH 3085,26,,Southampton,50.909698,-1.404351,40,2
+434,Not Survived,Class 3,Kallio. Mr. Nikolai Erland,male,17,0,0,STON/O 2. 3101274,7.125,,Southampton,50.909698,-1.404351,10,3
+435,Not Survived,Class 1,Silvey. Mr. William Baird,male,50,1,0,13507,55.9,E44,Southampton,50.909698,-1.404351,50,1
+436,Survived,Class 1,Carter. Miss. Lucile Polk,female,14,1,2,113760,120,B96 B98,Southampton,50.909698,-1.404351,10,1
+437,Not Survived,Class 3,"Ford. Miss. Doolina Margaret ""Daisy""",female,21,2,2,W./C. 6608,34.375,,Southampton,50.909698,-1.404351,20,3
+438,Survived,Class 2,Richards. Mrs. Sidney (Emily Hocking),female,24,2,3,29106,18.75,,Southampton,50.909698,-1.404351,20,2
+439,Not Survived,Class 1,Fortune. Mr. Mark,male,64,1,4,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,60,1
+440,Not Survived,Class 2,Kvillner. Mr. Johan Henrik Johannesson,male,31,0,0,C.A. 18723,10.5,,Southampton,50.909698,-1.404351,30,2
+441,Survived,Class 2,Hart. Mrs. Benjamin (Esther Ada Bloomfield),female,45,1,1,F.C.C. 13529,26.25,,Southampton,50.909698,-1.404351,40,2
+442,Not Survived,Class 3,Hampe. Mr. Leon,male,20,0,0,345769,9.5,,Southampton,50.909698,-1.404351,20,3
+443,Not Survived,Class 3,Petterson. Mr. Johan Emil,male,25,1,0,347076,7.775,,Southampton,50.909698,-1.404351,20,3
+444,Survived,Class 2,Reynaldo. Ms. Encarnacion,female,28,0,0,230434,13,,Southampton,50.909698,-1.404351,20,2
+445,Survived,Class 3,Johannesen-Bratthammer. Mr. Bernt,male,,0,0,65306,8.1125,,Southampton,50.909698,-1.404351,-1,3
+446,Survived,Class 1,Dodge. Master. Washington,male,4,0,2,33638,81.8583,A34,Southampton,50.909698,-1.404351,0,1
+447,Survived,Class 2,Mellinger. Miss. Madeleine Violet,female,13,0,1,250644,19.5,,Southampton,50.909698,-1.404351,10,2
+448,Survived,Class 1,Seward. Mr. Frederic Kimber,male,34,0,0,113794,26.55,,Southampton,50.909698,-1.404351,30,1
+449,Survived,Class 3,Baclini. Miss. Marie Catherine,female,5,2,1,2666,19.2583,,Cherbourg,49.639,-1.625,0,3
+450,Survived,Class 1,Peuchen. Major. Arthur Godfrey,male,52,0,0,113786,30.5,C104,Southampton,50.909698,-1.404351,50,1
+451,Not Survived,Class 2,West. Mr. Edwy Arthur,male,36,1,2,C.A. 34651,27.75,,Southampton,50.909698,-1.404351,30,2
+452,Not Survived,Class 3,Hagland. Mr. Ingvald Olai Olsen,male,,1,0,65303,19.9667,,Southampton,50.909698,-1.404351,-1,3
+453,Not Survived,Class 1,Foreman. Mr. Benjamin Laventall,male,30,0,0,113051,27.75,C111,Cherbourg,49.639,-1.625,30,1
+454,Survived,Class 1,Goldenberg. Mr. Samuel L,male,49,1,0,17453,89.1042,C92,Cherbourg,49.639,-1.625,40,1
+455,Not Survived,Class 3,Peduzzi. Mr. Joseph,male,,0,0,A/5 2817,8.05,,Southampton,50.909698,-1.404351,-1,3
+456,Survived,Class 3,Jalsevac. Mr. Ivan,male,29,0,0,349240,7.8958,,Cherbourg,49.639,-1.625,20,3
+457,Not Survived,Class 1,Millet. Mr. Francis Davis,male,65,0,0,13509,26.55,E38,Southampton,50.909698,-1.404351,60,1
+458,Survived,Class 1,Kenyon. Mrs. Frederick R (Marion),female,,1,0,17464,51.8625,D21,Southampton,50.909698,-1.404351,-1,1
+459,Survived,Class 2,Toomey. Miss. Ellen,female,50,0,0,F.C.C. 13531,10.5,,Southampton,50.909698,-1.404351,50,2
+460,Not Survived,Class 3,O'Connor. Mr. Maurice,male,,0,0,371060,7.75,,Queenstown,51.851,-8.2967,-1,3
+461,Survived,Class 1,Anderson. Mr. Harry,male,48,0,0,19952,26.55,E12,Southampton,50.909698,-1.404351,40,1
+462,Not Survived,Class 3,Morley. Mr. William,male,34,0,0,364506,8.05,,Southampton,50.909698,-1.404351,30,3
+463,Not Survived,Class 1,Gee. Mr. Arthur H,male,47,0,0,111320,38.5,E63,Southampton,50.909698,-1.404351,40,1
+464,Not Survived,Class 2,Milling. Mr. Jacob Christian,male,48,0,0,234360,13,,Southampton,50.909698,-1.404351,40,2
+465,Not Survived,Class 3,Maisner. Mr. Simon,male,,0,0,A/S 2816,8.05,,Southampton,50.909698,-1.404351,-1,3
+466,Not Survived,Class 3,Goncalves. Mr. Manuel Estanslas,male,38,0,0,SOTON/O.Q. 3101306,7.05,,Southampton,50.909698,-1.404351,30,3
+467,Not Survived,Class 2,Campbell. Mr. William,male,,0,0,239853,0,,Southampton,50.909698,-1.404351,-1,2
+468,Not Survived,Class 1,Smart. Mr. John Montgomery,male,56,0,0,113792,26.55,,Southampton,50.909698,-1.404351,50,1
+469,Not Survived,Class 3,Scanlan. Mr. James,male,,0,0,36209,7.725,,Queenstown,51.851,-8.2967,-1,3
+470,Survived,Class 3,Baclini. Miss. Helene Barbara,female,0,2,1,2666,19.2583,,Cherbourg,49.639,-1.625,0,3
+471,Not Survived,Class 3,Keefe. Mr. Arthur,male,,0,0,323592,7.25,,Southampton,50.909698,-1.404351,-1,3
+472,Not Survived,Class 3,Cacic. Mr. Luka,male,38,0,0,315089,8.6625,,Southampton,50.909698,-1.404351,30,3
+473,Survived,Class 2,West. Mrs. Edwy Arthur (Ada Mary Worth),female,33,1,2,C.A. 34651,27.75,,Southampton,50.909698,-1.404351,30,2
+474,Survived,Class 2,Jerwan. Mrs. Amin S (Marie Marthe Thuillard),female,23,0,0,SC/AH Basle 541,13.7917,D,Cherbourg,49.639,-1.625,20,2
+475,Not Survived,Class 3,Strandberg. Miss. Ida Sofia,female,22,0,0,7553,9.8375,,Southampton,50.909698,-1.404351,20,3
+476,Not Survived,Class 1,Clifford. Mr. George Quincy,male,,0,0,110465,52,A14,Southampton,50.909698,-1.404351,-1,1
+477,Not Survived,Class 2,Renouf. Mr. Peter Henry,male,34,1,0,31027,21,,Southampton,50.909698,-1.404351,30,2
+478,Not Survived,Class 3,Braund. Mr. Lewis Richard,male,29,1,0,3460,7.0458,,Southampton,50.909698,-1.404351,20,3
+479,Not Survived,Class 3,Karlsson. Mr. Nils August,male,22,0,0,350060,7.5208,,Southampton,50.909698,-1.404351,20,3
+480,Survived,Class 3,Hirvonen. Miss. Hildur E,female,2,0,1,3101298,12.2875,,Southampton,50.909698,-1.404351,0,3
+481,Not Survived,Class 3,Goodwin. Master. Harold Victor,male,9,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,0,3
+482,Not Survived,Class 2,"Frost. Mr. Anthony Wood ""Archie""",male,,0,0,239854,0,,Southampton,50.909698,-1.404351,-1,2
+483,Not Survived,Class 3,Rouse. Mr. Richard Henry,male,50,0,0,A/5 3594,8.05,,Southampton,50.909698,-1.404351,50,3
+484,Survived,Class 3,Turkula. Mrs. (Hedwig),female,63,0,0,4134,9.5875,,Southampton,50.909698,-1.404351,60,3
+485,Survived,Class 1,Bishop. Mr. Dickinson H,male,25,1,0,11967,91.0792,B49,Cherbourg,49.639,-1.625,20,1
+486,Not Survived,Class 3,Lefebre. Miss. Jeannie,female,,3,1,4133,25.4667,,Southampton,50.909698,-1.404351,-1,3
+487,Survived,Class 1,Hoyt. Mrs. Frederick Maxfield (Jane Anne Forby),female,35,1,0,19943,90,C93,Southampton,50.909698,-1.404351,30,1
+488,Not Survived,Class 1,Kent. Mr. Edward Austin,male,58,0,0,11771,29.7,B37,Cherbourg,49.639,-1.625,50,1
+489,Not Survived,Class 3,Somerton. Mr. Francis William,male,30,0,0,A.5. 18509,8.05,,Southampton,50.909698,-1.404351,30,3
+490,Survived,Class 3,"Coutts. Master. Eden Leslie ""Neville""",male,9,1,1,C.A. 37671,15.9,,Southampton,50.909698,-1.404351,0,3
+491,Not Survived,Class 3,Hagland. Mr. Konrad Mathias Reiersen,male,,1,0,65304,19.9667,,Southampton,50.909698,-1.404351,-1,3
+492,Not Survived,Class 3,Windelov. Mr. Einar,male,21,0,0,SOTON/OQ 3101317,7.25,,Southampton,50.909698,-1.404351,20,3
+493,Not Survived,Class 1,Molson. Mr. Harry Markland,male,55,0,0,113787,30.5,C30,Southampton,50.909698,-1.404351,50,1
+494,Not Survived,Class 1,Artagaveytia. Mr. Ramon,male,71,0,0,PC 17609,49.5042,,Cherbourg,49.639,-1.625,70,1
+495,Not Survived,Class 3,Stanley. Mr. Edward Roland,male,21,0,0,A/4 45380,8.05,,Southampton,50.909698,-1.404351,20,3
+496,Not Survived,Class 3,Yousseff. Mr. Gerious,male,,0,0,2627,14.4583,,Cherbourg,49.639,-1.625,-1,3
+497,Survived,Class 1,Eustis. Miss. Elizabeth Mussey,female,54,1,0,36947,78.2667,D20,Cherbourg,49.639,-1.625,50,1
+498,Not Survived,Class 3,Shellard. Mr. Frederick William,male,,0,0,C.A. 6212,15.1,,Southampton,50.909698,-1.404351,-1,3
+499,Not Survived,Class 1,Allison. Mrs. Hudson J C (Bessie Waldo Daniels),female,25,1,2,113781,151.55,C22 C26,Southampton,50.909698,-1.404351,20,1
+500,Not Survived,Class 3,Svensson. Mr. Olof,male,24,0,0,350035,7.7958,,Southampton,50.909698,-1.404351,20,3
+501,Not Survived,Class 3,Calic. Mr. Petar,male,17,0,0,315086,8.6625,,Southampton,50.909698,-1.404351,10,3
+502,Not Survived,Class 3,Canavan. Miss. Mary,female,21,0,0,364846,7.75,,Queenstown,51.851,-8.2967,20,3
+503,Not Survived,Class 3,O'Sullivan. Miss. Bridget Mary,female,,0,0,330909,7.6292,,Queenstown,51.851,-8.2967,-1,3
+504,Not Survived,Class 3,Laitinen. Miss. Kristina Sofia,female,37,0,0,4135,9.5875,,Southampton,50.909698,-1.404351,30,3
+505,Survived,Class 1,Maioni. Miss. Roberta,female,16,0,0,110152,86.5,B79,Southampton,50.909698,-1.404351,10,1
+506,Not Survived,Class 1,Penasco y Castellana. Mr. Victor de Satode,male,18,1,0,PC 17758,108.9,C65,Cherbourg,49.639,-1.625,10,1
+507,Survived,Class 2,Quick. Mrs. Frederick Charles (Jane Richards),female,33,0,2,26360,26,,Southampton,50.909698,-1.404351,30,2
+508,Survived,Class 1,"Bradley. Mr. George (""George Arthur Brayton"")",male,,0,0,111427,26.55,,Southampton,50.909698,-1.404351,-1,1
+509,Not Survived,Class 3,Olsen. Mr. Henry Margido,male,28,0,0,C 4001,22.525,,Southampton,50.909698,-1.404351,20,3
+510,Survived,Class 3,Lang. Mr. Fang,male,26,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,20,3
+511,Survived,Class 3,Daly. Mr. Eugene Patrick,male,29,0,0,382651,7.75,,Queenstown,51.851,-8.2967,20,3
+512,Not Survived,Class 3,Webber. Mr. James,male,,0,0,SOTON/OQ 3101316,8.05,,Southampton,50.909698,-1.404351,-1,3
+513,Survived,Class 1,McGough. Mr. James Robert,male,36,0,0,PC 17473,26.2875,E25,Southampton,50.909698,-1.404351,30,1
+514,Survived,Class 1,Rothschild. Mrs. Martin (Elizabeth L. Barrett),female,54,1,0,PC 17603,59.4,,Cherbourg,49.639,-1.625,50,1
+515,Not Survived,Class 3,Coleff. Mr. Satio,male,24,0,0,349209,7.4958,,Southampton,50.909698,-1.404351,20,3
+516,Not Survived,Class 1,Walker. Mr. William Anderson,male,47,0,0,36967,34.0208,D46,Southampton,50.909698,-1.404351,40,1
+517,Survived,Class 2,Lemore. Mrs. (Amelia Milley),female,34,0,0,C.A. 34260,10.5,F33,Southampton,50.909698,-1.404351,30,2
+518,Not Survived,Class 3,Ryan. Mr. Patrick,male,,0,0,371110,24.15,,Queenstown,51.851,-8.2967,-1,3
+519,Survived,Class 2,"Angle. Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,1,0,226875,26,,Southampton,50.909698,-1.404351,30,2
+520,Not Survived,Class 3,Pavlovic. Mr. Stefo,male,32,0,0,349242,7.8958,,Southampton,50.909698,-1.404351,30,3
+521,Survived,Class 1,Perreault. Miss. Anne,female,30,0,0,12749,93.5,B73,Southampton,50.909698,-1.404351,30,1
+522,Not Survived,Class 3,Vovk. Mr. Janko,male,22,0,0,349252,7.8958,,Southampton,50.909698,-1.404351,20,3
+523,Not Survived,Class 3,Lahoud. Mr. Sarkis,male,,0,0,2624,7.225,,Cherbourg,49.639,-1.625,-1,3
+524,Survived,Class 1,Hippach. Mrs. Louis Albert (Ida Sophia Fischer),female,44,0,1,111361,57.9792,B18,Cherbourg,49.639,-1.625,40,1
+525,Not Survived,Class 3,Kassem. Mr. Fared,male,,0,0,2700,7.2292,,Cherbourg,49.639,-1.625,-1,3
+526,Not Survived,Class 3,Farrell. Mr. James,male,40,0,0,367232,7.75,,Queenstown,51.851,-8.2967,40,3
+527,Survived,Class 2,Ridsdale. Miss. Lucy,female,50,0,0,W./C. 14258,10.5,,Southampton,50.909698,-1.404351,50,2
+528,Not Survived,Class 1,Farthing. Mr. John,male,,0,0,PC 17483,221.7792,C95,Southampton,50.909698,-1.404351,-1,1
+529,Not Survived,Class 3,Salonen. Mr. Johan Werner,male,39,0,0,3101296,7.925,,Southampton,50.909698,-1.404351,30,3
+530,Not Survived,Class 2,Hocking. Mr. Richard George,male,23,2,1,29104,11.5,,Southampton,50.909698,-1.404351,20,2
+531,Survived,Class 2,Quick. Miss. Phyllis May,female,2,1,1,26360,26,,Southampton,50.909698,-1.404351,0,2
+532,Not Survived,Class 3,Toufik. Mr. Nakli,male,,0,0,2641,7.2292,,Cherbourg,49.639,-1.625,-1,3
+533,Not Survived,Class 3,Elias. Mr. Joseph Jr,male,17,1,1,2690,7.2292,,Cherbourg,49.639,-1.625,10,3
+534,Survived,Class 3,Peter. Mrs. Catherine (Catherine Rizk),female,,0,2,2668,22.3583,,Cherbourg,49.639,-1.625,-1,3
+535,Not Survived,Class 3,Cacic. Miss. Marija,female,30,0,0,315084,8.6625,,Southampton,50.909698,-1.404351,30,3
+536,Survived,Class 2,Hart. Miss. Eva Miriam,female,7,0,2,F.C.C. 13529,26.25,,Southampton,50.909698,-1.404351,0,2
+537,Not Survived,Class 1,Butt. Major. Archibald Willingham,male,45,0,0,113050,26.55,B38,Southampton,50.909698,-1.404351,40,1
+538,Survived,Class 1,LeRoy. Miss. Bertha,female,30,0,0,PC 17761,106.425,,Cherbourg,49.639,-1.625,30,1
+539,Not Survived,Class 3,Risien. Mr. Samuel Beard,male,,0,0,364498,14.5,,Southampton,50.909698,-1.404351,-1,3
+540,Survived,Class 1,Frolicher. Miss. Hedwig Margaritha,female,22,0,2,13568,49.5,B39,Cherbourg,49.639,-1.625,20,1
+541,Survived,Class 1,Crosby. Miss. Harriet R,female,36,0,2,WE/P 5735,71,B22,Southampton,50.909698,-1.404351,30,1
+542,Not Survived,Class 3,Andersson. Miss. Ingeborg Constanzia,female,9,4,2,347082,31.275,,Southampton,50.909698,-1.404351,0,3
+543,Not Survived,Class 3,Andersson. Miss. Sigrid Elisabeth,female,11,4,2,347082,31.275,,Southampton,50.909698,-1.404351,10,3
+544,Survived,Class 2,Beane. Mr. Edward,male,32,1,0,2908,26,,Southampton,50.909698,-1.404351,30,2
+545,Not Survived,Class 1,Douglas. Mr. Walter Donald,male,50,1,0,PC 17761,106.425,C86,Cherbourg,49.639,-1.625,50,1
+546,Not Survived,Class 1,Nicholson. Mr. Arthur Ernest,male,64,0,0,693,26,,Southampton,50.909698,-1.404351,60,1
+547,Survived,Class 2,Beane. Mrs. Edward (Ethel Clarke),female,19,1,0,2908,26,,Southampton,50.909698,-1.404351,10,2
+548,Survived,Class 2,Padro y Manent. Mr. Julian,male,,0,0,SC/PARIS 2146,13.8625,,Cherbourg,49.639,-1.625,-1,2
+549,Not Survived,Class 3,Goldsmith. Mr. Frank John,male,33,1,1,363291,20.525,,Southampton,50.909698,-1.404351,30,3
+550,Survived,Class 2,Davies. Master. John Morgan Jr,male,8,1,1,C.A. 33112,36.75,,Southampton,50.909698,-1.404351,0,2
+551,Survived,Class 1,Thayer. Mr. John Borland Jr,male,17,0,2,17421,110.8833,C70,Cherbourg,49.639,-1.625,10,1
+552,Not Survived,Class 2,Sharp. Mr. Percival James R,male,27,0,0,244358,26,,Southampton,50.909698,-1.404351,20,2
+553,Not Survived,Class 3,O'Brien. Mr. Timothy,male,,0,0,330979,7.8292,,Queenstown,51.851,-8.2967,-1,3
+554,Survived,Class 3,"Leeni. Mr. Fahim (""Philip Zenni"")",male,22,0,0,2620,7.225,,Cherbourg,49.639,-1.625,20,3
+555,Survived,Class 3,Ohman. Miss. Velin,female,22,0,0,347085,7.775,,Southampton,50.909698,-1.404351,20,3
+556,Not Survived,Class 1,Wright. Mr. George,male,62,0,0,113807,26.55,,Southampton,50.909698,-1.404351,60,1
+557,Survived,Class 1,"Duff Gordon. Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,1,0,11755,39.6,A16,Cherbourg,49.639,-1.625,40,1
+558,Not Survived,Class 1,Robbins. Mr. Victor,male,,0,0,PC 17757,227.525,,Cherbourg,49.639,-1.625,-1,1
+559,Survived,Class 1,Taussig. Mrs. Emil (Tillie Mandelbaum),female,39,1,1,110413,79.65,E67,Southampton,50.909698,-1.404351,30,1
+560,Survived,Class 3,de Messemaeker. Mrs. Guillaume Joseph (Emma),female,36,1,0,345572,17.4,,Southampton,50.909698,-1.404351,30,3
+561,Not Survived,Class 3,Morrow. Mr. Thomas Rowan,male,,0,0,372622,7.75,,Queenstown,51.851,-8.2967,-1,3
+562,Not Survived,Class 3,Sivic. Mr. Husein,male,40,0,0,349251,7.8958,,Southampton,50.909698,-1.404351,40,3
+563,Not Survived,Class 2,Norman. Mr. Robert Douglas,male,28,0,0,218629,13.5,,Southampton,50.909698,-1.404351,20,2
+564,Not Survived,Class 3,Simmons. Mr. John,male,,0,0,SOTON/OQ 392082,8.05,,Southampton,50.909698,-1.404351,-1,3
+565,Not Survived,Class 3,Meanwell. Miss. (Marion Ogden),female,,0,0,SOTON/O.Q. 392087,8.05,,Southampton,50.909698,-1.404351,-1,3
+566,Not Survived,Class 3,Davies. Mr. Alfred J,male,24,2,0,A/4 48871,24.15,,Southampton,50.909698,-1.404351,20,3
+567,Not Survived,Class 3,Stoytcheff. Mr. Ilia,male,19,0,0,349205,7.8958,,Southampton,50.909698,-1.404351,10,3
+568,Not Survived,Class 3,Palsson. Mrs. Nils (Alma Cornelia Berglund),female,29,0,4,349909,21.075,,Southampton,50.909698,-1.404351,20,3
+569,Not Survived,Class 3,Doharr. Mr. Tannous,male,,0,0,2686,7.2292,,Cherbourg,49.639,-1.625,-1,3
+570,Survived,Class 3,Jonsson. Mr. Carl,male,32,0,0,350417,7.8542,,Southampton,50.909698,-1.404351,30,3
+571,Survived,Class 2,Harris. Mr. George,male,62,0,0,S.W./PP 752,10.5,,Southampton,50.909698,-1.404351,60,2
+572,Survived,Class 1,Appleton. Mrs. Edward Dale (Charlotte Lamson),female,53,2,0,11769,51.4792,C101,Southampton,50.909698,-1.404351,50,1
+573,Survived,Class 1,"Flynn. Mr. John Irwin (""Irving"")",male,36,0,0,PC 17474,26.3875,E25,Southampton,50.909698,-1.404351,30,1
+574,Survived,Class 3,Kelly. Miss. Mary,female,,0,0,14312,7.75,,Queenstown,51.851,-8.2967,-1,3
+575,Not Survived,Class 3,Rush. Mr. Alfred George John,male,16,0,0,A/4. 20589,8.05,,Southampton,50.909698,-1.404351,10,3
+576,Not Survived,Class 3,Patchett. Mr. George,male,19,0,0,358585,14.5,,Southampton,50.909698,-1.404351,10,3
+577,Survived,Class 2,Garside. Miss. Ethel,female,34,0,0,243880,13,,Southampton,50.909698,-1.404351,30,2
+578,Survived,Class 1,Silvey. Mrs. William Baird (Alice Munger),female,39,1,0,13507,55.9,E44,Southampton,50.909698,-1.404351,30,1
+579,Not Survived,Class 3,Caram. Mrs. Joseph (Maria Elias),female,,1,0,2689,14.4583,,Cherbourg,49.639,-1.625,-1,3
+580,Survived,Class 3,Jussila. Mr. Eiriik,male,32,0,0,STON/O 2. 3101286,7.925,,Southampton,50.909698,-1.404351,30,3
+581,Survived,Class 2,Christy. Miss. Julie Rachel,female,25,1,1,237789,30,,Southampton,50.909698,-1.404351,20,2
+582,Survived,Class 1,Thayer. Mrs. John Borland (Marian Longstreth Morris),female,39,1,1,17421,110.8833,C68,Cherbourg,49.639,-1.625,30,1
+583,Not Survived,Class 2,Downton. Mr. William James,male,54,0,0,28403,26,,Southampton,50.909698,-1.404351,50,2
+584,Not Survived,Class 1,Ross. Mr. John Hugo,male,36,0,0,13049,40.125,A10,Cherbourg,49.639,-1.625,30,1
+585,Not Survived,Class 3,Paulner. Mr. Uscher,male,,0,0,3411,8.7125,,Cherbourg,49.639,-1.625,-1,3
+586,Survived,Class 1,Taussig. Miss. Ruth,female,18,0,2,110413,79.65,E68,Southampton,50.909698,-1.404351,10,1
+587,Not Survived,Class 2,Jarvis. Mr. John Denzil,male,47,0,0,237565,15,,Southampton,50.909698,-1.404351,40,2
+588,Survived,Class 1,Frolicher-Stehli. Mr. Maxmillian,male,60,1,1,13567,79.2,B41,Cherbourg,49.639,-1.625,60,1
+589,Not Survived,Class 3,Gilinski. Mr. Eliezer,male,22,0,0,14973,8.05,,Southampton,50.909698,-1.404351,20,3
+590,Not Survived,Class 3,Murdlin. Mr. Joseph,male,,0,0,A./5. 3235,8.05,,Southampton,50.909698,-1.404351,-1,3
+591,Not Survived,Class 3,Rintamaki. Mr. Matti,male,35,0,0,STON/O 2. 3101273,7.125,,Southampton,50.909698,-1.404351,30,3
+592,Survived,Class 1,Stephenson. Mrs. Walter Bertram (Martha Eustis),female,52,1,0,36947,78.2667,D20,Cherbourg,49.639,-1.625,50,1
+593,Not Survived,Class 3,Elsbury. Mr. William James,male,47,0,0,A/5 3902,7.25,,Southampton,50.909698,-1.404351,40,3
+594,Not Survived,Class 3,Bourke. Miss. Mary,female,,0,2,364848,7.75,,Queenstown,51.851,-8.2967,-1,3
+595,Not Survived,Class 2,Chapman. Mr. John Henry,male,37,1,0,SC/AH 29037,26,,Southampton,50.909698,-1.404351,30,2
+596,Not Survived,Class 3,Van Impe. Mr. Jean Baptiste,male,36,1,1,345773,24.15,,Southampton,50.909698,-1.404351,30,3
+597,Survived,Class 2,Leitch. Miss. Jessie Wills,female,,0,0,248727,33,,Southampton,50.909698,-1.404351,-1,2
+598,Not Survived,Class 3,Johnson. Mr. Alfred,male,49,0,0,LINE,0,,Southampton,50.909698,-1.404351,40,3
+599,Not Survived,Class 3,Boulos. Mr. Hanna,male,,0,0,2664,7.225,,Cherbourg,49.639,-1.625,-1,3
+600,Survived,Class 1,"Duff Gordon. Sir. Cosmo Edmund (""Mr Morgan"")",male,49,1,0,PC 17485,56.9292,A20,Cherbourg,49.639,-1.625,40,1
+601,Survived,Class 2,Jacobsohn. Mrs. Sidney Samuel (Amy Frances Christy),female,24,2,1,243847,27,,Southampton,50.909698,-1.404351,20,2
+602,Not Survived,Class 3,Slabenoff. Mr. Petco,male,,0,0,349214,7.8958,,Southampton,50.909698,-1.404351,-1,3
+603,Not Survived,Class 1,Harrington. Mr. Charles H,male,,0,0,113796,42.4,,Southampton,50.909698,-1.404351,-1,1
+604,Not Survived,Class 3,Torber. Mr. Ernst William,male,44,0,0,364511,8.05,,Southampton,50.909698,-1.404351,40,3
+605,Survived,Class 1,"Homer. Mr. Harry (""Mr E Haven"")",male,35,0,0,111426,26.55,,Cherbourg,49.639,-1.625,30,1
+606,Not Survived,Class 3,Lindell. Mr. Edvard Bengtsson,male,36,1,0,349910,15.55,,Southampton,50.909698,-1.404351,30,3
+607,Not Survived,Class 3,Karaic. Mr. Milan,male,30,0,0,349246,7.8958,,Southampton,50.909698,-1.404351,30,3
+608,Survived,Class 1,Daniel. Mr. Robert Williams,male,27,0,0,113804,30.5,,Southampton,50.909698,-1.404351,20,1
+609,Survived,Class 2,Laroche. Mrs. Joseph (Juliette Marie Louise Lafargue),female,22,1,2,SC/Paris 2123,41.5792,,Cherbourg,49.639,-1.625,20,2
+610,Survived,Class 1,Shutes. Miss. Elizabeth W,female,40,0,0,PC 17582,153.4625,C125,Southampton,50.909698,-1.404351,40,1
+611,Not Survived,Class 3,Andersson. Mrs. Anders Johan (Alfrida Konstantia Brogren),female,39,1,5,347082,31.275,,Southampton,50.909698,-1.404351,30,3
+612,Not Survived,Class 3,Jardin. Mr. Jose Neto,male,,0,0,SOTON/O.Q. 3101305,7.05,,Southampton,50.909698,-1.404351,-1,3
+613,Survived,Class 3,Murphy. Miss. Margaret Jane,female,,1,0,367230,15.5,,Queenstown,51.851,-8.2967,-1,3
+614,Not Survived,Class 3,Horgan. Mr. John,male,,0,0,370377,7.75,,Queenstown,51.851,-8.2967,-1,3
+615,Not Survived,Class 3,Brocklebank. Mr. William Alfred,male,35,0,0,364512,8.05,,Southampton,50.909698,-1.404351,30,3
+616,Survived,Class 2,Herman. Miss. Alice,female,24,1,2,220845,65,,Southampton,50.909698,-1.404351,20,2
+617,Not Survived,Class 3,Danbom. Mr. Ernst Gilbert,male,34,1,1,347080,14.4,,Southampton,50.909698,-1.404351,30,3
+618,Not Survived,Class 3,Lobb. Mrs. William Arthur (Cordelia K Stanlick),female,26,1,0,A/5. 3336,16.1,,Southampton,50.909698,-1.404351,20,3
+619,Survived,Class 2,Becker. Miss. Marion Louise,female,4,2,1,230136,39,F4,Southampton,50.909698,-1.404351,0,2
+620,Not Survived,Class 2,Gavey. Mr. Lawrence,male,26,0,0,31028,10.5,,Southampton,50.909698,-1.404351,20,2
+621,Not Survived,Class 3,Yasbeck. Mr. Antoni,male,27,1,0,2659,14.4542,,Cherbourg,49.639,-1.625,20,3
+622,Survived,Class 1,Kimball. Mr. Edwin Nelson Jr,male,42,1,0,11753,52.5542,D19,Southampton,50.909698,-1.404351,40,1
+623,Survived,Class 3,Nakid. Mr. Sahid,male,20,1,1,2653,15.7417,,Cherbourg,49.639,-1.625,20,3
+624,Not Survived,Class 3,Hansen. Mr. Henry Damsgaard,male,21,0,0,350029,7.8542,,Southampton,50.909698,-1.404351,20,3
+625,Not Survived,Class 3,"Bowen. Mr. David John ""Dai""",male,21,0,0,54636,16.1,,Southampton,50.909698,-1.404351,20,3
+626,Not Survived,Class 1,Sutton. Mr. Frederick,male,61,0,0,36963,32.3208,D50,Southampton,50.909698,-1.404351,60,1
+627,Not Survived,Class 2,Kirkland. Rev. Charles Leonard,male,57,0,0,219533,12.35,,Queenstown,51.851,-8.2967,50,2
+628,Survived,Class 1,Longley. Miss. Gretchen Fiske,female,21,0,0,13502,77.9583,D9,Southampton,50.909698,-1.404351,20,1
+629,Not Survived,Class 3,Bostandyeff. Mr. Guentcho,male,26,0,0,349224,7.8958,,Southampton,50.909698,-1.404351,20,3
+630,Not Survived,Class 3,O'Connell. Mr. Patrick D,male,,0,0,334912,7.7333,,Queenstown,51.851,-8.2967,-1,3
+631,Survived,Class 1,Barkworth. Mr. Algernon Henry Wilson,male,80,0,0,27042,30,A23,Southampton,50.909698,-1.404351,80,1
+632,Not Survived,Class 3,Lundahl. Mr. Johan Svensson,male,51,0,0,347743,7.0542,,Southampton,50.909698,-1.404351,50,3
+633,Survived,Class 1,Stahelin-Maeglin. Dr. Max,male,32,0,0,13214,30.5,B50,Cherbourg,49.639,-1.625,30,1
+634,Not Survived,Class 1,Parr. Mr. William Henry Marsh,male,,0,0,112052,0,,Southampton,50.909698,-1.404351,-1,1
+635,Not Survived,Class 3,Skoog. Miss. Mabel,female,9,3,2,347088,27.9,,Southampton,50.909698,-1.404351,0,3
+636,Survived,Class 2,Davis. Miss. Mary,female,28,0,0,237668,13,,Southampton,50.909698,-1.404351,20,2
+637,Not Survived,Class 3,Leinonen. Mr. Antti Gustaf,male,32,0,0,STON/O 2. 3101292,7.925,,Southampton,50.909698,-1.404351,30,3
+638,Not Survived,Class 2,Collyer. Mr. Harvey,male,31,1,1,C.A. 31921,26.25,,Southampton,50.909698,-1.404351,30,2
+639,Not Survived,Class 3,Panula. Mrs. Juha (Maria Emilia Ojala),female,41,0,5,3101295,39.6875,,Southampton,50.909698,-1.404351,40,3
+640,Not Survived,Class 3,Thorneycroft. Mr. Percival,male,,1,0,376564,16.1,,Southampton,50.909698,-1.404351,-1,3
+641,Not Survived,Class 3,Jensen. Mr. Hans Peder,male,20,0,0,350050,7.8542,,Southampton,50.909698,-1.404351,20,3
+642,Survived,Class 1,Sagesser. Mlle. Emma,female,24,0,0,PC 17477,69.3,B35,Cherbourg,49.639,-1.625,20,1
+643,Not Survived,Class 3,Skoog. Miss. Margit Elizabeth,female,2,3,2,347088,27.9,,Southampton,50.909698,-1.404351,0,3
+644,Survived,Class 3,Foo. Mr. Choong,male,,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,-1,3
+645,Survived,Class 3,Baclini. Miss. Eugenie,female,0,2,1,2666,19.2583,,Cherbourg,49.639,-1.625,0,3
+646,Survived,Class 1,Harper. Mr. Henry Sleeper,male,48,1,0,PC 17572,76.7292,D33,Cherbourg,49.639,-1.625,40,1
+647,Not Survived,Class 3,Cor. Mr. Liudevit,male,19,0,0,349231,7.8958,,Southampton,50.909698,-1.404351,10,3
+648,Survived,Class 1,Simonius-Blumer. Col. Oberst Alfons,male,56,0,0,13213,35.5,A26,Cherbourg,49.639,-1.625,50,1
+649,Not Survived,Class 3,Willey. Mr. Edward,male,,0,0,S.O./P.P. 751,7.55,,Southampton,50.909698,-1.404351,-1,3
+650,Survived,Class 3,Stanley. Miss. Amy Zillah Elsie,female,23,0,0,CA. 2314,7.55,,Southampton,50.909698,-1.404351,20,3
+651,Not Survived,Class 3,Mitkoff. Mr. Mito,male,,0,0,349221,7.8958,,Southampton,50.909698,-1.404351,-1,3
+652,Survived,Class 2,Doling. Miss. Elsie,female,18,0,1,231919,23,,Southampton,50.909698,-1.404351,10,2
+653,Not Survived,Class 3,Kalvik. Mr. Johannes Halvorsen,male,21,0,0,8475,8.4333,,Southampton,50.909698,-1.404351,20,3
+654,Survived,Class 3,"O'Leary. Miss. Hanora ""Norah""",female,,0,0,330919,7.8292,,Queenstown,51.851,-8.2967,-1,3
+655,Not Survived,Class 3,"Hegarty. Miss. Hanora ""Nora""",female,18,0,0,365226,6.75,,Queenstown,51.851,-8.2967,10,3
+656,Not Survived,Class 2,Hickman. Mr. Leonard Mark,male,24,2,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,20,2
+657,Not Survived,Class 3,Radeff. Mr. Alexander,male,,0,0,349223,7.8958,,Southampton,50.909698,-1.404351,-1,3
+658,Not Survived,Class 3,Bourke. Mrs. John (Catherine),female,32,1,1,364849,15.5,,Queenstown,51.851,-8.2967,30,3
+659,Not Survived,Class 2,Eitemiller. Mr. George Floyd,male,23,0,0,29751,13,,Southampton,50.909698,-1.404351,20,2
+660,Not Survived,Class 1,Newell. Mr. Arthur Webster,male,58,0,2,35273,113.275,D48,Cherbourg,49.639,-1.625,50,1
+661,Survived,Class 1,Frauenthal. Dr. Henry William,male,50,2,0,PC 17611,133.65,,Southampton,50.909698,-1.404351,50,1
+662,Not Survived,Class 3,Badt. Mr. Mohamed,male,40,0,0,2623,7.225,,Cherbourg,49.639,-1.625,40,3
+663,Not Survived,Class 1,Colley. Mr. Edward Pomeroy,male,47,0,0,5727,25.5875,E58,Southampton,50.909698,-1.404351,40,1
+664,Not Survived,Class 3,Coleff. Mr. Peju,male,36,0,0,349210,7.4958,,Southampton,50.909698,-1.404351,30,3
+665,Survived,Class 3,Lindqvist. Mr. Eino William,male,20,1,0,STON/O 2. 3101285,7.925,,Southampton,50.909698,-1.404351,20,3
+666,Not Survived,Class 2,Hickman. Mr. Lewis,male,32,2,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,30,2
+667,Not Survived,Class 2,Butler. Mr. Reginald Fenton,male,25,0,0,234686,13,,Southampton,50.909698,-1.404351,20,2
+668,Not Survived,Class 3,Rommetvedt. Mr. Knud Paust,male,,0,0,312993,7.775,,Southampton,50.909698,-1.404351,-1,3
+669,Not Survived,Class 3,Cook. Mr. Jacob,male,43,0,0,A/5 3536,8.05,,Southampton,50.909698,-1.404351,40,3
+670,Survived,Class 1,Taylor. Mrs. Elmer Zebley (Juliet Cummins Wright),female,,1,0,19996,52,C126,Southampton,50.909698,-1.404351,-1,1
+671,Survived,Class 2,Brown. Mrs. Thomas William Solomon (Elizabeth Catherine Ford),female,40,1,1,29750,39,,Southampton,50.909698,-1.404351,40,2
+672,Not Survived,Class 1,Davidson. Mr. Thornton,male,31,1,0,F.C. 12750,52,B71,Southampton,50.909698,-1.404351,30,1
+673,Not Survived,Class 2,Mitchell. Mr. Henry Michael,male,70,0,0,C.A. 24580,10.5,,Southampton,50.909698,-1.404351,70,2
+674,Survived,Class 2,Wilhelms. Mr. Charles,male,31,0,0,244270,13,,Southampton,50.909698,-1.404351,30,2
+675,Not Survived,Class 2,Watson. Mr. Ennis Hastings,male,,0,0,239856,0,,Southampton,50.909698,-1.404351,-1,2
+676,Not Survived,Class 3,Edvardsson. Mr. Gustaf Hjalmar,male,18,0,0,349912,7.775,,Southampton,50.909698,-1.404351,10,3
+677,Not Survived,Class 3,Sawyer. Mr. Frederick Charles,male,24,0,0,342826,8.05,,Southampton,50.909698,-1.404351,20,3
+678,Survived,Class 3,Turja. Miss. Anna Sofia,female,18,0,0,4138,9.8417,,Southampton,50.909698,-1.404351,10,3
+679,Not Survived,Class 3,Goodwin. Mrs. Frederick (Augusta Tyler),female,43,1,6,CA 2144,46.9,,Southampton,50.909698,-1.404351,40,3
+680,Survived,Class 1,Cardeza. Mr. Thomas Drake Martinez,male,36,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg,49.639,-1.625,30,1
+681,Not Survived,Class 3,Peters. Miss. Katie,female,,0,0,330935,8.1375,,Queenstown,51.851,-8.2967,-1,3
+682,Survived,Class 1,Hassab. Mr. Hammad,male,27,0,0,PC 17572,76.7292,D49,Cherbourg,49.639,-1.625,20,1
+683,Not Survived,Class 3,Olsvigen. Mr. Thor Anderson,male,20,0,0,6563,9.225,,Southampton,50.909698,-1.404351,20,3
+684,Not Survived,Class 3,Goodwin. Mr. Charles Edward,male,14,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,10,3
+685,Not Survived,Class 2,Brown. Mr. Thomas William Solomon,male,60,1,1,29750,39,,Southampton,50.909698,-1.404351,60,2
+686,Not Survived,Class 2,Laroche. Mr. Joseph Philippe Lemercier,male,25,1,2,SC/Paris 2123,41.5792,,Cherbourg,49.639,-1.625,20,2
+687,Not Survived,Class 3,Panula. Mr. Jaako Arnold,male,14,4,1,3101295,39.6875,,Southampton,50.909698,-1.404351,10,3
+688,Not Survived,Class 3,Dakic. Mr. Branko,male,19,0,0,349228,10.1708,,Southampton,50.909698,-1.404351,10,3
+689,Not Survived,Class 3,Fischer. Mr. Eberhard Thelander,male,18,0,0,350036,7.7958,,Southampton,50.909698,-1.404351,10,3
+690,Survived,Class 1,Madill. Miss. Georgette Alexandra,female,15,0,1,24160,211.3375,B5,Southampton,50.909698,-1.404351,10,1
+691,Survived,Class 1,Dick. Mr. Albert Adrian,male,31,1,0,17474,57,B20,Southampton,50.909698,-1.404351,30,1
+692,Survived,Class 3,Karun. Miss. Manca,female,4,0,1,349256,13.4167,,Cherbourg,49.639,-1.625,0,3
+693,Survived,Class 3,Lam. Mr. Ali,male,,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,-1,3
+694,Not Survived,Class 3,Saad. Mr. Khalil,male,25,0,0,2672,7.225,,Cherbourg,49.639,-1.625,20,3
+695,Not Survived,Class 1,Weir. Col. John,male,60,0,0,113800,26.55,,Southampton,50.909698,-1.404351,60,1
+696,Not Survived,Class 2,Chapman. Mr. Charles Henry,male,52,0,0,248731,13.5,,Southampton,50.909698,-1.404351,50,2
+697,Not Survived,Class 3,Kelly. Mr. James,male,44,0,0,363592,8.05,,Southampton,50.909698,-1.404351,40,3
+698,Survived,Class 3,"Mullens. Miss. Katherine ""Katie""",female,,0,0,35852,7.7333,,Queenstown,51.851,-8.2967,-1,3
+699,Not Survived,Class 1,Thayer. Mr. John Borland,male,49,1,1,17421,110.8833,C68,Cherbourg,49.639,-1.625,40,1
+700,Not Survived,Class 3,Humblen. Mr. Adolf Mathias Nicolai Olsen,male,42,0,0,348121,7.65,F G63,Southampton,50.909698,-1.404351,40,3
+701,Survived,Class 1,Astor. Mrs. John Jacob (Madeleine Talmadge Force),female,18,1,0,PC 17757,227.525,C62 C64,Cherbourg,49.639,-1.625,10,1
+702,Survived,Class 1,Silverthorne. Mr. Spencer Victor,male,35,0,0,PC 17475,26.2875,E24,Southampton,50.909698,-1.404351,30,1
+703,Not Survived,Class 3,Barbara. Miss. Saiide,female,18,0,1,2691,14.4542,,Cherbourg,49.639,-1.625,10,3
+704,Not Survived,Class 3,Gallagher. Mr. Martin,male,25,0,0,36864,7.7417,,Queenstown,51.851,-8.2967,20,3
+705,Not Survived,Class 3,Hansen. Mr. Henrik Juul,male,26,1,0,350025,7.8542,,Southampton,50.909698,-1.404351,20,3
+706,Not Survived,Class 2,"Morley. Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,0,0,250655,26,,Southampton,50.909698,-1.404351,30,2
+707,Survived,Class 2,"Kelly. Mrs. Florence ""Fannie""",female,45,0,0,223596,13.5,,Southampton,50.909698,-1.404351,40,2
+708,Survived,Class 1,Calderhead. Mr. Edward Pennington,male,42,0,0,PC 17476,26.2875,E24,Southampton,50.909698,-1.404351,40,1
+709,Survived,Class 1,Cleaver. Miss. Alice,female,22,0,0,113781,151.55,,Southampton,50.909698,-1.404351,20,1
+710,Survived,Class 3,"Moubarek. Master. Halim Gonios (""William George"")",male,,1,1,2661,15.2458,,Cherbourg,49.639,-1.625,-1,3
+711,Survived,Class 1,"Mayne. Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,0,0,PC 17482,49.5042,C90,Cherbourg,49.639,-1.625,20,1
+712,Not Survived,Class 1,Klaber. Mr. Herman,male,,0,0,113028,26.55,C124,Southampton,50.909698,-1.404351,-1,1
+713,Survived,Class 1,Taylor. Mr. Elmer Zebley,male,48,1,0,19996,52,C126,Southampton,50.909698,-1.404351,40,1
+714,Not Survived,Class 3,Larsson. Mr. August Viktor,male,29,0,0,7545,9.4833,,Southampton,50.909698,-1.404351,20,3
+715,Not Survived,Class 2,Greenberg. Mr. Samuel,male,52,0,0,250647,13,,Southampton,50.909698,-1.404351,50,2
+716,Not Survived,Class 3,Soholt. Mr. Peter Andreas Lauritz Andersen,male,19,0,0,348124,7.65,F G73,Southampton,50.909698,-1.404351,10,3
+717,Survived,Class 1,Endres. Miss. Caroline Louise,female,38,0,0,PC 17757,227.525,C45,Cherbourg,49.639,-1.625,30,1
+718,Survived,Class 2,"Troutt. Miss. Edwina Celia ""Winnie""",female,27,0,0,34218,10.5,E101,Southampton,50.909698,-1.404351,20,2
+719,Not Survived,Class 3,McEvoy. Mr. Michael,male,,0,0,36568,15.5,,Queenstown,51.851,-8.2967,-1,3
+720,Not Survived,Class 3,Johnson. Mr. Malkolm Joackim,male,33,0,0,347062,7.775,,Southampton,50.909698,-1.404351,30,3
+721,Survived,Class 2,"Harper. Miss. Annie Jessie ""Nina""",female,6,0,1,248727,33,,Southampton,50.909698,-1.404351,0,2
+722,Not Survived,Class 3,Jensen. Mr. Svend Lauritz,male,17,1,0,350048,7.0542,,Southampton,50.909698,-1.404351,10,3
+723,Not Survived,Class 2,Gillespie. Mr. William Henry,male,34,0,0,12233,13,,Southampton,50.909698,-1.404351,30,2
+724,Not Survived,Class 2,Hodges. Mr. Henry Price,male,50,0,0,250643,13,,Southampton,50.909698,-1.404351,50,2
+725,Survived,Class 1,Chambers. Mr. Norman Campbell,male,27,1,0,113806,53.1,E8,Southampton,50.909698,-1.404351,20,1
+726,Not Survived,Class 3,Oreskovic. Mr. Luka,male,20,0,0,315094,8.6625,,Southampton,50.909698,-1.404351,20,3
+727,Survived,Class 2,Renouf. Mrs. Peter Henry (Lillian Jefferys),female,30,3,0,31027,21,,Southampton,50.909698,-1.404351,30,2
+728,Survived,Class 3,Mannion. Miss. Margareth,female,,0,0,36866,7.7375,,Queenstown,51.851,-8.2967,-1,3
+729,Not Survived,Class 2,Bryhl. Mr. Kurt Arnold Gottfrid,male,25,1,0,236853,26,,Southampton,50.909698,-1.404351,20,2
+730,Not Survived,Class 3,Ilmakangas. Miss. Pieta Sofia,female,25,1,0,STON/O2. 3101271,7.925,,Southampton,50.909698,-1.404351,20,3
+731,Survived,Class 1,Allen. Miss. Elisabeth Walton,female,29,0,0,24160,211.3375,B5,Southampton,50.909698,-1.404351,20,1
+732,Not Survived,Class 3,Hassan. Mr. Houssein G N,male,11,0,0,2699,18.7875,,Cherbourg,49.639,-1.625,10,3
+733,Not Survived,Class 2,Knight. Mr. Robert J,male,,0,0,239855,0,,Southampton,50.909698,-1.404351,-1,2
+734,Not Survived,Class 2,Berriman. Mr. William John,male,23,0,0,28425,13,,Southampton,50.909698,-1.404351,20,2
+735,Not Survived,Class 2,Troupiansky. Mr. Moses Aaron,male,23,0,0,233639,13,,Southampton,50.909698,-1.404351,20,2
+736,Not Survived,Class 3,Williams. Mr. Leslie,male,28,0,0,54636,16.1,,Southampton,50.909698,-1.404351,20,3
+737,Not Survived,Class 3,Ford. Mrs. Edward (Margaret Ann Watson),female,48,1,3,W./C. 6608,34.375,,Southampton,50.909698,-1.404351,40,3
+738,Survived,Class 1,Lesurer. Mr. Gustave J,male,35,0,0,PC 17755,512.3292,B101,Cherbourg,49.639,-1.625,30,1
+739,Not Survived,Class 3,Ivanoff. Mr. Kanio,male,,0,0,349201,7.8958,,Southampton,50.909698,-1.404351,-1,3
+740,Not Survived,Class 3,Nankoff. Mr. Minko,male,,0,0,349218,7.8958,,Southampton,50.909698,-1.404351,-1,3
+741,Survived,Class 1,Hawksford. Mr. Walter James,male,,0,0,16988,30,D45,Southampton,50.909698,-1.404351,-1,1
+742,Not Survived,Class 1,Cavendish. Mr. Tyrell William,male,36,1,0,19877,78.85,C46,Southampton,50.909698,-1.404351,30,1
+743,Survived,Class 1,"Ryerson. Miss. Susan Parker ""Suzette""",female,21,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,49.639,-1.625,20,1
+744,Not Survived,Class 3,McNamee. Mr. Neal,male,24,1,0,376566,16.1,,Southampton,50.909698,-1.404351,20,3
+745,Survived,Class 3,Stranden. Mr. Juho,male,31,0,0,STON/O 2. 3101288,7.925,,Southampton,50.909698,-1.404351,30,3
+746,Not Survived,Class 1,Crosby. Capt. Edward Gifford,male,70,1,1,WE/P 5735,71,B22,Southampton,50.909698,-1.404351,70,1
+747,Not Survived,Class 3,Abbott. Mr. Rossmore Edward,male,16,1,1,C.A. 2673,20.25,,Southampton,50.909698,-1.404351,10,3
+748,Survived,Class 2,Sinkkonen. Miss. Anna,female,30,0,0,250648,13,,Southampton,50.909698,-1.404351,30,2
+749,Not Survived,Class 1,Marvin. Mr. Daniel Warner,male,19,1,0,113773,53.1,D30,Southampton,50.909698,-1.404351,10,1
+750,Not Survived,Class 3,Connaghton. Mr. Michael,male,31,0,0,335097,7.75,,Queenstown,51.851,-8.2967,30,3
+751,Survived,Class 2,Wells. Miss. Joan,female,4,1,1,29103,23,,Southampton,50.909698,-1.404351,0,2
+752,Survived,Class 3,Moor. Master. Meier,male,6,0,1,392096,12.475,E121,Southampton,50.909698,-1.404351,0,3
+753,Not Survived,Class 3,Vande Velde. Mr. Johannes Joseph,male,33,0,0,345780,9.5,,Southampton,50.909698,-1.404351,30,3
+754,Not Survived,Class 3,Jonkoff. Mr. Lalio,male,23,0,0,349204,7.8958,,Southampton,50.909698,-1.404351,20,3
+755,Survived,Class 2,Herman. Mrs. Samuel (Jane Laver),female,48,1,2,220845,65,,Southampton,50.909698,-1.404351,40,2
+756,Survived,Class 2,Hamalainen. Master. Viljo,male,0,1,1,250649,14.5,,Southampton,50.909698,-1.404351,0,2
+757,Not Survived,Class 3,Carlsson. Mr. August Sigfrid,male,28,0,0,350042,7.7958,,Southampton,50.909698,-1.404351,20,3
+758,Not Survived,Class 2,Bailey. Mr. Percy Andrew,male,18,0,0,29108,11.5,,Southampton,50.909698,-1.404351,10,2
+759,Not Survived,Class 3,Theobald. Mr. Thomas Leonard,male,34,0,0,363294,8.05,,Southampton,50.909698,-1.404351,30,3
+760,Survived,Class 1,Rothes. the Countess. of (Lucy Noel Martha Dyer-Edwards),female,33,0,0,110152,86.5,B77,Southampton,50.909698,-1.404351,30,1
+761,Not Survived,Class 3,Garfirth. Mr. John,male,,0,0,358585,14.5,,Southampton,50.909698,-1.404351,-1,3
+762,Not Survived,Class 3,Nirva. Mr. Iisakki Antino Aijo,male,41,0,0,SOTON/O2 3101272,7.125,,Southampton,50.909698,-1.404351,40,3
+763,Survived,Class 3,Barah. Mr. Hanna Assi,male,20,0,0,2663,7.2292,,Cherbourg,49.639,-1.625,20,3
+764,Survived,Class 1,Carter. Mrs. William Ernest (Lucile Polk),female,36,1,2,113760,120,B96 B98,Southampton,50.909698,-1.404351,30,1
+765,Not Survived,Class 3,Eklund. Mr. Hans Linus,male,16,0,0,347074,7.775,,Southampton,50.909698,-1.404351,10,3
+766,Survived,Class 1,Hogeboom. Mrs. John C (Anna Andrews),female,51,1,0,13502,77.9583,D11,Southampton,50.909698,-1.404351,50,1
+767,Not Survived,Class 1,Brewe. Dr. Arthur Jackson,male,,0,0,112379,39.6,,Cherbourg,49.639,-1.625,-1,1
+768,Not Survived,Class 3,Mangan. Miss. Mary,female,30,0,0,364850,7.75,,Queenstown,51.851,-8.2967,30,3
+769,Not Survived,Class 3,Moran. Mr. Daniel J,male,,1,0,371110,24.15,,Queenstown,51.851,-8.2967,-1,3
+770,Not Survived,Class 3,Gronnestad. Mr. Daniel Danielsen,male,32,0,0,8471,8.3625,,Southampton,50.909698,-1.404351,30,3
+771,Not Survived,Class 3,Lievens. Mr. Rene Aime,male,24,0,0,345781,9.5,,Southampton,50.909698,-1.404351,20,3
+772,Not Survived,Class 3,Jensen. Mr. Niels Peder,male,48,0,0,350047,7.8542,,Southampton,50.909698,-1.404351,40,3
+773,Not Survived,Class 2,Mack. Mrs. (Mary),female,57,0,0,S.O./P.P. 3,10.5,E77,Southampton,50.909698,-1.404351,50,2
+774,Not Survived,Class 3,Elias. Mr. Dibo,male,,0,0,2674,7.225,,Cherbourg,49.639,-1.625,-1,3
+775,Survived,Class 2,Hocking. Mrs. Elizabeth (Eliza Needs),female,54,1,3,29105,23,,Southampton,50.909698,-1.404351,50,2
+776,Not Survived,Class 3,Myhrman. Mr. Pehr Fabian Oliver Malkolm,male,18,0,0,347078,7.75,,Southampton,50.909698,-1.404351,10,3
+777,Not Survived,Class 3,Tobin. Mr. Roger,male,,0,0,383121,7.75,F38,Queenstown,51.851,-8.2967,-1,3
+778,Survived,Class 3,Emanuel. Miss. Virginia Ethel,female,5,0,0,364516,12.475,,Southampton,50.909698,-1.404351,0,3
+779,Not Survived,Class 3,Kilgannon. Mr. Thomas J,male,,0,0,36865,7.7375,,Queenstown,51.851,-8.2967,-1,3
+780,Survived,Class 1,Robert. Mrs. Edward Scott (Elisabeth Walton McMillan),female,43,0,1,24160,211.3375,B3,Southampton,50.909698,-1.404351,40,1
+781,Survived,Class 3,Ayoub. Miss. Banoura,female,13,0,0,2687,7.2292,,Cherbourg,49.639,-1.625,10,3
+782,Survived,Class 1,Dick. Mrs. Albert Adrian (Vera Gillespie),female,17,1,0,17474,57,B20,Southampton,50.909698,-1.404351,10,1
+783,Not Survived,Class 1,Long. Mr. Milton Clyde,male,29,0,0,113501,30,D6,Southampton,50.909698,-1.404351,20,1
+784,Not Survived,Class 3,Johnston. Mr. Andrew G,male,,1,2,W./C. 6607,23.45,,Southampton,50.909698,-1.404351,-1,3
+785,Not Survived,Class 3,Ali. Mr. William,male,25,0,0,SOTON/O.Q. 3101312,7.05,,Southampton,50.909698,-1.404351,20,3
+786,Not Survived,Class 3,Harmer. Mr. Abraham (David Lishin),male,25,0,0,374887,7.25,,Southampton,50.909698,-1.404351,20,3
+787,Survived,Class 3,Sjoblom. Miss. Anna Sofia,female,18,0,0,3101265,7.4958,,Southampton,50.909698,-1.404351,10,3
+788,Not Survived,Class 3,Rice. Master. George Hugh,male,8,4,1,382652,29.125,,Queenstown,51.851,-8.2967,0,3
+789,Survived,Class 3,Dean. Master. Bertram Vere,male,1,1,2,C.A. 2315,20.575,,Southampton,50.909698,-1.404351,0,3
+790,Not Survived,Class 1,Guggenheim. Mr. Benjamin,male,46,0,0,PC 17593,79.2,B82 B84,Cherbourg,49.639,-1.625,40,1
+791,Not Survived,Class 3,"Keane. Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Queenstown,51.851,-8.2967,-1,3
+792,Not Survived,Class 2,Gaskell. Mr. Alfred,male,16,0,0,239865,26,,Southampton,50.909698,-1.404351,10,2
+793,Not Survived,Class 3,Sage. Miss. Stella Anna,female,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+794,Not Survived,Class 1,Hoyt. Mr. William Fisher,male,,0,0,PC 17600,30.6958,,Cherbourg,49.639,-1.625,-1,1
+795,Not Survived,Class 3,Dantcheff. Mr. Ristiu,male,25,0,0,349203,7.8958,,Southampton,50.909698,-1.404351,20,3
+796,Not Survived,Class 2,Otter. Mr. Richard,male,39,0,0,28213,13,,Southampton,50.909698,-1.404351,30,2
+797,Survived,Class 1,Leader. Dr. Alice (Farnham),female,49,0,0,17465,25.9292,D17,Southampton,50.909698,-1.404351,40,1
+798,Survived,Class 3,Osman. Mrs. Mara,female,31,0,0,349244,8.6833,,Southampton,50.909698,-1.404351,30,3
+799,Not Survived,Class 3,Ibrahim Shawah. Mr. Yousseff,male,30,0,0,2685,7.2292,,Cherbourg,49.639,-1.625,30,3
+800,Not Survived,Class 3,Van Impe. Mrs. Jean Baptiste (Rosalie Paula Govaert),female,30,1,1,345773,24.15,,Southampton,50.909698,-1.404351,30,3
+801,Not Survived,Class 2,Ponesell. Mr. Martin,male,34,0,0,250647,13,,Southampton,50.909698,-1.404351,30,2
+802,Survived,Class 2,Collyer. Mrs. Harvey (Charlotte Annie Tate),female,31,1,1,C.A. 31921,26.25,,Southampton,50.909698,-1.404351,30,2
+803,Survived,Class 1,Carter. Master. William Thornton II,male,11,1,2,113760,120,B96 B98,Southampton,50.909698,-1.404351,10,1
+804,Survived,Class 3,Thomas. Master. Assad Alexander,male,0,0,1,2625,8.5167,,Cherbourg,49.639,-1.625,0,3
+805,Survived,Class 3,Hedman. Mr. Oskar Arvid,male,27,0,0,347089,6.975,,Southampton,50.909698,-1.404351,20,3
+806,Not Survived,Class 3,Johansson. Mr. Karl Johan,male,31,0,0,347063,7.775,,Southampton,50.909698,-1.404351,30,3
+807,Not Survived,Class 1,Andrews. Mr. Thomas Jr,male,39,0,0,112050,0,A36,Southampton,50.909698,-1.404351,30,1
+808,Not Survived,Class 3,Pettersson. Miss. Ellen Natalia,female,18,0,0,347087,7.775,,Southampton,50.909698,-1.404351,10,3
+809,Not Survived,Class 2,Meyer. Mr. August,male,39,0,0,248723,13,,Southampton,50.909698,-1.404351,30,2
+810,Survived,Class 1,Chambers. Mrs. Norman Campbell (Bertha Griggs),female,33,1,0,113806,53.1,E8,Southampton,50.909698,-1.404351,30,1
+811,Not Survived,Class 3,Alexander. Mr. William,male,26,0,0,3474,7.8875,,Southampton,50.909698,-1.404351,20,3
+812,Not Survived,Class 3,Lester. Mr. James,male,39,0,0,A/4 48871,24.15,,Southampton,50.909698,-1.404351,30,3
+813,Not Survived,Class 2,Slemen. Mr. Richard James,male,35,0,0,28206,10.5,,Southampton,50.909698,-1.404351,30,2
+814,Not Survived,Class 3,Andersson. Miss. Ebba Iris Alfrida,female,6,4,2,347082,31.275,,Southampton,50.909698,-1.404351,0,3
+815,Not Survived,Class 3,Tomlin. Mr. Ernest Portage,male,30,0,0,364499,8.05,,Southampton,50.909698,-1.404351,30,3
+816,Not Survived,Class 1,Fry. Mr. Richard,male,,0,0,112058,0,B102,Southampton,50.909698,-1.404351,-1,1
+817,Not Survived,Class 3,Heininen. Miss. Wendla Maria,female,23,0,0,STON/O2. 3101290,7.925,,Southampton,50.909698,-1.404351,20,3
+818,Not Survived,Class 2,Mallet. Mr. Albert,male,31,1,1,S.C./PARIS 2079,37.0042,,Cherbourg,49.639,-1.625,30,2
+819,Not Survived,Class 3,Holm. Mr. John Fredrik Alexander,male,43,0,0,C 7075,6.45,,Southampton,50.909698,-1.404351,40,3
+820,Not Survived,Class 3,Skoog. Master. Karl Thorsten,male,10,3,2,347088,27.9,,Southampton,50.909698,-1.404351,10,3
+821,Survived,Class 1,Hays. Mrs. Charles Melville (Clara Jennings Gregg),female,52,1,1,12749,93.5,B69,Southampton,50.909698,-1.404351,50,1
+822,Survived,Class 3,Lulic. Mr. Nikola,male,27,0,0,315098,8.6625,,Southampton,50.909698,-1.404351,20,3
+823,Not Survived,Class 1,Reuchlin. Jonkheer. John George,male,38,0,0,19972,0,,Southampton,50.909698,-1.404351,30,1
+824,Survived,Class 3,Moor. Mrs. (Beila),female,27,0,1,392096,12.475,E121,Southampton,50.909698,-1.404351,20,3
+825,Not Survived,Class 3,Panula. Master. Urho Abraham,male,2,4,1,3101295,39.6875,,Southampton,50.909698,-1.404351,0,3
+826,Not Survived,Class 3,Flynn. Mr. John,male,,0,0,368323,6.95,,Queenstown,51.851,-8.2967,-1,3
+827,Not Survived,Class 3,Lam. Mr. Len,male,,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,-1,3
+828,Survived,Class 2,Mallet. Master. Andre,male,1,0,2,S.C./PARIS 2079,37.0042,,Cherbourg,49.639,-1.625,0,2
+829,Survived,Class 3,McCormack. Mr. Thomas Joseph,male,,0,0,367228,7.75,,Queenstown,51.851,-8.2967,-1,3
+831,Survived,Class 3,Yasbeck. Mrs. Antoni (Selini Alexander),female,15,1,0,2659,14.4542,,Cherbourg,49.639,-1.625,10,3
+832,Survived,Class 2,Richards. Master. George Sibley,male,0,1,1,29106,18.75,,Southampton,50.909698,-1.404351,0,2
+833,Not Survived,Class 3,Saad. Mr. Amin,male,,0,0,2671,7.2292,,Cherbourg,49.639,-1.625,-1,3
+834,Not Survived,Class 3,Augustsson. Mr. Albert,male,23,0,0,347468,7.8542,,Southampton,50.909698,-1.404351,20,3
+835,Not Survived,Class 3,Allum. Mr. Owen George,male,18,0,0,2223,8.3,,Southampton,50.909698,-1.404351,10,3
+836,Survived,Class 1,Compton. Miss. Sara Rebecca,female,39,1,1,PC 17756,83.1583,E49,Cherbourg,49.639,-1.625,30,1
+837,Not Survived,Class 3,Pasic. Mr. Jakob,male,21,0,0,315097,8.6625,,Southampton,50.909698,-1.404351,20,3
+838,Not Survived,Class 3,Sirota. Mr. Maurice,male,,0,0,392092,8.05,,Southampton,50.909698,-1.404351,-1,3
+839,Survived,Class 3,Chip. Mr. Chang,male,32,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,30,3
+840,Survived,Class 1,Marechal. Mr. Pierre,male,,0,0,11774,29.7,C47,Cherbourg,49.639,-1.625,-1,1
+841,Not Survived,Class 3,Alhomaki. Mr. Ilmari Rudolf,male,20,0,0,SOTON/O2 3101287,7.925,,Southampton,50.909698,-1.404351,20,3
+842,Not Survived,Class 2,Mudd. Mr. Thomas Charles,male,16,0,0,S.O./P.P. 3,10.5,,Southampton,50.909698,-1.404351,10,2
+843,Survived,Class 1,Serepeca. Miss. Augusta,female,30,0,0,113798,31,,Cherbourg,49.639,-1.625,30,1
+844,Not Survived,Class 3,Lemberopolous. Mr. Peter L,male,34,0,0,2683,6.4375,,Cherbourg,49.639,-1.625,30,3
+845,Not Survived,Class 3,Culumovic. Mr. Jeso,male,17,0,0,315090,8.6625,,Southampton,50.909698,-1.404351,10,3
+846,Not Survived,Class 3,Abbing. Mr. Anthony,male,42,0,0,C.A. 5547,7.55,,Southampton,50.909698,-1.404351,40,3
+847,Not Survived,Class 3,Sage. Mr. Douglas Bullen,male,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+848,Not Survived,Class 3,Markoff. Mr. Marin,male,35,0,0,349213,7.8958,,Cherbourg,49.639,-1.625,30,3
+849,Not Survived,Class 2,Harper. Rev. John,male,28,0,1,248727,33,,Southampton,50.909698,-1.404351,20,2
+850,Survived,Class 1,Goldenberg. Mrs. Samuel L (Edwiga Grabowska),female,,1,0,17453,89.1042,C92,Cherbourg,49.639,-1.625,-1,1
+851,Not Survived,Class 3,Andersson. Master. Sigvard Harald Elias,male,4,4,2,347082,31.275,,Southampton,50.909698,-1.404351,0,3
+852,Not Survived,Class 3,Svensson. Mr. Johan,male,74,0,0,347060,7.775,,Southampton,50.909698,-1.404351,70,3
+853,Not Survived,Class 3,Boulos. Miss. Nourelain,female,9,1,1,2678,15.2458,,Cherbourg,49.639,-1.625,0,3
+854,Survived,Class 1,Lines. Miss. Mary Conover,female,16,0,1,PC 17592,39.4,D28,Southampton,50.909698,-1.404351,10,1
+855,Not Survived,Class 2,Carter. Mrs. Ernest Courtenay (Lilian Hughes),female,44,1,0,244252,26,,Southampton,50.909698,-1.404351,40,2
+856,Survived,Class 3,Aks. Mrs. Sam (Leah Rosen),female,18,0,1,392091,9.35,,Southampton,50.909698,-1.404351,10,3
+857,Survived,Class 1,Wick. Mrs. George Dennick (Mary Hitchcock),female,45,1,1,36928,164.8667,,Southampton,50.909698,-1.404351,40,1
+858,Survived,Class 1,Daly. Mr. Peter Denis ,male,51,0,0,113055,26.55,E17,Southampton,50.909698,-1.404351,50,1
+859,Survived,Class 3,Baclini. Mrs. Solomon (Latifa Qurban),female,24,0,3,2666,19.2583,,Cherbourg,49.639,-1.625,20,3
+860,Not Survived,Class 3,Razi. Mr. Raihed,male,,0,0,2629,7.2292,,Cherbourg,49.639,-1.625,-1,3
+861,Not Survived,Class 3,Hansen. Mr. Claus Peter,male,41,2,0,350026,14.1083,,Southampton,50.909698,-1.404351,40,3
+862,Not Survived,Class 2,Giles. Mr. Frederick Edward,male,21,1,0,28134,11.5,,Southampton,50.909698,-1.404351,20,2
+863,Survived,Class 1,Swift. Mrs. Frederick Joel (Margaret Welles Barron),female,48,0,0,17466,25.9292,D17,Southampton,50.909698,-1.404351,40,1
+864,Not Survived,Class 3,"Sage. Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+865,Not Survived,Class 2,Gill. Mr. John William,male,24,0,0,233866,13,,Southampton,50.909698,-1.404351,20,2
+866,Survived,Class 2,Bystrom. Mrs. (Karolina),female,42,0,0,236852,13,,Southampton,50.909698,-1.404351,40,2
+867,Survived,Class 2,Duran y More. Miss. Asuncion,female,27,1,0,SC/PARIS 2149,13.8583,,Cherbourg,49.639,-1.625,20,2
+868,Not Survived,Class 1,Roebling. Mr. Washington Augustus II,male,31,0,0,PC 17590,50.4958,A24,Southampton,50.909698,-1.404351,30,1
+869,Not Survived,Class 3,van Melkebeke. Mr. Philemon,male,,0,0,345777,9.5,,Southampton,50.909698,-1.404351,-1,3
+870,Survived,Class 3,Johnson. Master. Harold Theodor,male,4,1,1,347742,11.1333,,Southampton,50.909698,-1.404351,0,3
+871,Not Survived,Class 3,Balkic. Mr. Cerin,male,26,0,0,349248,7.8958,,Southampton,50.909698,-1.404351,20,3
+872,Survived,Class 1,Beckwith. Mrs. Richard Leonard (Sallie Monypeny),female,47,1,1,11751,52.5542,D35,Southampton,50.909698,-1.404351,40,1
+873,Not Survived,Class 1,Carlsson. Mr. Frans Olof,male,33,0,0,695,5,B51 B53 B55,Southampton,50.909698,-1.404351,30,1
+874,Not Survived,Class 3,Vander Cruyssen. Mr. Victor,male,47,0,0,345765,9,,Southampton,50.909698,-1.404351,40,3
+875,Survived,Class 2,Abelson. Mrs. Samuel (Hannah Wizosky),female,28,1,0,P/PP 3381,24,,Cherbourg,49.639,-1.625,20,2
+876,Survived,Class 3,"Najib. Miss. Adele Kiamie ""Jane""",female,15,0,0,2667,7.225,,Cherbourg,49.639,-1.625,10,3
+877,Not Survived,Class 3,Gustafsson. Mr. Alfred Ossian,male,20,0,0,7534,9.8458,,Southampton,50.909698,-1.404351,20,3
+878,Not Survived,Class 3,Petroff. Mr. Nedelio,male,19,0,0,349212,7.8958,,Southampton,50.909698,-1.404351,10,3
+879,Not Survived,Class 3,Laleff. Mr. Kristo,male,,0,0,349217,7.8958,,Southampton,50.909698,-1.404351,-1,3
+880,Survived,Class 1,Potter. Mrs. Thomas Jr (Lily Alexenia Wilson),female,56,0,1,11767,83.1583,C50,Cherbourg,49.639,-1.625,50,1
+881,Survived,Class 2,Shelley. Mrs. William (Imanita Parrish Hall),female,25,0,1,230433,26,,Southampton,50.909698,-1.404351,20,2
+882,Not Survived,Class 3,Markun. Mr. Johann,male,33,0,0,349257,7.8958,,Southampton,50.909698,-1.404351,30,3
+883,Not Survived,Class 3,Dahlberg. Miss. Gerda Ulrika,female,22,0,0,7552,10.5167,,Southampton,50.909698,-1.404351,20,3
+884,Not Survived,Class 2,Banfield. Mr. Frederick James,male,28,0,0,C.A./SOTON 34068,10.5,,Southampton,50.909698,-1.404351,20,2
+885,Not Survived,Class 3,Sutehall. Mr. Henry Jr,male,25,0,0,SOTON/OQ 392076,7.05,,Southampton,50.909698,-1.404351,20,3
+886,Not Survived,Class 3,Rice. Mrs. William (Margaret Norton),female,39,0,5,382652,29.125,,Queenstown,51.851,-8.2967,30,3
+887,Not Survived,Class 2,Montvila. Rev. Juozas,male,27,0,0,211536,13,,Southampton,50.909698,-1.404351,20,2
+888,Survived,Class 1,Graham. Miss. Margaret Edith,female,19,0,0,112053,30,B42,Southampton,50.909698,-1.404351,10,1
+889,Not Survived,Class 3,"Johnston. Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,Southampton,50.909698,-1.404351,-1,3
+890,Survived,Class 1,Behr. Mr. Karl Howell,male,26,0,0,111369,30,C148,Cherbourg,49.639,-1.625,20,1
+891,Not Survived,Class 3,Dooley. Mr. Patrick,male,32,0,0,370376,7.75,,Queenstown,51.851,-8.2967,30,3
+892,Not Survived,Class 3,Kelly. Mr. James,male,34,0,0,330911,7.8292,,Queenstown,51.851,-8.2967,30,3
+893,Survived,Class 3,Wilkes. Mrs. James (Ellen Needs),female,47,1,0,363272,7,,Southampton,50.909698,-1.404351,40,3
+894,Survived,Class 2,Myles. Mr. Thomas Francis,male,62,0,0,240276,9.6875,,Queenstown,51.851,-8.2967,60,2
+895,Survived,Class 3,Wirz. Mr. Albert,male,27,0,0,315154,8.6625,,Southampton,50.909698,-1.404351,20,3
+896,Not Survived,Class 3,Hirvonen. Mrs. Alexander (Helga E Lindqvist),female,22,1,1,3101298,12.2875,,Southampton,50.909698,-1.404351,20,3
+897,Not Survived,Class 3,Svensson. Mr. Johan Cervin,male,14,0,0,7538,9.225,,Southampton,50.909698,-1.404351,10,3
+898,Not Survived,Class 3,Connolly. Miss. Kate,female,30,0,0,330972,7.6292,,Queenstown,51.851,-8.2967,30,3
+899,Not Survived,Class 2,Caldwell. Mr. Albert Francis,male,26,1,1,248738,29,,Southampton,50.909698,-1.404351,20,2
+900,Survived,Class 3,Abrahim. Mrs. Joseph (Sophie Halaut Easu),female,18,0,0,2657,7.2292,,Cherbourg,49.639,-1.625,10,3
+901,Survived,Class 3,Davies. Mr. John Samuel,male,21,2,0,A/4 48871,24.15,,Southampton,50.909698,-1.404351,20,3
+902,Survived,Class 3,Ilieff. Mr. Ylio,male,,0,0,349220,7.8958,,Southampton,50.909698,-1.404351,-1,3
+903,Survived,Class 1,Jones. Mr. Charles Cresson,male,46,0,0,694,26,,Southampton,50.909698,-1.404351,40,1
+904,Not Survived,Class 1,Snyder. Mrs. John Pillsbury (Nelle Stevenson),female,23,1,0,21228,82.2667,B45,Southampton,50.909698,-1.404351,20,1
+905,Not Survived,Class 2,Howard. Mr. Benjamin,male,63,1,0,24065,26,,Southampton,50.909698,-1.404351,60,2
+906,Not Survived,Class 1,Chaffee. Mrs. Herbert Fuller (Carrie Constance Toogood),female,47,1,0,W.E.P. 5734,61.175,E31,Southampton,50.909698,-1.404351,40,1
+907,Survived,Class 2,del Carlo. Mrs. Sebastiano (Argenia Genovesi),female,24,1,0,SC/PARIS 2167,27.7208,,Cherbourg,49.639,-1.625,20,2
+908,Not Survived,Class 2,Keane. Mr. Daniel,male,35,0,0,233734,12.35,,Queenstown,51.851,-8.2967,30,2
+909,Survived,Class 3,Assaf. Mr. Gerios,male,21,0,0,2692,7.225,,Cherbourg,49.639,-1.625,20,3
+910,Not Survived,Class 3,Ilmakangas. Miss. Ida Livija,female,27,1,0,STON/O2. 3101270,7.925,,Southampton,50.909698,-1.404351,20,3
+911,Survived,Class 3,"Assaf Khalil. Mrs. Mariana (Miriam"")""",female,45,0,0,2696,7.225,,Cherbourg,49.639,-1.625,40,3
+912,Not Survived,Class 1,Rothschild. Mr. Martin,male,55,1,0,PC 17603,59.4,,Cherbourg,49.639,-1.625,50,1
+913,Survived,Class 3,Olsen. Master. Artur Karl,male,9,0,1,C 17368,3.1708,,Southampton,50.909698,-1.404351,0,3
+914,Survived,Class 1,Flegenheim. Mrs. Alfred (Antoinette),female,,0,0,PC 17598,31.6833,,Southampton,50.909698,-1.404351,-1,1
+915,Survived,Class 1,Williams. Mr. Richard Norris II,male,21,0,1,PC 17597,61.3792,,Cherbourg,49.639,-1.625,20,1
+916,Not Survived,Class 1,Ryerson. Mrs. Arthur Larned (Emily Maria Borie),female,48,1,3,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,49.639,-1.625,40,1
+917,Survived,Class 3,Robins. Mr. Alexander A,male,50,1,0,A/5. 3337,14.5,,Southampton,50.909698,-1.404351,50,3
+918,Not Survived,Class 1,Ostby. Miss. Helene Ragnhild,female,22,0,1,113509,61.9792,B36,Cherbourg,49.639,-1.625,20,1
+919,Not Survived,Class 3,Daher. Mr. Shedid,male,22,0,0,2698,7.225,,Cherbourg,49.639,-1.625,20,3
+920,Survived,Class 1,Brady. Mr. John Bertram,male,41,0,0,113054,30.5,A21,Southampton,50.909698,-1.404351,40,1
+921,Not Survived,Class 3,Samaan. Mr. Elias,male,,2,0,2662,21.6792,,Cherbourg,49.639,-1.625,-1,3
+922,Not Survived,Class 2,Louch. Mr. Charles Alexander,male,50,1,0,SC/AH 3085,26,,Southampton,50.909698,-1.404351,50,2
+923,Survived,Class 2,Jefferys. Mr. Clifford Thomas,male,24,2,0,C.A. 31029,31.5,,Southampton,50.909698,-1.404351,20,2
+924,Survived,Class 3,Dean. Mrs. Bertram (Eva Georgetta Light),female,33,1,2,C.A. 2315,20.575,,Southampton,50.909698,-1.404351,30,3
+925,Not Survived,Class 3,"Johnston. Mrs. Andrew G (Elizabeth Lily"" Watson)""",female,,1,2,W./C. 6607,23.45,,Southampton,50.909698,-1.404351,-1,3
+926,Not Survived,Class 1,Mock. Mr. Philipp Edmund,male,30,1,0,13236,57.75,C78,Cherbourg,49.639,-1.625,30,1
+927,Not Survived,Class 3,"Katavelas. Mr. Vassilios (Catavelas Vassilios"")""",male,18,0,0,2682,7.2292,,Cherbourg,49.639,-1.625,10,3
+928,Survived,Class 3,Roth. Miss. Sarah A,female,,0,0,342712,8.05,,Southampton,50.909698,-1.404351,-1,3
+929,Not Survived,Class 3,Cacic. Miss. Manda,female,21,0,0,315087,8.6625,,Southampton,50.909698,-1.404351,20,3
+930,Not Survived,Class 3,Sap. Mr. Julius,male,25,0,0,345768,9.5,,Southampton,50.909698,-1.404351,20,3
+931,Survived,Class 3,Hee. Mr. Ling,male,,0,0,1601,56.4958,,Southampton,50.909698,-1.404351,-1,3
+932,Not Survived,Class 3,Karun. Mr. Franz,male,39,0,1,349256,13.4167,,Cherbourg,49.639,-1.625,30,3
+933,Not Survived,Class 1,Franklin. Mr. Thomas Parham,male,,0,0,113778,26.55,D34,Southampton,50.909698,-1.404351,-1,1
+934,Not Survived,Class 3,Goldsmith. Mr. Nathan,male,41,0,0,SOTON/O.Q. 3101263,7.85,,Southampton,50.909698,-1.404351,40,3
+935,Survived,Class 2,Corbett. Mrs. Walter H (Irene Colvin),female,30,0,0,237249,13,,Southampton,50.909698,-1.404351,30,2
+936,Survived,Class 1,Kimball. Mrs. Edwin Nelson Jr (Gertrude Parsons),female,45,1,0,11753,52.5542,D19,Southampton,50.909698,-1.404351,40,1
+937,Not Survived,Class 3,Peltomaki. Mr. Nikolai Johannes,male,25,0,0,STON/O 2. 3101291,7.925,,Southampton,50.909698,-1.404351,20,3
+938,Not Survived,Class 1,Chevre. Mr. Paul Romaine,male,45,0,0,PC 17594,29.7,A9,Cherbourg,49.639,-1.625,40,1
+939,Survived,Class 3,Shaughnessy. Mr. Patrick,male,,0,0,370374,7.75,,Queenstown,51.851,-8.2967,-1,3
+940,Not Survived,Class 1,Bucknell. Mrs. William Robert (Emma Eliza Ward),female,60,0,0,11813,76.2917,D15,Cherbourg,49.639,-1.625,60,1
+941,Not Survived,Class 3,"Coutts. Mrs. William (Winnie Minnie"" Treanor)""",female,36,0,2,C.A. 37671,15.9,,Southampton,50.909698,-1.404351,30,3
+942,Not Survived,Class 1,Smith. Mr. Lucien Philip,male,24,1,0,13695,60,C31,Southampton,50.909698,-1.404351,20,1
+943,Not Survived,Class 2,Pulbaum. Mr. Franz,male,27,0,0,SC/PARIS 2168,15.0333,,Cherbourg,49.639,-1.625,20,2
+944,Survived,Class 2,"Hocking. Miss. Ellen Nellie""""",female,20,2,1,29105,23,,Southampton,50.909698,-1.404351,20,2
+945,Survived,Class 1,Fortune. Miss. Ethel Flora,female,28,3,2,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,20,1
+946,Not Survived,Class 2,Mangiavacchi. Mr. Serafino Emilio,male,,0,0,SC/A.3 2861,15.5792,,Cherbourg,49.639,-1.625,-1,2
+947,Survived,Class 3,Rice. Master. Albert,male,10,4,1,382652,29.125,,Queenstown,51.851,-8.2967,10,3
+948,Survived,Class 3,Cor. Mr. Bartol,male,35,0,0,349230,7.8958,,Southampton,50.909698,-1.404351,30,3
+949,Not Survived,Class 3,Abelseth. Mr. Olaus Jorgensen,male,25,0,0,348122,7.65,F G63,Southampton,50.909698,-1.404351,20,3
+950,Survived,Class 3,Davison. Mr. Thomas Henry,male,,1,0,386525,16.1,,Southampton,50.909698,-1.404351,-1,3
+951,Not Survived,Class 1,Chaudanson. Miss. Victorine,female,36,0,0,PC 17608,262.375,B61,Cherbourg,49.639,-1.625,30,1
+952,Not Survived,Class 3,Dika. Mr. Mirko,male,17,0,0,349232,7.8958,,Southampton,50.909698,-1.404351,10,3
+953,Survived,Class 2,McCrae. Mr. Arthur Gordon,male,32,0,0,237216,13.5,,Southampton,50.909698,-1.404351,30,2
+954,Not Survived,Class 3,Bjorklund. Mr. Ernst Herbert,male,18,0,0,347090,7.75,,Southampton,50.909698,-1.404351,10,3
+955,Not Survived,Class 3,Bradley. Miss. Bridget Delia,female,22,0,0,334914,7.725,,Queenstown,51.851,-8.2967,20,3
+956,Not Survived,Class 1,Ryerson. Master. John Borie,male,13,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,49.639,-1.625,10,1
+957,Survived,Class 2,Corey. Mrs. Percy C (Mary Phyllis Elizabeth Miller),female,,0,0,F.C.C. 13534,21,,Southampton,50.909698,-1.404351,-1,2
+958,Survived,Class 3,Burns. Miss. Mary Delia,female,18,0,0,330963,7.8792,,Queenstown,51.851,-8.2967,10,3
+959,Not Survived,Class 1,Moore. Mr. Clarence Bloomfield,male,47,0,0,113796,42.4,,Southampton,50.909698,-1.404351,40,1
+960,Survived,Class 1,Tucker. Mr. Gilbert Milligan Jr,male,31,0,0,2543,28.5375,C53,Cherbourg,49.639,-1.625,30,1
+961,Not Survived,Class 1,Fortune. Mrs. Mark (Mary McDougald),female,60,1,4,19950,263,C23 C25 C27,Southampton,50.909698,-1.404351,60,1
+962,Not Survived,Class 3,Mulvihill. Miss. Bertha E,female,24,0,0,382653,7.75,,Queenstown,51.851,-8.2967,20,3
+963,Not Survived,Class 3,Minkoff. Mr. Lazar,male,21,0,0,349211,7.8958,,Southampton,50.909698,-1.404351,20,3
+964,Not Survived,Class 3,Nieminen. Miss. Manta Josefina,female,29,0,0,3101297,7.925,,Southampton,50.909698,-1.404351,20,3
+965,Not Survived,Class 1,Ovies y Rodriguez. Mr. Servando,male,28,0,0,PC 17562,27.7208,D43,Cherbourg,49.639,-1.625,20,1
+966,Survived,Class 1,Geiger. Miss. Amalie,female,35,0,0,113503,211.5,C130,Cherbourg,49.639,-1.625,30,1
+967,Not Survived,Class 1,Keeping. Mr. Edwin,male,32,0,0,113503,211.5,C132,Cherbourg,49.639,-1.625,30,1
+968,Not Survived,Class 3,Miles. Mr. Frank,male,,0,0,359306,8.05,,Southampton,50.909698,-1.404351,-1,3
+969,Not Survived,Class 1,Cornell. Mrs. Robert Clifford (Malvina Helen Lamson),female,55,2,0,11770,25.7,C101,Southampton,50.909698,-1.404351,50,1
+970,Survived,Class 2,Aldworth. Mr. Charles Augustus,male,30,0,0,248744,13,,Southampton,50.909698,-1.404351,30,2
+971,Survived,Class 3,Doyle. Miss. Elizabeth,female,24,0,0,368702,7.75,,Queenstown,51.851,-8.2967,20,3
+972,Not Survived,Class 3,Boulos. Master. Akar,male,6,1,1,2678,15.2458,,Cherbourg,49.639,-1.625,0,3
+973,Survived,Class 1,Straus. Mr. Isidor,male,67,1,0,PC 17483,221.7792,C55 C57,Southampton,50.909698,-1.404351,60,1
+974,Survived,Class 1,Case. Mr. Howard Brown,male,49,0,0,19924,26,,Southampton,50.909698,-1.404351,40,1
+975,Not Survived,Class 3,Demetri. Mr. Marinko,male,,0,0,349238,7.8958,,Southampton,50.909698,-1.404351,-1,3
+976,Survived,Class 2,Lamb. Mr. John Joseph,male,,0,0,240261,10.7083,,Queenstown,51.851,-8.2967,-1,2
+977,Survived,Class 3,Khalil. Mr. Betros,male,,1,0,2660,14.4542,,Cherbourg,49.639,-1.625,-1,3
+978,Not Survived,Class 3,Barry. Miss. Julia,female,27,0,0,330844,7.8792,,Queenstown,51.851,-8.2967,20,3
+979,Not Survived,Class 3,Badman. Miss. Emily Louisa,female,18,0,0,A/4 31416,8.05,,Southampton,50.909698,-1.404351,10,3
+980,Survived,Class 3,O'Donoghue. Ms. Bridget,female,,0,0,364856,7.75,,Queenstown,51.851,-8.2967,-1,3
+981,Not Survived,Class 2,Wells. Master. Ralph Lester,male,2,1,1,29103,23,,Southampton,50.909698,-1.404351,0,2
+982,Not Survived,Class 3,Dyker. Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson),female,22,1,0,347072,13.9,,Southampton,50.909698,-1.404351,20,3
+983,Not Survived,Class 3,Pedersen. Mr. Olaf,male,,0,0,345498,7.775,,Southampton,50.909698,-1.404351,-1,3
+984,Not Survived,Class 1,Davidson. Mrs. Thornton (Orian Hays),female,27,1,2,F.C. 12750,52,B71,Southampton,50.909698,-1.404351,20,1
+985,Not Survived,Class 3,Guest. Mr. Robert,male,,0,0,376563,8.05,,Southampton,50.909698,-1.404351,-1,3
+986,Not Survived,Class 1,Birnbaum. Mr. Jakob,male,25,0,0,13905,26,,Cherbourg,49.639,-1.625,20,1
+987,Not Survived,Class 3,Tenglin. Mr. Gunnar Isidor,male,25,0,0,350033,7.7958,,Southampton,50.909698,-1.404351,20,3
+988,Not Survived,Class 1,Cavendish. Mrs. Tyrell William (Julia Florence Siegel),female,76,1,0,19877,78.85,C46,Southampton,50.909698,-1.404351,70,1
+989,Survived,Class 3,Makinen. Mr. Kalle Edvard,male,29,0,0,STON/O 2. 3101268,7.925,,Southampton,50.909698,-1.404351,20,3
+990,Survived,Class 3,Braf. Miss. Elin Ester Maria,female,20,0,0,347471,7.8542,,Southampton,50.909698,-1.404351,20,3
+991,Not Survived,Class 3,Nancarrow. Mr. William Henry,male,33,0,0,A./5. 3338,8.05,,Southampton,50.909698,-1.404351,30,3
+992,Not Survived,Class 1,Stengel. Mrs. Charles Emil Henry (Annie May Morris),female,43,1,0,11778,55.4417,C116,Cherbourg,49.639,-1.625,40,1
+993,Not Survived,Class 2,Weisz. Mr. Leopold,male,27,1,0,228414,26,,Southampton,50.909698,-1.404351,20,2
+994,Not Survived,Class 3,Foley. Mr. William,male,,0,0,365235,7.75,,Queenstown,51.851,-8.2967,-1,3
+995,Not Survived,Class 3,Johansson Palmquist. Mr. Oskar Leander,male,26,0,0,347070,7.775,,Southampton,50.909698,-1.404351,20,3
+996,Not Survived,Class 3,"Thomas. Mrs. Alexander (Thamine Thelma"")""",female,16,1,1,2625,8.5167,,Cherbourg,49.639,-1.625,10,3
+997,Not Survived,Class 3,Holthen. Mr. Johan Martin,male,28,0,0,C 4001,22.525,,Southampton,50.909698,-1.404351,20,3
+998,Survived,Class 3,Buckley. Mr. Daniel,male,21,0,0,330920,7.8208,,Queenstown,51.851,-8.2967,20,3
+999,Survived,Class 3,Ryan. Mr. Edward,male,,0,0,383162,7.75,,Queenstown,51.851,-8.2967,-1,3
+1000,Not Survived,Class 3,"Willer. Mr. Aaron (Abi Weller"")""",male,,0,0,3410,8.7125,,Southampton,50.909698,-1.404351,-1,3
+1001,Survived,Class 2,Swane. Mr. George,male,18,0,0,248734,13,F,Southampton,50.909698,-1.404351,10,2
+1002,Not Survived,Class 2,Stanton. Mr. Samuel Ward,male,41,0,0,237734,15.0458,,Cherbourg,49.639,-1.625,40,2
+1003,Not Survived,Class 3,Shine. Miss. Ellen Natalia,female,,0,0,330968,7.7792,,Queenstown,51.851,-8.2967,-1,3
+1004,Not Survived,Class 1,Evans. Miss. Edith Corse,female,36,0,0,PC 17531,31.6792,A29,Cherbourg,49.639,-1.625,30,1
+1005,Not Survived,Class 3,Buckley. Miss. Katherine,female,18,0,0,329944,7.2833,,Queenstown,51.851,-8.2967,10,3
+1006,Not Survived,Class 1,Straus. Mrs. Isidor (Rosalie Ida Blun),female,63,1,0,PC 17483,221.7792,C55 C57,Southampton,50.909698,-1.404351,60,1
+1007,Not Survived,Class 3,Chronopoulos. Mr. Demetrios,male,18,1,0,2680,14.4542,,Cherbourg,49.639,-1.625,10,3
+1008,Not Survived,Class 3,Thomas. Mr. John,male,,0,0,2681,6.4375,,Cherbourg,49.639,-1.625,-1,3
+1009,Not Survived,Class 3,Sandstrom. Miss. Beatrice Irene,female,1,1,1,PP 9549,16.7,G6,Southampton,50.909698,-1.404351,0,3
+1010,Not Survived,Class 1,Beattie. Mr. Thomson,male,36,0,0,13050,75.2417,C6,Cherbourg,49.639,-1.625,30,1
+1011,Not Survived,Class 2,Chapman. Mrs. John Henry (Sara Elizabeth Lawry),female,29,1,0,SC/AH 29037,26,,Southampton,50.909698,-1.404351,20,2
+1012,Not Survived,Class 2,Watt. Miss. Bertha J,female,12,0,0,C.A. 33595,15.75,,Southampton,50.909698,-1.404351,10,2
+1013,Not Survived,Class 3,Kiernan. Mr. John,male,,1,0,367227,7.75,,Queenstown,51.851,-8.2967,-1,3
+1014,Not Survived,Class 1,Schabert. Mrs. Paul (Emma Mock),female,35,1,0,13236,57.75,C28,Cherbourg,49.639,-1.625,30,1
+1015,Survived,Class 3,Carver. Mr. Alfred John,male,28,0,0,392095,7.25,,Southampton,50.909698,-1.404351,20,3
+1016,Not Survived,Class 3,Kennedy. Mr. John,male,,0,0,368783,7.75,,Queenstown,51.851,-8.2967,-1,3
+1017,Survived,Class 3,Cribb. Miss. Laura Alice,female,17,0,1,371362,16.1,,Southampton,50.909698,-1.404351,10,3
+1018,Not Survived,Class 3,Brobeck. Mr. Karl Rudolf,male,22,0,0,350045,7.7958,,Southampton,50.909698,-1.404351,20,3
+1019,Survived,Class 3,McCoy. Miss. Alicia,female,,2,0,367226,23.25,,Queenstown,51.851,-8.2967,-1,3
+1020,Survived,Class 2,Bowenur. Mr. Solomon,male,42,0,0,211535,13,,Southampton,50.909698,-1.404351,40,2
+1021,Not Survived,Class 3,Petersen. Mr. Marius,male,24,0,0,342441,8.05,,Southampton,50.909698,-1.404351,20,3
+1022,Not Survived,Class 3,Spinner. Mr. Henry John,male,32,0,0,STON/OQ. 369943,8.05,,Southampton,50.909698,-1.404351,30,3
+1023,Not Survived,Class 1,Gracie. Col. Archibald IV,male,53,0,0,113780,28.5,C51,Cherbourg,49.639,-1.625,50,1
+1024,Not Survived,Class 3,Lefebre. Mrs. Frank (Frances),female,,0,4,4133,25.4667,,Southampton,50.909698,-1.404351,-1,3
+1025,Survived,Class 3,Thomas. Mr. Charles P,male,,1,0,2621,6.4375,,Cherbourg,49.639,-1.625,-1,3
+1026,Not Survived,Class 3,Dintcheff. Mr. Valtcho,male,43,0,0,349226,7.8958,,Southampton,50.909698,-1.404351,40,3
+1027,Not Survived,Class 3,Carlsson. Mr. Carl Robert,male,24,0,0,350409,7.8542,,Southampton,50.909698,-1.404351,20,3
+1028,Survived,Class 3,Zakarian. Mr. Mapriededer,male,26,0,0,2656,7.225,,Cherbourg,49.639,-1.625,20,3
+1029,Not Survived,Class 2,Schmidt. Mr. August,male,26,0,0,248659,13,,Southampton,50.909698,-1.404351,20,2
+1030,Not Survived,Class 3,Drapkin. Miss. Jennie,female,23,0,0,SOTON/OQ 392083,8.05,,Southampton,50.909698,-1.404351,20,3
+1031,Not Survived,Class 3,Goodwin. Mr. Charles Frederick,male,40,1,6,CA 2144,46.9,,Southampton,50.909698,-1.404351,40,3
+1032,Not Survived,Class 3,Goodwin. Miss. Jessie Allis,female,10,5,2,CA 2144,46.9,,Southampton,50.909698,-1.404351,10,3
+1033,Survived,Class 1,Daniels. Miss. Sarah,female,33,0,0,113781,151.55,,Southampton,50.909698,-1.404351,30,1
+1034,Survived,Class 1,Ryerson. Mr. Arthur Larned,male,61,1,3,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,49.639,-1.625,60,1
+1035,Not Survived,Class 2,Beauchamp. Mr. Henry James,male,28,0,0,244358,26,,Southampton,50.909698,-1.404351,20,2
+1036,Not Survived,Class 1,"Lindeberg-Lind. Mr. Erik Gustaf (Mr Edward Lingrey"")""",male,42,0,0,17475,26.55,,Southampton,50.909698,-1.404351,40,1
+1037,Not Survived,Class 3,Vander Planke. Mr. Julius,male,31,3,0,345763,18,,Southampton,50.909698,-1.404351,30,3
+1038,Survived,Class 1,Hilliard. Mr. Herbert Henry,male,,0,0,17463,51.8625,E46,Southampton,50.909698,-1.404351,-1,1
+1039,Not Survived,Class 3,Davies. Mr. Evan,male,22,0,0,SC/A4 23568,8.05,,Southampton,50.909698,-1.404351,20,3
+1040,Not Survived,Class 1,Crafton. Mr. John Bertram,male,,0,0,113791,26.55,,Southampton,50.909698,-1.404351,-1,1
+1041,Not Survived,Class 2,Lahtinen. Rev. William,male,30,1,1,250651,26,,Southampton,50.909698,-1.404351,30,2
+1042,Not Survived,Class 1,Earnshaw. Mrs. Boulton (Olive Potter),female,23,0,1,11767,83.1583,C54,Cherbourg,49.639,-1.625,20,1
+1043,Survived,Class 3,Matinoff. Mr. Nicola,male,,0,0,349255,7.8958,,Cherbourg,49.639,-1.625,-1,3
+1044,Not Survived,Class 3,Storey. Mr. Thomas,male,60,0,0,3701,,,Southampton,50.909698,-1.404351,60,3
+1045,Not Survived,Class 3,Klasen. Mrs. (Hulda Kristina Eugenia Lofqvist),female,36,0,2,350405,12.1833,,Southampton,50.909698,-1.404351,30,3
+1046,Not Survived,Class 3,Asplund. Master. Filip Oscar,male,13,4,2,347077,31.3875,,Southampton,50.909698,-1.404351,10,3
+1047,Not Survived,Class 3,Duquemin. Mr. Joseph,male,24,0,0,S.O./P.P. 752,7.55,,Southampton,50.909698,-1.404351,20,3
+1048,Survived,Class 1,Bird. Miss. Ellen,female,29,0,0,PC 17483,221.7792,C97,Southampton,50.909698,-1.404351,20,1
+1049,Not Survived,Class 3,Lundin. Miss. Olga Elida,female,23,0,0,347469,7.8542,,Southampton,50.909698,-1.404351,20,3
+1050,Not Survived,Class 1,Borebank. Mr. John James,male,42,0,0,110489,26.55,D22,Southampton,50.909698,-1.404351,40,1
+1051,Not Survived,Class 3,Peacock. Mrs. Benjamin (Edith Nile),female,26,0,2,SOTON/O.Q. 3101315,13.775,,Southampton,50.909698,-1.404351,20,3
+1052,Not Survived,Class 3,Smyth. Miss. Julia,female,,0,0,335432,7.7333,,Queenstown,51.851,-8.2967,-1,3
+1053,Survived,Class 3,Touma. Master. Georges Youssef,male,7,1,1,2650,15.2458,,Cherbourg,49.639,-1.625,0,3
+1054,Not Survived,Class 2,Wright. Miss. Marion,female,26,0,0,220844,13.5,,Southampton,50.909698,-1.404351,20,2
+1055,Not Survived,Class 3,Pearce. Mr. Ernest,male,,0,0,343271,7,,Southampton,50.909698,-1.404351,-1,3
+1056,Not Survived,Class 2,Peruschitz. Rev. Joseph Maria,male,41,0,0,237393,13,,Southampton,50.909698,-1.404351,40,2
+1057,Survived,Class 3,Kink-Heilmann. Mrs. Anton (Luise Heilmann),female,26,1,1,315153,22.025,,Southampton,50.909698,-1.404351,20,3
+1058,Survived,Class 1,Brandeis. Mr. Emil,male,48,0,0,PC 17591,50.4958,B10,Cherbourg,49.639,-1.625,40,1
+1059,Not Survived,Class 3,Ford. Mr. Edward Watson,male,18,2,2,W./C. 6608,34.375,,Southampton,50.909698,-1.404351,10,3
+1060,Not Survived,Class 1,Cassebeer. Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick),female,,0,0,17770,27.7208,,Cherbourg,49.639,-1.625,-1,1
+1061,Not Survived,Class 3,Hellstrom. Miss. Hilda Maria,female,22,0,0,7548,8.9625,,Southampton,50.909698,-1.404351,20,3
+1062,Not Survived,Class 3,Lithman. Mr. Simon,male,,0,0,S.O./P.P. 251,7.55,,Southampton,50.909698,-1.404351,-1,3
+1063,Not Survived,Class 3,Zakarian. Mr. Ortin,male,27,0,0,2670,7.225,,Cherbourg,49.639,-1.625,20,3
+1064,Survived,Class 3,Dyker. Mr. Adolf Fredrik,male,23,1,0,347072,13.9,,Southampton,50.909698,-1.404351,20,3
+1065,Not Survived,Class 3,Torfa. Mr. Assad,male,,0,0,2673,7.2292,,Cherbourg,49.639,-1.625,-1,3
+1066,Not Survived,Class 3,Asplund. Mr. Carl Oscar Vilhelm Gustafsson,male,40,1,5,347077,31.3875,,Southampton,50.909698,-1.404351,40,3
+1067,Not Survived,Class 2,Brown. Miss. Edith Eileen,female,15,0,2,29750,39,,Southampton,50.909698,-1.404351,10,2
+1068,Not Survived,Class 2,Sincock. Miss. Maude,female,20,0,0,C.A. 33112,36.75,,Southampton,50.909698,-1.404351,20,2
+1069,Not Survived,Class 1,Stengel. Mr. Charles Emil Henry,male,54,1,0,11778,55.4417,C116,Cherbourg,49.639,-1.625,50,1
+1070,Not Survived,Class 2,Becker. Mrs. Allen Oliver (Nellie E Baumgardner),female,36,0,3,230136,39,F4,Southampton,50.909698,-1.404351,30,2
+1071,Not Survived,Class 1,Compton. Mrs. Alexander Taylor (Mary Eliza Ingersoll),female,64,0,2,PC 17756,83.1583,E45,Cherbourg,49.639,-1.625,60,1
+1072,Not Survived,Class 2,McCrie. Mr. James Matthew,male,30,0,0,233478,13,,Southampton,50.909698,-1.404351,30,2
+1073,Not Survived,Class 1,Compton. Mr. Alexander Taylor Jr,male,37,1,1,PC 17756,83.1583,E52,Cherbourg,49.639,-1.625,30,1
+1074,Not Survived,Class 1,Marvin. Mrs. Daniel Warner (Mary Graham Carmichael Farquarson),female,18,1,0,113773,53.1,D30,Southampton,50.909698,-1.404351,10,1
+1075,Survived,Class 3,Lane. Mr. Patrick,male,,0,0,7935,7.75,,Queenstown,51.851,-8.2967,-1,3
+1076,Survived,Class 1,Douglas. Mrs. Frederick Charles (Mary Helene Baxter),female,27,1,1,PC 17558,247.5208,B58 B60,Cherbourg,49.639,-1.625,20,1
+1077,Not Survived,Class 2,Maybery. Mr. Frank Hubert,male,40,0,0,239059,16,,Southampton,50.909698,-1.404351,40,2
+1078,Survived,Class 2,Phillips. Miss. Alice Frances Louisa,female,21,0,1,S.O./P.P. 2,21,,Southampton,50.909698,-1.404351,20,2
+1079,Survived,Class 3,Davies. Mr. Joseph,male,17,2,0,A/4 48873,8.05,,Southampton,50.909698,-1.404351,10,3
+1080,Not Survived,Class 3,Sage. Miss. Ada,female,,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+1081,Not Survived,Class 2,Veal. Mr. James,male,40,0,0,28221,13,,Southampton,50.909698,-1.404351,40,2
+1082,Survived,Class 2,Angle. Mr. William A,male,34,1,0,226875,26,,Southampton,50.909698,-1.404351,30,2
+1083,Not Survived,Class 1,Salomon. Mr. Abraham L,male,,0,0,111163,26,,Southampton,50.909698,-1.404351,-1,1
+1084,Survived,Class 3,van Billiard. Master. Walter John,male,11,1,1,A/5. 851,14.5,,Southampton,50.909698,-1.404351,10,3
+1085,Survived,Class 2,Lingane. Mr. John,male,61,0,0,235509,12.35,,Queenstown,51.851,-8.2967,60,2
+1086,Survived,Class 2,Drew. Master. Marshall Brines,male,8,0,2,28220,32.5,,Southampton,50.909698,-1.404351,0,2
+1087,Survived,Class 3,Karlsson. Mr. Julius Konrad Eugen,male,33,0,0,347465,7.8542,,Southampton,50.909698,-1.404351,30,3
+1088,Not Survived,Class 1,Spedden. Master. Robert Douglas,male,6,0,2,16966,134.5,E34,Cherbourg,49.639,-1.625,0,1
+1089,Not Survived,Class 3,Nilsson. Miss. Berta Olivia,female,18,0,0,347066,7.775,,Southampton,50.909698,-1.404351,10,3
+1090,Survived,Class 2,Baimbrigge. Mr. Charles Robert,male,23,0,0,C.A. 31030,10.5,,Southampton,50.909698,-1.404351,20,2
+1091,Not Survived,Class 3,Rasmussen. Mrs. (Lena Jacobsen Solvang),female,,0,0,65305,8.1125,,Southampton,50.909698,-1.404351,-1,3
+1092,Not Survived,Class 3,Murphy. Miss. Nora,female,,0,0,36568,15.5,,Queenstown,51.851,-8.2967,-1,3
+1093,Not Survived,Class 3,Danbom. Master. Gilbert Sigvard Emanuel,male,0,0,2,347080,14.4,,Southampton,50.909698,-1.404351,0,3
+1094,Not Survived,Class 1,Astor. Col. John Jacob,male,47,1,0,PC 17757,227.525,C62 C64,Cherbourg,49.639,-1.625,40,1
+1095,Not Survived,Class 2,Quick. Miss. Winifred Vera,female,8,1,1,26360,26,,Southampton,50.909698,-1.404351,0,2
+1096,Survived,Class 2,Andrew. Mr. Frank Thomas,male,25,0,0,C.A. 34050,10.5,,Southampton,50.909698,-1.404351,20,2
+1097,Not Survived,Class 1,Omont. Mr. Alfred Fernand,male,,0,0,F.C. 12998,25.7417,,Cherbourg,49.639,-1.625,-1,1
+1098,Not Survived,Class 3,McGowan. Miss. Katherine,female,35,0,0,9232,7.75,,Queenstown,51.851,-8.2967,30,3
+1099,Survived,Class 2,Collett. Mr. Sidney C Stuart,male,24,0,0,28034,10.5,,Southampton,50.909698,-1.404351,20,2
+1100,Survived,Class 1,Rosenbaum. Miss. Edith Louise,female,33,0,0,PC 17613,27.7208,A11,Cherbourg,49.639,-1.625,30,1
+1101,Survived,Class 3,Delalic. Mr. Redjo,male,25,0,0,349250,7.8958,,Southampton,50.909698,-1.404351,20,3
+1102,Not Survived,Class 3,Andersen. Mr. Albert Karvin,male,32,0,0,C 4001,22.525,,Southampton,50.909698,-1.404351,30,3
+1103,Survived,Class 3,Finoli. Mr. Luigi,male,,0,0,SOTON/O.Q. 3101308,7.05,,Southampton,50.909698,-1.404351,-1,3
+1104,Not Survived,Class 2,Deacon. Mr. Percy William,male,17,0,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,10,2
+1105,Not Survived,Class 2,Howard. Mrs. Benjamin (Ellen Truelove Arman),female,60,1,0,24065,26,,Southampton,50.909698,-1.404351,60,2
+1106,Not Survived,Class 3,Andersson. Miss. Ida Augusta Margareta,female,38,4,2,347091,7.775,,Southampton,50.909698,-1.404351,30,3
+1107,Survived,Class 1,Head. Mr. Christopher,male,42,0,0,113038,42.5,B11,Southampton,50.909698,-1.404351,40,1
+1108,Survived,Class 3,Mahon. Miss. Bridget Delia,female,,0,0,330924,7.8792,,Queenstown,51.851,-8.2967,-1,3
+1109,Not Survived,Class 1,Wick. Mr. George Dennick,male,57,1,1,36928,164.8667,,Southampton,50.909698,-1.404351,50,1
+1110,Survived,Class 1,Widener. Mrs. George Dunton (Eleanor Elkins),female,50,1,1,113503,211.5,C80,Cherbourg,49.639,-1.625,50,1
+1111,Not Survived,Class 3,Thomson. Mr. Alexander Morrison,male,,0,0,32302,8.05,,Southampton,50.909698,-1.404351,-1,3
+1112,Survived,Class 2,Duran y More. Miss. Florentina,female,30,1,0,SC/PARIS 2148,13.8583,,Cherbourg,49.639,-1.625,30,2
+1113,Not Survived,Class 3,Reynolds. Mr. Harold J,male,21,0,0,342684,8.05,,Southampton,50.909698,-1.404351,20,3
+1114,Not Survived,Class 2,Cook. Mrs. (Selena Rogers),female,22,0,0,W./C. 14266,10.5,F33,Southampton,50.909698,-1.404351,20,2
+1115,Not Survived,Class 3,Karlsson. Mr. Einar Gervasius,male,21,0,0,350053,7.7958,,Southampton,50.909698,-1.404351,20,3
+1116,Survived,Class 1,Candee. Mrs. Edward (Helen Churchill Hungerford),female,53,0,0,PC 17606,27.4458,,Cherbourg,49.639,-1.625,50,1
+1117,Not Survived,Class 3,"Moubarek. Mrs. George (Omine Amenia"" Alexander)""",female,,0,2,2661,15.2458,,Cherbourg,49.639,-1.625,-1,3
+1118,Survived,Class 3,Asplund. Mr. Johan Charles,male,23,0,0,350054,7.7958,,Southampton,50.909698,-1.404351,20,3
+1119,Not Survived,Class 3,McNeill. Miss. Bridget,female,,0,0,370368,7.75,,Queenstown,51.851,-8.2967,-1,3
+1120,Not Survived,Class 3,Everett. Mr. Thomas James,male,40,0,0,C.A. 6212,15.1,,Southampton,50.909698,-1.404351,40,3
+1121,Not Survived,Class 2,Hocking. Mr. Samuel James Metcalfe,male,36,0,0,242963,13,,Southampton,50.909698,-1.404351,30,2
+1122,Survived,Class 2,Sweet. Mr. George Frederick,male,14,0,0,220845,65,,Southampton,50.909698,-1.404351,10,2
+1123,Not Survived,Class 1,Willard. Miss. Constance,female,21,0,0,113795,26.55,,Southampton,50.909698,-1.404351,20,1
+1124,Not Survived,Class 3,Wiklund. Mr. Karl Johan,male,21,1,0,3101266,6.4958,,Southampton,50.909698,-1.404351,20,3
+1125,Survived,Class 3,Linehan. Mr. Michael,male,,0,0,330971,7.8792,,Queenstown,51.851,-8.2967,-1,3
+1126,Not Survived,Class 1,Cumings. Mr. John Bradley,male,39,1,0,PC 17599,71.2833,C85,Cherbourg,49.639,-1.625,30,1
+1127,Not Survived,Class 3,Vendel. Mr. Olof Edvin,male,20,0,0,350416,7.8542,,Southampton,50.909698,-1.404351,20,3
+1128,Not Survived,Class 1,Warren. Mr. Frank Manley,male,64,1,0,110813,75.25,D37,Cherbourg,49.639,-1.625,60,1
+1129,Survived,Class 3,Baccos. Mr. Raffull,male,20,0,0,2679,7.225,,Cherbourg,49.639,-1.625,20,3
+1130,Not Survived,Class 2,Hiltunen. Miss. Marta,female,18,1,1,250650,13,,Southampton,50.909698,-1.404351,10,2
+1131,Not Survived,Class 1,Douglas. Mrs. Walter Donald (Mahala Dutton),female,48,1,0,PC 17761,106.425,C86,Cherbourg,49.639,-1.625,40,1
+1132,Not Survived,Class 1,Lindstrom. Mrs. Carl Johan (Sigrid Posse),female,55,0,0,112377,27.7208,,Cherbourg,49.639,-1.625,50,1
+1133,Survived,Class 2,Christy. Mrs. (Alice Frances),female,45,0,2,237789,30,,Southampton,50.909698,-1.404351,40,2
+1134,Not Survived,Class 1,Spedden. Mr. Frederic Oakley,male,45,1,1,16966,134.5,E34,Cherbourg,49.639,-1.625,40,1
+1135,Not Survived,Class 3,Hyman. Mr. Abraham,male,,0,0,3470,7.8875,,Southampton,50.909698,-1.404351,-1,3
+1136,Not Survived,Class 3,"Johnston. Master. William Arthur Willie""""",male,,1,2,W./C. 6607,23.45,,Southampton,50.909698,-1.404351,-1,3
+1137,Not Survived,Class 1,Kenyon. Mr. Frederick R,male,41,1,0,17464,51.8625,D21,Southampton,50.909698,-1.404351,40,1
+1138,Not Survived,Class 2,Karnes. Mrs. J Frank (Claire Bennett),female,22,0,0,F.C.C. 13534,21,,Southampton,50.909698,-1.404351,20,2
+1139,Survived,Class 2,Drew. Mr. James Vivian,male,42,1,1,28220,32.5,,Southampton,50.909698,-1.404351,40,2
+1140,Survived,Class 2,Hold. Mrs. Stephen (Annie Margaret Hill),female,29,1,0,26707,26,,Southampton,50.909698,-1.404351,20,2
+1141,Not Survived,Class 3,"Khalil. Mrs. Betros (Zahie Maria"" Elias)""",female,,1,0,2660,14.4542,,Cherbourg,49.639,-1.625,-1,3
+1142,Not Survived,Class 2,West. Miss. Barbara J,female,0,1,2,C.A. 34651,27.75,,Southampton,50.909698,-1.404351,0,2
+1143,Not Survived,Class 3,Abrahamsson. Mr. Abraham August Johannes,male,20,0,0,SOTON/O2 3101284,7.925,,Southampton,50.909698,-1.404351,20,3
+1144,Not Survived,Class 1,Clark. Mr. Walter Miller,male,27,1,0,13508,136.7792,C89,Cherbourg,49.639,-1.625,20,1
+1145,Not Survived,Class 3,Salander. Mr. Karl Johan,male,24,0,0,7266,9.325,,Southampton,50.909698,-1.404351,20,3
+1146,Not Survived,Class 3,Wenzel. Mr. Linhart,male,32,0,0,345775,9.5,,Southampton,50.909698,-1.404351,30,3
+1147,Survived,Class 3,MacKay. Mr. George William,male,,0,0,C.A. 42795,7.55,,Southampton,50.909698,-1.404351,-1,3
+1148,Survived,Class 3,Mahon. Mr. John,male,,0,0,AQ/4 3130,7.75,,Queenstown,51.851,-8.2967,-1,3
+1149,Survived,Class 3,Niklasson. Mr. Samuel,male,28,0,0,363611,8.05,,Southampton,50.909698,-1.404351,20,3
+1150,Survived,Class 2,Bentham. Miss. Lilian W,female,19,0,0,28404,13,,Southampton,50.909698,-1.404351,10,2
+1151,Survived,Class 3,Midtsjo. Mr. Karl Albert,male,21,0,0,345501,7.775,,Southampton,50.909698,-1.404351,20,3
+1152,Not Survived,Class 3,de Messemaeker. Mr. Guillaume Joseph,male,36,1,0,345572,17.4,,Southampton,50.909698,-1.404351,30,3
+1153,Survived,Class 3,Nilsson. Mr. August Ferdinand,male,21,0,0,350410,7.8542,,Southampton,50.909698,-1.404351,20,3
+1154,Not Survived,Class 2,"Wells. Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",female,29,0,2,29103,23,,Southampton,50.909698,-1.404351,20,2
+1155,Not Survived,Class 3,Klasen. Miss. Gertrud Emilia,female,1,1,1,350405,12.1833,,Southampton,50.909698,-1.404351,0,3
+1156,Not Survived,Class 2,Portaluppi. Mr. Emilio Ilario Giuseppe,male,30,0,0,C.A. 34644,12.7375,,Cherbourg,49.639,-1.625,30,2
+1157,Not Survived,Class 3,Lyntakoff. Mr. Stanko,male,,0,0,349235,7.8958,,Southampton,50.909698,-1.404351,-1,3
+1158,Not Survived,Class 1,Chisholm. Mr. Roderick Robert Crispin,male,,0,0,112051,0,,Southampton,50.909698,-1.404351,-1,1
+1159,Survived,Class 3,Warren. Mr. Charles William,male,,0,0,C.A. 49867,7.55,,Southampton,50.909698,-1.404351,-1,3
+1160,Survived,Class 3,Howard. Miss. May Elizabeth,female,,0,0,A. 2. 39186,8.05,,Southampton,50.909698,-1.404351,-1,3
+1161,Survived,Class 3,Pokrnic. Mr. Mate,male,17,0,0,315095,8.6625,,Southampton,50.909698,-1.404351,10,3
+1162,Not Survived,Class 1,McCaffry. Mr. Thomas Francis,male,46,0,0,13050,75.2417,C6,Cherbourg,49.639,-1.625,40,1
+1163,Survived,Class 3,Fox. Mr. Patrick,male,,0,0,368573,7.75,,Queenstown,51.851,-8.2967,-1,3
+1164,Survived,Class 1,Clark. Mrs. Walter Miller (Virginia McDowell),female,26,1,0,13508,136.7792,C89,Cherbourg,49.639,-1.625,20,1
+1165,Not Survived,Class 3,Lennon. Miss. Mary,female,,1,0,370371,15.5,,Queenstown,51.851,-8.2967,-1,3
+1166,Survived,Class 3,Saade. Mr. Jean Nassr,male,,0,0,2676,7.225,,Cherbourg,49.639,-1.625,-1,3
+1167,Survived,Class 2,Bryhl. Miss. Dagmar Jenny Ingeborg ,female,20,1,0,236853,26,,Southampton,50.909698,-1.404351,20,2
+1168,Not Survived,Class 2,Parker. Mr. Clifford Richard,male,28,0,0,SC 14888,10.5,,Southampton,50.909698,-1.404351,20,2
+1169,Not Survived,Class 2,Faunthorpe. Mr. Harry,male,40,1,0,2926,26,,Southampton,50.909698,-1.404351,40,2
+1170,Not Survived,Class 2,Ware. Mr. John James,male,30,1,0,CA 31352,21,,Southampton,50.909698,-1.404351,30,2
+1171,Survived,Class 2,Oxenham. Mr. Percy Thomas,male,22,0,0,W./C. 14260,10.5,,Southampton,50.909698,-1.404351,20,2
+1172,Not Survived,Class 3,Oreskovic. Miss. Jelka,female,23,0,0,315085,8.6625,,Southampton,50.909698,-1.404351,20,3
+1173,Not Survived,Class 3,Peacock. Master. Alfred Edward,male,0,1,1,SOTON/O.Q. 3101315,13.775,,Southampton,50.909698,-1.404351,0,3
+1174,Not Survived,Class 3,Fleming. Miss. Honora,female,,0,0,364859,7.75,,Queenstown,51.851,-8.2967,-1,3
+1175,Survived,Class 3,Touma. Miss. Maria Youssef,female,9,1,1,2650,15.2458,,Cherbourg,49.639,-1.625,0,3
+1176,Not Survived,Class 3,Rosblom. Miss. Salli Helena,female,2,1,1,370129,20.2125,,Southampton,50.909698,-1.404351,0,3
+1177,Not Survived,Class 3,Dennis. Mr. William,male,36,0,0,A/5 21175,7.25,,Southampton,50.909698,-1.404351,30,3
+1178,Survived,Class 3,Franklin. Mr. Charles (Charles Fardon),male,,0,0,SOTON/O.Q. 3101314,7.25,,Southampton,50.909698,-1.404351,-1,3
+1179,Not Survived,Class 1,Snyder. Mr. John Pillsbury,male,24,1,0,21228,82.2667,B45,Southampton,50.909698,-1.404351,20,1
+1180,Survived,Class 3,Mardirosian. Mr. Sarkis,male,,0,0,2655,7.2292,F E46,Cherbourg,49.639,-1.625,-1,3
+1181,Survived,Class 3,Ford. Mr. Arthur,male,,0,0,A/5 1478,8.05,,Southampton,50.909698,-1.404351,-1,3
+1182,Survived,Class 1,Rheims. Mr. George Alexander Lucien,male,,0,0,PC 17607,39.6,,Southampton,50.909698,-1.404351,-1,1
+1183,Survived,Class 3,"Daly. Miss. Margaret Marcella Maggie""""",female,30,0,0,382650,6.95,,Queenstown,51.851,-8.2967,30,3
+1184,Not Survived,Class 3,Nasr. Mr. Mustafa,male,,0,0,2652,7.2292,,Cherbourg,49.639,-1.625,-1,3
+1185,Not Survived,Class 1,Dodge. Dr. Washington,male,53,1,1,33638,81.8583,A34,Southampton,50.909698,-1.404351,50,1
+1186,Not Survived,Class 3,Wittevrongel. Mr. Camille,male,36,0,0,345771,9.5,,Southampton,50.909698,-1.404351,30,3
+1187,Not Survived,Class 3,Angheloff. Mr. Minko,male,26,0,0,349202,7.8958,,Southampton,50.909698,-1.404351,20,3
+1188,Not Survived,Class 2,Laroche. Miss. Louise,female,1,1,2,SC/Paris 2123,41.5792,,Cherbourg,49.639,-1.625,0,2
+1189,Not Survived,Class 3,Samaan. Mr. Hanna,male,,2,0,2662,21.6792,,Cherbourg,49.639,-1.625,-1,3
+1190,Survived,Class 1,Loring. Mr. Joseph Holland,male,30,0,0,113801,45.5,,Southampton,50.909698,-1.404351,30,1
+1191,Survived,Class 3,Johansson. Mr. Nils,male,29,0,0,347467,7.8542,,Southampton,50.909698,-1.404351,20,3
+1192,Survived,Class 3,Olsson. Mr. Oscar Wilhelm,male,32,0,0,347079,7.775,,Southampton,50.909698,-1.404351,30,3
+1193,Survived,Class 2,Malachard. Mr. Noel,male,,0,0,237735,15.0458,D,Cherbourg,49.639,-1.625,-1,2
+1194,Not Survived,Class 2,Phillips. Mr. Escott Robert,male,43,0,1,S.O./P.P. 2,21,,Southampton,50.909698,-1.404351,40,2
+1195,Survived,Class 3,Pokrnic. Mr. Tome,male,24,0,0,315092,8.6625,,Southampton,50.909698,-1.404351,20,3
+1196,Not Survived,Class 3,"McCarthy. Miss. Catherine Katie""""",female,,0,0,383123,7.75,,Queenstown,51.851,-8.2967,-1,3
+1197,Survived,Class 1,Crosby. Mrs. Edward Gifford (Catherine Elizabeth Halstead),female,64,1,1,112901,26.55,B26,Southampton,50.909698,-1.404351,60,1
+1198,Survived,Class 1,Allison. Mr. Hudson Joshua Creighton,male,30,1,2,113781,151.55,C22 C26,Southampton,50.909698,-1.404351,30,1
+1199,Survived,Class 3,Aks. Master. Philip Frank,male,0,0,1,392091,9.35,,Southampton,50.909698,-1.404351,0,3
+1200,Not Survived,Class 1,Hays. Mr. Charles Melville,male,55,1,1,12749,93.5,B69,Southampton,50.909698,-1.404351,50,1
+1201,Survived,Class 3,Hansen. Mrs. Claus Peter (Jennie L Howard),female,45,1,0,350026,14.1083,,Southampton,50.909698,-1.404351,40,3
+1202,Survived,Class 3,Cacic. Mr. Jego Grga,male,18,0,0,315091,8.6625,,Southampton,50.909698,-1.404351,10,3
+1203,Survived,Class 3,Vartanian. Mr. David,male,22,0,0,2658,7.225,,Cherbourg,49.639,-1.625,20,3
+1204,Not Survived,Class 3,Sadowitz. Mr. Harry,male,,0,0,LP 1588,7.575,,Southampton,50.909698,-1.404351,-1,3
+1205,Not Survived,Class 3,Carr. Miss. Jeannie,female,37,0,0,368364,7.75,,Queenstown,51.851,-8.2967,30,3
+1206,Not Survived,Class 1,White. Mrs. John Stuart (Ella Holmes),female,55,0,0,PC 17760,135.6333,C32,Cherbourg,49.639,-1.625,50,1
+1207,Survived,Class 3,Hagardon. Miss. Kate,female,17,0,0,AQ/3. 30631,7.7333,,Queenstown,51.851,-8.2967,10,3
+1208,Survived,Class 1,Spencer. Mr. William Augustus,male,57,1,0,PC 17569,146.5208,B78,Cherbourg,49.639,-1.625,50,1
+1209,Not Survived,Class 2,Rogers. Mr. Reginald Harry,male,19,0,0,28004,10.5,,Southampton,50.909698,-1.404351,10,2
+1210,Survived,Class 3,Jonsson. Mr. Nils Hilding,male,27,0,0,350408,7.8542,,Southampton,50.909698,-1.404351,20,3
+1211,Survived,Class 2,Jefferys. Mr. Ernest Wilfred,male,22,2,0,C.A. 31029,31.5,,Southampton,50.909698,-1.404351,20,2
+1212,Not Survived,Class 3,Andersson. Mr. Johan Samuel,male,26,0,0,347075,7.775,,Southampton,50.909698,-1.404351,20,3
+1213,Not Survived,Class 3,Krekorian. Mr. Neshan,male,25,0,0,2654,7.2292,F E57,Cherbourg,49.639,-1.625,20,3
+1214,Survived,Class 2,Nesson. Mr. Israel,male,26,0,0,244368,13,F2,Southampton,50.909698,-1.404351,20,2
+1215,Survived,Class 1,Rowe. Mr. Alfred G,male,33,0,0,113790,26.55,,Southampton,50.909698,-1.404351,30,1
+1216,Not Survived,Class 1,Kreuchen. Miss. Emilie,female,39,0,0,24160,211.3375,,Southampton,50.909698,-1.404351,30,1
+1217,Survived,Class 3,Assam. Mr. Ali,male,23,0,0,SOTON/O.Q. 3101309,7.05,,Southampton,50.909698,-1.404351,20,3
+1218,Not Survived,Class 2,Becker. Miss. Ruth Elizabeth,female,12,2,1,230136,39,F4,Southampton,50.909698,-1.404351,10,2
+1219,Survived,Class 1,"Rosenshine. Mr. George (Mr George Thorne"")""",male,46,0,0,PC 17585,79.2,,Cherbourg,49.639,-1.625,40,1
+1220,Survived,Class 2,Clarke. Mr. Charles Valentine,male,29,1,0,2003,26,,Southampton,50.909698,-1.404351,20,2
+1221,Survived,Class 2,Enander. Mr. Ingvar,male,21,0,0,236854,13,,Southampton,50.909698,-1.404351,20,2
+1222,Survived,Class 2,Davies. Mrs. John Morgan (Elizabeth Agnes Mary White) ,female,48,0,2,C.A. 33112,36.75,,Southampton,50.909698,-1.404351,40,2
+1223,Not Survived,Class 1,Dulles. Mr. William Crothers,male,39,0,0,PC 17580,29.7,A18,Cherbourg,49.639,-1.625,30,1
+1224,Not Survived,Class 3,Thomas. Mr. Tannous,male,,0,0,2684,7.225,,Cherbourg,49.639,-1.625,-1,3
+1225,Not Survived,Class 3,"Nakid. Mrs. Said (Waika Mary"" Mowad)""",female,19,1,1,2653,15.7417,,Cherbourg,49.639,-1.625,10,3
+1226,Survived,Class 3,Cor. Mr. Ivan,male,27,0,0,349229,7.8958,,Southampton,50.909698,-1.404351,20,3
+1227,Not Survived,Class 1,Maguire. Mr. John Edward,male,30,0,0,110469,26,C106,Southampton,50.909698,-1.404351,30,1
+1228,Not Survived,Class 2,de Brito. Mr. Jose Joaquim,male,32,0,0,244360,13,,Southampton,50.909698,-1.404351,30,2
+1229,Survived,Class 3,Elias. Mr. Joseph,male,39,0,2,2675,7.2292,,Cherbourg,49.639,-1.625,30,3
+1230,Survived,Class 2,Denbury. Mr. Herbert,male,25,0,0,C.A. 31029,31.5,,Southampton,50.909698,-1.404351,20,2
+1231,Not Survived,Class 3,Betros. Master. Seman,male,,0,0,2622,7.2292,,Cherbourg,49.639,-1.625,-1,3
+1232,Survived,Class 2,Fillbrook. Mr. Joseph Charles,male,18,0,0,C.A. 15185,10.5,,Southampton,50.909698,-1.404351,10,2
+1233,Survived,Class 3,Lundstrom. Mr. Thure Edvin,male,32,0,0,350403,7.5792,,Southampton,50.909698,-1.404351,30,3
+1234,Not Survived,Class 3,Sage. Mr. John George,male,,1,9,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+1235,Not Survived,Class 1,Cardeza. Mrs. James Warburton Martinez (Charlotte Wardle Drake),female,58,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg,49.639,-1.625,50,1
+1236,Not Survived,Class 3,van Billiard. Master. James William,male,,1,1,A/5. 851,14.5,,Southampton,50.909698,-1.404351,-1,3
+1237,Survived,Class 3,Abelseth. Miss. Karen Marie,female,16,0,0,348125,7.65,,Southampton,50.909698,-1.404351,10,3
+1238,Survived,Class 2,Botsford. Mr. William Hull,male,26,0,0,237670,13,,Southampton,50.909698,-1.404351,20,2
+1239,Survived,Class 3,Whabee. Mrs. George Joseph (Shawneene Abi-Saab),female,38,0,0,2688,7.2292,,Cherbourg,49.639,-1.625,30,3
+1240,Survived,Class 2,Giles. Mr. Ralph,male,24,0,0,248726,13.5,,Southampton,50.909698,-1.404351,20,2
+1241,Not Survived,Class 2,Walcroft. Miss. Nellie,female,31,0,0,F.C.C. 13528,21,,Southampton,50.909698,-1.404351,30,2
+1242,Not Survived,Class 1,Greenfield. Mrs. Leo David (Blanche Strouse),female,45,0,1,PC 17759,63.3583,D10 D12,Cherbourg,49.639,-1.625,40,1
+1243,Not Survived,Class 2,Stokes. Mr. Philip Joseph,male,25,0,0,F.C.C. 13540,10.5,,Southampton,50.909698,-1.404351,20,2
+1244,Not Survived,Class 2,Dibden. Mr. William,male,18,0,0,S.O.C. 14879,73.5,,Southampton,50.909698,-1.404351,10,2
+1245,Not Survived,Class 2,Herman. Mr. Samuel,male,49,1,2,220845,65,,Southampton,50.909698,-1.404351,40,2
+1246,Not Survived,Class 3,"Dean. Miss. Elizabeth Gladys Millvina""""",female,0,1,2,C.A. 2315,20.575,,Southampton,50.909698,-1.404351,0,3
+1247,Not Survived,Class 1,Julian. Mr. Henry Forbes,male,50,0,0,113044,26,E60,Southampton,50.909698,-1.404351,50,1
+1248,Survived,Class 1,Brown. Mrs. John Murray (Caroline Lane Lamson),female,59,2,0,11769,51.4792,C101,Southampton,50.909698,-1.404351,50,1
+1249,Not Survived,Class 3,Lockyer. Mr. Edward,male,,0,0,1222,7.8792,,Southampton,50.909698,-1.404351,-1,3
+1250,Survived,Class 3,O'Keefe. Mr. Patrick,male,,0,0,368402,7.75,,Queenstown,51.851,-8.2967,-1,3
+1251,Survived,Class 3,Lindell. Mrs. Edvard Bengtsson (Elin Gerda Persson),female,30,1,0,349910,15.55,,Southampton,50.909698,-1.404351,30,3
+1252,Not Survived,Class 3,Sage. Master. William Henry,male,14,8,2,CA. 2343,69.55,,Southampton,50.909698,-1.404351,10,3
+1253,Not Survived,Class 2,Mallet. Mrs. Albert (Antoinette Magnin),female,24,1,1,S.C./PARIS 2079,37.0042,,Cherbourg,49.639,-1.625,20,2
+1254,Not Survived,Class 2,Ware. Mrs. John James (Florence Louise Long),female,31,0,0,CA 31352,21,,Southampton,50.909698,-1.404351,30,2
+1255,Not Survived,Class 3,Strilic. Mr. Ivan,male,27,0,0,315083,8.6625,,Southampton,50.909698,-1.404351,20,3
+1256,Not Survived,Class 1,Harder. Mrs. George Achilles (Dorothy Annan),female,25,1,0,11765,55.4417,E50,Cherbourg,49.639,-1.625,20,1
+1257,Not Survived,Class 3,Sage. Mrs. John (Annie Bullen),female,,1,9,CA. 2343,69.55,,Southampton,50.909698,-1.404351,-1,3
+1258,Survived,Class 3,Caram. Mr. Joseph,male,,1,0,2689,14.4583,,Cherbourg,49.639,-1.625,-1,3
+1259,Survived,Class 3,"Riihivouri. Miss. Susanna Juhantytar Sanni""""",female,22,0,0,3101295,39.6875,,Southampton,50.909698,-1.404351,20,3
+1260,Survived,Class 1,Gibson. Mrs. Leonard (Pauline C Boeson),female,45,0,1,112378,59.4,,Cherbourg,49.639,-1.625,40,1
+1261,Survived,Class 2,Pallas y Castello. Mr. Emilio,male,29,0,0,SC/PARIS 2147,13.8583,,Cherbourg,49.639,-1.625,20,2
+1262,Survived,Class 2,Giles. Mr. Edgar,male,21,1,0,28133,11.5,,Southampton,50.909698,-1.404351,20,2
+1263,Not Survived,Class 1,Wilson. Miss. Helen Alice,female,31,0,0,16966,134.5,E39 E41,Cherbourg,49.639,-1.625,30,1
+1264,Not Survived,Class 1,Ismay. Mr. Joseph Bruce,male,49,0,0,112058,0,B52 B54 B56,Southampton,50.909698,-1.404351,40,1
+1265,Not Survived,Class 2,Harbeck. Mr. William H,male,44,0,0,248746,13,,Southampton,50.909698,-1.404351,40,2
+1266,Not Survived,Class 1,Dodge. Mrs. Washington (Ruth Vidaver),female,54,1,1,33638,81.8583,A34,Southampton,50.909698,-1.404351,50,1
+1267,Survived,Class 1,Bowen. Miss. Grace Scott,female,45,0,0,PC 17608,262.375,,Cherbourg,49.639,-1.625,40,1
+1268,Survived,Class 3,Kink. Miss. Maria,female,22,2,0,315152,8.6625,,Southampton,50.909698,-1.404351,20,3
+1269,Not Survived,Class 2,"Cotterill. Mr. Henry Harry""""",male,21,0,0,29107,11.5,,Southampton,50.909698,-1.404351,20,2
+1270,Not Survived,Class 1,Hipkins. Mr. William Edward,male,55,0,0,680,50,C39,Southampton,50.909698,-1.404351,50,1
+1271,Not Survived,Class 3,Asplund. Master. Carl Edgar,male,5,4,2,347077,31.3875,,Southampton,50.909698,-1.404351,0,3
+1272,Survived,Class 3,O'Connor. Mr. Patrick,male,,0,0,366713,7.75,,Queenstown,51.851,-8.2967,-1,3
+1273,Survived,Class 3,Foley. Mr. Joseph,male,26,0,0,330910,7.8792,,Queenstown,51.851,-8.2967,20,3
+1274,Not Survived,Class 3,Risien. Mrs. Samuel (Emma),female,,0,0,364498,14.5,,Southampton,50.909698,-1.404351,-1,3
+1275,Survived,Class 3,McNamee. Mrs. Neal (Eileen O'Leary),female,19,1,0,376566,16.1,,Southampton,50.909698,-1.404351,10,3
+1276,Not Survived,Class 2,"Wheeler. Mr. Edwin Frederick""""",male,,0,0,SC/PARIS 2159,12.875,,Southampton,50.909698,-1.404351,-1,2
+1277,Not Survived,Class 2,Herman. Miss. Kate,female,24,1,2,220845,65,,Southampton,50.909698,-1.404351,20,2
+1278,Not Survived,Class 3,Aronsson. Mr. Ernst Axel Algot,male,24,0,0,349911,7.775,,Southampton,50.909698,-1.404351,20,3
+1279,Survived,Class 2,Ashby. Mr. John,male,57,0,0,244346,13,,Southampton,50.909698,-1.404351,50,2
+1280,Not Survived,Class 3,Canavan. Mr. Patrick,male,21,0,0,364858,7.75,,Queenstown,51.851,-8.2967,20,3
+1281,Survived,Class 3,Palsson. Master. Paul Folke,male,6,3,1,349909,21.075,,Southampton,50.909698,-1.404351,0,3
+1282,Survived,Class 1,Payne. Mr. Vivian Ponsonby,male,23,0,0,12749,93.5,B24,Southampton,50.909698,-1.404351,20,1
+1283,Survived,Class 1,Lines. Mrs. Ernest H (Elizabeth Lindsey James),female,51,0,1,PC 17592,39.4,D28,Southampton,50.909698,-1.404351,50,1
+1284,Not Survived,Class 3,Abbott. Master. Eugene Joseph,male,13,0,2,C.A. 2673,20.25,,Southampton,50.909698,-1.404351,10,3
+1285,Survived,Class 2,Gilbert. Mr. William,male,47,0,0,C.A. 30769,10.5,,Southampton,50.909698,-1.404351,40,2
+1286,Survived,Class 3,Kink-Heilmann. Mr. Anton,male,29,3,1,315153,22.025,,Southampton,50.909698,-1.404351,20,3
+1287,Not Survived,Class 1,Smith. Mrs. Lucien Philip (Mary Eloise Hughes),female,18,1,0,13695,60,C31,Southampton,50.909698,-1.404351,10,1
+1288,Not Survived,Class 3,Colbert. Mr. Patrick,male,24,0,0,371109,7.25,,Queenstown,51.851,-8.2967,20,3
+1289,Not Survived,Class 1,Frolicher-Stehli. Mrs. Maxmillian (Margaretha Emerentia Stehli),female,48,1,1,13567,79.2,B41,Cherbourg,49.639,-1.625,40,1
+1290,Not Survived,Class 3,Larsson-Rondberg. Mr. Edvard A,male,22,0,0,347065,7.775,,Southampton,50.909698,-1.404351,20,3
+1291,Survived,Class 3,Conlon. Mr. Thomas Henry,male,31,0,0,21332,7.7333,,Queenstown,51.851,-8.2967,30,3
+1292,Survived,Class 1,Bonnell. Miss. Caroline,female,30,0,0,36928,164.8667,C7,Southampton,50.909698,-1.404351,30,1
+1293,Not Survived,Class 2,Gale. Mr. Harry,male,38,1,0,28664,21,,Southampton,50.909698,-1.404351,30,2
+1294,Not Survived,Class 1,Gibson. Miss. Dorothy Winifred,female,22,0,1,112378,59.4,,Cherbourg,49.639,-1.625,20,1
+1295,Not Survived,Class 1,Carrau. Mr. Jose Pedro,male,17,0,0,113059,47.1,,Southampton,50.909698,-1.404351,10,1
+1296,Not Survived,Class 1,Frauenthal. Mr. Isaac Gerald,male,43,1,0,17765,27.7208,D40,Cherbourg,49.639,-1.625,40,1
+1297,Not Survived,Class 2,"Nourney. Mr. Alfred (Baron von Drachstedt"")""",male,20,0,0,SC/PARIS 2166,13.8625,D38,Cherbourg,49.639,-1.625,20,2
+1298,Not Survived,Class 2,Ware. Mr. William Jeffery,male,23,1,0,28666,10.5,,Southampton,50.909698,-1.404351,20,2
+1299,Survived,Class 1,Widener. Mr. George Dunton,male,50,1,1,113503,211.5,C80,Cherbourg,49.639,-1.625,50,1
+1300,Not Survived,Class 3,"Riordan. Miss. Johanna Hannah""""",female,,0,0,334915,7.7208,,Queenstown,51.851,-8.2967,-1,3
+1301,Not Survived,Class 3,Peacock. Miss. Treasteall,female,3,1,1,SOTON/O.Q. 3101315,13.775,,Southampton,50.909698,-1.404351,0,3
+1302,Not Survived,Class 3,Naughton. Miss. Hannah,female,,0,0,365237,7.75,,Queenstown,51.851,-8.2967,-1,3
+1303,Not Survived,Class 1,Minahan. Mrs. William Edward (Lillian E Thorpe),female,37,1,0,19928,90,C78,Queenstown,51.851,-8.2967,30,1
+1304,Survived,Class 3,Henriksson. Miss. Jenny Lovisa,female,28,0,0,347086,7.775,,Southampton,50.909698,-1.404351,20,3
+1305,Not Survived,Class 3,Spector. Mr. Woolf,male,,0,0,A.5. 3236,8.05,,Southampton,50.909698,-1.404351,-1,3
+1306,Survived,Class 1,Oliva y Ocana. Dona. Fermina,female,39,0,0,PC 17758,108.9,C105,Cherbourg,49.639,-1.625,30,1
+1307,Not Survived,Class 3,Saether. Mr. Simon Sivertsen,male,38,0,0,SOTON/O.Q. 3101262,7.25,,Southampton,50.909698,-1.404351,30,3
+1308,Survived,Class 3,Ware. Mr. Frederick,male,,0,0,359309,8.05,,Southampton,50.909698,-1.404351,-1,3
+1309,Survived,Class 3,Peter. Master. Michael J,male,,1,1,2668,22.3583,,Cherbourg,49.639,-1.625,-1,3
